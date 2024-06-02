@@ -1,0 +1,344 @@
+{
+  "first_name": "J2",
+  "last_name": "Download",
+  "header": {
+    "all": {
+      "title": "Pobierz film Wszystko w jednym",
+      "description": "Narzędzie do pobierania wideo All In One jest całkowicie bezpłatne. ",
+      "meta": {
+        "title": "Pobierz filmy bez logo, znaku wodnego, znaku wodnego za darmo",
+        "application_name": "Nazwa mojej aplikacji",
+        "description": "Narzędzie do pobierania wideo All In One jest całkowicie bezpłatne. ",
+        "twitter": {
+          "title": "Pobierz filmy tiktok bez logo, znaku wodnego, znaku wodnego za darmo",
+          "description": "Narzędzie do pobierania wideo All In One jest całkowicie bezpłatne. "
+        },
+        "itemprop": {
+          "name": "J2 pobierz",
+          "description": "Pobieranie wideo „wszystko w jednym” — J2download.com to jedno z najlepszych bezpłatnych narzędzi dostępnych online do pobierania filmów bez znaku wodnego."
+        },
+        "fb_app_id": "fb:id_aplikacji",
+        "og_title": "J2 Downloader — pobierz wideo w jednym — J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "mężczyznaG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "tiktok": {
+      "title": "Pobierz filmy tiktok bez logo, znaku wodnego, znaku wodnego za darmo",
+      "description": "Narzędzie do pobierania wideo Tiktok bez logo, znaku wodnego i znaku wodnego całkowicie bezpłatne. ",
+      "meta": {
+        "title": "Pobierz filmy tiktok bez logo, znaku wodnego, znaku wodnego za darmo",
+        "application_name": "Nazwa mojej aplikacji",
+        "description": "Narzędzie do pobierania wideo Tiktok bez logo, znaku wodnego i znaku wodnego całkowicie bezpłatne. ",
+        "twitter": {
+          "title": "Pobierz filmy tiktok bez logo, znaku wodnego, znaku wodnego za darmo",
+          "description": "Narzędzie do pobierania wideo Tiktok bez logo, znaku wodnego i znaku wodnego całkowicie bezpłatne. "
+        },
+        "itemprop": {
+          "name": "J2 pobierz",
+          "description": "Pobieranie wideo TikTok - J2download.com to jedno z najlepszych bezpłatnych narzędzi dostępnych online do pobierania filmów bez znaku wodnego z TikTok."
+        },
+        "fb_app_id": "fb:id_aplikacji",
+        "og_title": "J2 Downloader - pobierz wideo Tiktok bez znaku wodnego - J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "mężczyznaG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "douyin": {
+      "title": "Pobierz filmy Douyin bez logo, znaku wodnego lub znaku wodnego za darmo",
+      "description": "Narzędzie do pobierania wideo Douyin nie ma logo, znaku wodnego ani znaku wodnego całkowicie za darmo. ",
+      "meta": {
+        "title": "Pobierz filmy Douyin bez logo, znaku wodnego lub znaku wodnego za darmo",
+        "application_name": "J2 pobierz",
+        "description": "Narzędzie do pobierania wideo Douyin nie ma logo, znaku wodnego ani znaku wodnego całkowicie za darmo. ",
+        "twitter": {
+          "title": "Pobierz filmy Douyin bez logo, znaku wodnego lub znaku wodnego za darmo",
+          "description": "Narzędzie do pobierania wideo Douyin nie ma logo, znaku wodnego ani znaku wodnego całkowicie za darmo. "
+        },
+        "itemprop": {
+          "name": "J2 pobierz",
+          "description": "Douyin Video Download - J2download.com to jedno z najlepszych bezpłatnych narzędzi dostępnych online do pobierania filmów bez znaku wodnego z Douyin."
+        },
+        "fb_app_id": "fb:id_aplikacji",
+        "og_title": "J2 Downloader - pobierz wideo Tiktok bez znaku wodnego - J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "mężczyznaG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "how_to_download": {
+      "title": "Pobierz filmy bez logo, znaku wodnego, obrazów i dźwięku za darmo",
+      "description": "Całkowicie darmowy program do pobierania plików wideo. ",
+      "meta": {
+        "title": "Pobierz filmy bez logo, znaku wodnego, znaku wodnego za darmo",
+        "application_name": "Nazwa mojej aplikacji",
+        "description": "Narzędzie do pobierania wideo bez logo, znaku wodnego i znaku wodnego całkowicie bezpłatne. ",
+        "twitter": {
+          "title": "Pobierz filmy bez logo, znaku wodnego, znaku wodnego za darmo",
+          "description": "Narzędzie do pobierania wideo bez logo, znaku wodnego i znaku wodnego całkowicie bezpłatne. "
+        },
+        "itemprop": {
+          "name": "J2 pobierz",
+          "description": "Pobieranie wideo — J2download.com to jedno z najlepszych bezpłatnych narzędzi dostępnych online do pobierania filmów bez znaku wodnego."
+        },
+        "fb_app_id": "fb:id_aplikacji",
+        "og_title": "J2 Downloader — pobieraj filmy bez znaku wodnego — J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "mężczyznaG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    }
+  },
+  "title": {
+    "all": "Pobierz wszystko w jednym",
+    "tiktok": "Pobierz filmy TikTok",
+    "douyin": "Pobierz filmy Douyina",
+    "how_to_download": "Jak pobierać filmy, zdjęcia, audio"
+  },
+  "title_2": {
+    "all": "Szybko, łatwo, za darmo",
+    "tiktok": "Brak logo, slajdów, historii i dźwięku",
+    "douyin": "Brak logo, slajdów, historii i dźwięku"
+  },
+  "description": {
+    "all": "Narzędzie do pobierania wideo All In One jest całkowicie bezpłatne. ",
+    "tiktok": "Pobierz filmy TikTok bez logo, znaku wodnego lub znaku wodnego całkowicie za darmo. ",
+    "douyin": "Pobierz filmy Douyin bez logo, znaku wodnego lub znaku wodnego całkowicie za darmo. "
+  },
+  "placeholder": "Wklej tutaj link",
+  "paste_icon": "Pasta",
+  "clear_icon": "Usuwać",
+  "download_icon": "Pobierać",
+  "download": "Pobierać",
+  "home": "Strona główna",
+  "footer": {
+    "privacy_policy": "Polityka prywatności",
+    "terms_of_service": "Warunki usługi",
+    "contact_us": "Skontaktuj się z nami",
+    "about_us": "O nas",
+    "tool": {
+      "all": "Pobierz wideo i audio wszystko w jednym",
+      "tiktok": "Pobieraj filmy, slajdy i historie z Tiktok",
+      "douyin": "Pobierz filmy, slajdy, historie Douyin",
+      "how_to_download": "Jak pobierać filmy, zdjęcia, audio"
+    }
+  },
+  "share": "Udział",
+  "select_language": "Wybierz język",
+  "install_app": {
+    "ios": "/",
+    "android": "/"
+  },
+  "card": {
+    "render_video": "Renderuj filmy",
+    "preparing_render": "Preparing files to render",
+    "preparing_rendering": "Rendering...",
+    "preparing_render_complete": "Render Completed",
+    "download": "Pobierać",
+    "download_photo": "Pobierz obraz",
+    "download_video": "Pobierz filmy",
+    "download_server_2": "Pobierz serwer 2",
+    "download_other_video": "Inne pliki do pobrania",
+    "download_success": "Pobrano pomyślnie",
+    "download_error": "Pobieranie nie udane",
+    "download_mp3": "Pobierz mp3"
+  },
+  "error": "Błąd!  ",
+  "invalid_url": "Niepoprawny link!",
+  "paste_button": {
+    "success": "Wklej tekst pomyślnie!",
+    "error": "Wklejenie tekstu nie powiodło się! "
+  },
+  "container": {
+    "auto_bot": "Automatyczne pobieranie botów",
+    "support_platform": {
+      "title": "Platforma wsparcia",
+      "description": "Tiktok, Douyin, Capcut, Threads, Instagram, Facebook, Espn, Kuaishou, Pinterest, imdb, imgur, ifunny, Izlesene, Reddit, Youtube, Twitter, Vimeo, Snapchat, Bilibili, Dailymotion, Sharechat, Linkedin, Tumblr, Hipi, Telegram, Getstickerpack, Bitchute, Febspot, 9GAG, oke.ru, Rumble, Streamable, Ted, SohuTv, Xvideos, Xnxx, Xiaohongshu, Weibo, Miaopai, Meipai, Xiaoying, National Video, Yingke, Soundcloud, Mixcloud, Spotify, Zingmp3, Bandcamp."
+    },
+    "title_download": "Pobierz aplikację do pobrania J2",
+    "description_title": {
+      "all": "J2download udostępnia obecnie aplikację umożliwiającą pobieranie plików wideo i audio z wielu różnych sieci społecznościowych. ",
+      "tiktok": "Obecnie J2download udostępnia aplikację umożliwiającą pobieranie filmów TikTok. ",
+      "douyin": "J2download udostępnia obecnie aplikację umożliwiającą pobieranie filmów Douyin. "
+    },
+    "title_f14": {
+      "all": "Pobierz filmy, obrazy i audio Wszystko w jednym za darmo",
+      "tiktok": "Pobierz filmy TikTok bez logo (znaku wodnego) za darmo",
+      "douyin": "Pobierz filmy Douyin bez logo (znak wodny) za darmo"
+    },
+    "description_f14": {
+      "all": "J2download to narzędzie do bezpłatnego pobierania filmów, obrazów i plików audio online. ",
+      "tiktok": "J2download to narzędzie do pobierania filmów TikTok online bez rozmytego logo. ",
+      "douyin": "J2download to narzędzie do pobierania filmów online Douyin bez rozmazanych logo. "
+    },
+    "subtitle_f14": "Główna funkcja",
+    "main_function": {
+      "all": {
+        "1": "Pobieraj filmy, obrazy, audio. Wsparcie Pobieraj na wszystkie typy urządzeń: telefon komórkowy, komputer stacjonarny, tablet.",
+        "2": "Pobrany film nie będzie miał logo Tik Tok i identyfikatora użytkownika przyklejonych nad i pod filmem, jak w przypadku normalnych plików do pobrania.",
+        "3": "Można go pobrać za pomocą przeglądarki internetowej lub oprogramowania J2download na Androida.",
+        "4": "Wszystko za darmo. ",
+        "5": "Obsługuje pobieranie filmów, zdjęć, audio w formatach .mp3, .mp4, .jpg na wszystkie urządzenia (PC, Mac, Android, iOS).",
+        "6": "Nowy J2download umożliwia użytkownikom pobieranie pokazów slajdów w formacie MP4 Video. "
+      },
+      "tiktok": {
+        "1": "Pobierz filmy TikTok, wsparcie Pobieraj filmy TikTok na wszystkie typy urządzeń: telefon komórkowy, komputer stacjonarny, tablet. ",
+        "2": "Pobrany film nie będzie miał logo Tik Tok i identyfikatora użytkownika przyklejonych nad i pod filmem, jak w przypadku normalnych plików do pobrania.",
+        "3": "Można go pobrać za pomocą przeglądarki internetowej lub oprogramowania J2download na Androida.",
+        "4": "Wszystko za darmo. ",
+        "5": "Obsługa pobierania filmów TikTok w formacie .mp3, .mp4 na wszystkie urządzenia (PC, Mac, Android, iOS).",
+        "6": "Nowy J2download umożliwia użytkownikom pobieranie pokazów slajdów Tiktok w formacie MP4 Video. "
+      },
+      "douyin": {
+        "1": "Pobierz filmy Douyin, wsparcie. Pobierz filmy Douyin na wszystkie typy urządzeń: telefon komórkowy, komputer stacjonarny, tablet. ",
+        "2": "Pobrany film nie będzie miał logo Tik Tok i identyfikatora użytkownika przyklejonych nad i pod filmem, jak w przypadku normalnych plików do pobrania.",
+        "3": "Można go pobrać za pomocą przeglądarki internetowej lub oprogramowania J2download na Androida.",
+        "4": "Wszystko za darmo. ",
+        "5": "Obsługa pobierania filmów Douyin w formacie .mp3, .mp4 na wszystkie urządzenia (PC, Mac, Android, iOS).",
+        "6": "Nowa aplikacja J2download umożliwia użytkownikom pobieranie pokazów slajdów Douyina w formacie MP4 Video. "
+      }
+    }
+  },
+  "faq": {
+    "title": {
+      "all": {
+        "1": "Jak pobierać filmy bez znaku wodnego",
+        "2": "Gdzie jest zapisywany film po pobraniu?",
+        "3": "Czy J2download przechowuje pobrane filmy czy kopię filmu?",
+        "4": "Czy muszę instalować rozszerzenia?",
+        "5": "Czy muszę płacić za pobieranie filmów?",
+        "6": "Jak zapisać/pobrać moje ulubione filmy na iPhone'a/iPada (iOS)?",
+        "7": "Czy mogę pobierać filmy na mój telefon z Androidem?",
+        "8": "Czy istnieje ograniczenie liczby pobrań plików wideo z J2download?",
+        "9": "Czy J2download obsługuje pobieranie wielu filmów/pobieranie wszystkich filmów z określonych kanałów/htagów?",
+        "10": "Czy mogę pobierać filmy w wysokiej rozdzielczości w J2download?",
+        "11": "Czy mogę edytować filmy pobrane z J2download?",
+        "12": "Czy J2download zapewnia rozwiązanie do pobierania mp3?"
+      },
+      "tiktok": {
+        "1": "Jak pobierać filmy TikTok bez znaku wodnego",
+        "2": "Gdzie są zapisywane filmy TikTok po pobraniu?",
+        "3": "Czy J2download przechowuje pobrane filmy czy kopię filmu?",
+        "4": "Czy muszę instalować rozszerzenia?",
+        "5": "Czy muszę płacić za pobieranie filmów Tik Tok?",
+        "6": "Jak zapisać/pobrać moje ulubione filmy Tik Tok na iPhone'a/iPada (iOS)?",
+        "7": "Czy mogę pobierać filmy Tik Tok na mój telefon z Androidem?",
+        "8": "Czy istnieje ograniczenie liczby pobrań filmów Tiktok z J2download?",
+        "9": "Czy J2download obsługuje pobieranie wielu filmów/pobieranie wszystkich filmów z niektórych kanałów tiktok/htagów?",
+        "10": "Czy mogę pobierać filmy TikTok w wysokiej rozdzielczości w J2download?",
+        "11": "Czy mogę edytować filmy TikTok pobrane w J2download?",
+        "12": "Czy J2download zapewnia rozwiązanie do pobierania tiktok mp3?"
+      },
+      "douyin": {
+        "1": "Jak pobierać filmy Douyin bez znaku wodnego",
+        "2": "Gdzie są zapisywane filmy Douyina po pobraniu?",
+        "3": "Czy J2download przechowuje pobrane filmy czy kopię filmu?",
+        "4": "Czy muszę instalować rozszerzenia?",
+        "5": "Czy muszę płacić za pobieranie filmów Tik Tok?",
+        "6": "Jak zapisać/pobrać moje ulubione filmy Tik Tok na iPhone'a/iPada (iOS)?",
+        "7": "Czy mogę pobierać filmy Tik Tok na mój telefon z Androidem?",
+        "8": "Czy istnieje ograniczenie liczby pobrań filmów Douyin z J2download?",
+        "9": "Czy J2download obsługuje pobieranie wielu filmów/pobieranie wszystkich filmów z niektórych kanałów Douyin/htagów?",
+        "10": "Czy mogę pobierać filmy Douyina w wysokiej rozdzielczości z J2download?",
+        "11": "Czy mogę edytować filmy Douyin pobrane z J2download?",
+        "12": "Czy J2download zapewnia rozwiązanie Douyin do pobierania mp3?"
+      }
+    },
+    "reply": {
+      "all": {
+        "1": "Otwórz aplikację na swoim telefonie. ",
+        "2": "Pobierz pliki, są one zwykle zapisywane w folderze pobierania ustawionym jako domyślny. ",
+        "3": "J2download nie obsługuje filmów. ",
+        "4": "Nie są. ",
+        "5": "Nie, nie musisz. ",
+        "6": "Ze względu na politykę prywatności firmy Apple, od wersji IOS 12 oraz IPAD OS 12 i starszych nie można pobierać żadnych plików wideo, muzyki ani filmów na iPhone'a. ",
+        "7": "Tak, ale dla większej wygody zalecamy korzystanie z oprogramowania J2download. ",
+        "8": "Nie, możesz pobrać wiele swoich ulubionych filmów na J2download bez konieczności ograniczania liczby pobrań.",
+        "9": "Nie, J2download nie obsługuje jeszcze tej funkcji.",
+        "10": "Tak, J2download to narzędzie do pobierania wideo, które zapewnia najwyższą rozdzielczość. ",
+        "11": "Nie, J2download to tylko narzędzie do pobierania wideo i nie obsługuje edycji wideo. ",
+        "12": "J2download umożliwia pobieranie pełnej muzyki w formacie MP3."
+      },
+      "tiktok": {
+        "1": "Otwórz aplikację TikTok na swoim telefonie. ",
+        "2": "Pobierz pliki, są one zwykle zapisywane w folderze pobierania ustawionym jako domyślny. ",
+        "3": "J2download nie obsługuje filmów. ",
+        "4": "Nie są. ",
+        "5": "Nie, nie musisz. ",
+        "6": "Ze względu na politykę prywatności firmy Apple, od wersji IOS 12 oraz IPAD OS 12 i starszych nie można pobierać żadnych plików wideo, muzyki ani filmów na iPhone'a. ",
+        "7": "Tak, ale dla większej wygody zalecamy korzystanie z oprogramowania J2download. ",
+        "8": "Nie, możesz pobrać wiele swoich ulubionych filmów TikTok w J2download bez ograniczeń pobierania.",
+        "9": "Nie, J2download nie obsługuje jeszcze tej funkcji.",
+        "10": "Tak, J2download to narzędzie do pobierania wideo TikTok, które zapewnia najwyższą rozdzielczość. ",
+        "11": "Nie, J2download to tylko narzędzie do pobierania filmów TikTok, nie obsługuje edycji wideo. ",
+        "12": "J2download umożliwia pobieranie pełnej muzyki w formacie MP3."
+      },
+      "douyin": {
+        "1": "Otwórz aplikację Douyin na swoim telefonie. ",
+        "2": "Pobierz pliki, są one zwykle zapisywane w folderze pobierania ustawionym jako domyślny. ",
+        "3": "J2download nie obsługuje filmów. ",
+        "4": "Nie są. ",
+        "5": "Nie, nie musisz. ",
+        "6": "Ze względu na politykę prywatności firmy Apple, od wersji IOS 12 oraz IPAD OS 12 i starszych nie można pobierać żadnych plików wideo, muzyki ani filmów na iPhone'a. ",
+        "7": "Tak, ale dla większej wygody zalecamy korzystanie z oprogramowania J2download. ",
+        "8": "Nie, możesz pobrać wiele swoich ulubionych filmów Douyin z J2download bez ograniczeń pobierania.",
+        "9": "Nie, J2download nie obsługuje jeszcze tej funkcji.",
+        "10": "Tak, J2download to narzędzie do pobierania wideo Douyin, które zapewnia najwyższą rozdzielczość. ",
+        "11": "Nie, J2download to tylko narzędzie do pobierania wideo firmy Douyin i nie obsługuje edycji wideo. ",
+        "12": "J2download umożliwia pobieranie pełnej muzyki w formacie MP3."
+      }
+    }
+  },
+  "alert": {
+    "all": "Uwaga: J2download nie jest narzędziem sieci społecznościowej, nie mamy powiązań z żadną stroną trzecią.  ",
+    "tiktok": "Uwaga: J2download nie jest narzędziem Tiktok, nie mamy powiązań z Tiktok ani ByteDance Ltd. ",
+    "douyin": "Uwaga: J2download nie jest narzędziem douyin, nie mamy powiązań z Douyin ani ByteDance Ltd. "
+  },
+  "other": {
+    "how_to_download": {
+      "title_h1": "Jak używać J2download do pobierania filmów na telefony i komputery z systemem iOS/Android",
+      "description_h1": "Wraz z globalną popularnością, zapotrzebowanie na pobieranie filmów z tej platformy znacznie wzrosło. <br><br>Niektóre osoby mogą nie chcieć, aby w pobranym filmie znajdowało się logo i identyfikator osoby przesyłającej. <br><br>Obecnie istnieje kilka bezpłatnych narzędzi do pobierania filmów zarówno na urządzenia z systemem iOS i Android, jak i na komputery. ",
+      "introducing": {
+        "title": "Przedstawiamy pobieranie J2",
+        "description": "<strong>J2download to popularny internetowy program do pobierania wideo, który umożliwia pobieranie filmów bez logo i znaków wodnych.<br><br>Nie musisz pobierać żadnego oprogramowania na swój komputer lub telefon. "
+      },
+      "feature": {
+        "title": "Główne cechy J2download:",
+        "description": "<p>Oto powody, dla których warto skorzystać z J2download, aby pobierać filmy:</p><ul><li>Pobierz wysokiej jakości filmy bez logo.</li><li>Pobierz wsparcie <a href=\"/\" title=\"Tải Video\">Wideo</a> na wielu urządzeniach: telefonach komórkowych, komputerach osobistych i tabletach.</li><li>Całkowicie darmowy i nieograniczony: J2download zobowiązuje się nie pobierać żadnych opłat od użytkowników.</li><li>Obsługuje pobieranie filmów w formatach .mp3 i .mp4 na wszystkie urządzenia (PC, Mac, Android, iOS).</li><li>Dostęp przez przeglądarkę internetową lub aplikację na Androida.</li> </ul>"
+      },
+      "tutorial": {
+        "computer": {
+          "title": "Jak pobierać filmy za pomocą J2download na komputer/PC:",
+          "description": "<p><strong>Krok 1:</strong> Skopiuj link do filmu, który chcesz pobrać. <img src=\"/static/png/copy-link-video.png\" alt=\"Sao chép link video web\"></p><p><strong>Krok 2:</strong> Dostęp <strong>J2 pobierz</strong> W <a href=\"/\">https://J2download.com</a>.</p><p><strong>Krok 3:</strong> Wklej link do paska narzędzi J2download i kliknij „Pobierz” <img src=\"/static/png/download-video.png\" alt=\"Tải xuống video PC\"></p><br>"
+        }
+      },
+      "notice": "<strong>W skrócie:</strong> Powyższy przewodnik wyjaśnia, jak pobierać filmy na wszystkie trzy popularne platformy: Android (Samsung, Oppo itp.), iOS (iPhone, iPad itp.) i komputer (PC, MacOS, Windows). "
+    }
+  },
+  "notfound404": {
+    "message": "PRZEPRASZAM, STRONA, KTÓREJ SZUKASZ NIE ISTNIEJE!",
+    "return": "Powrót do strony głównej"
+  }
+}

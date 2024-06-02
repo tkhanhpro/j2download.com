@@ -1,0 +1,344 @@
+{
+  "first_name": "J2",
+  "last_name": "Download",
+  "header": {
+    "all": {
+      "title": "下载多合一视频",
+      "description": "多合一视频下载工具是完全免费的。",
+      "meta": {
+        "title": "免费下载无标志、水印、无水印的视频",
+        "application_name": "我的应用程序名称",
+        "description": "多合一视频下载工具是完全免费的。",
+        "twitter": {
+          "title": "免费下载无标志、水印、水印的抖音视频",
+          "description": "多合一视频下载工具是完全免费的。"
+        },
+        "itemprop": {
+          "name": "J2下载",
+          "description": "多合一视频下载 - J2download.com 是在线下载无水印视频的最佳免费工具之一。"
+        },
+        "fb_app_id": "脸书：应用程序 ID",
+        "og_title": "J2 Downloader - 多合一视频下载 - J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "曼G",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "tiktok": {
+      "title": "免费下载无标志、水印、水印的抖音视频",
+      "description": "抖音视频下载工具无logo、水印，水印完全免费。",
+      "meta": {
+        "title": "免费下载无标志、水印、水印的抖音视频",
+        "application_name": "我的应用程序名称",
+        "description": "抖音视频下载工具无logo、水印，水印完全免费。",
+        "twitter": {
+          "title": "免费下载无标志、水印、水印的抖音视频",
+          "description": "抖音视频下载工具无logo、水印，水印完全免费。"
+        },
+        "itemprop": {
+          "name": "J2下载",
+          "description": "TikTok 视频下载 - J2download.com 是在线下载 TikTok 无水印视频的最佳免费工具之一。"
+        },
+        "fb_app_id": "脸书：应用程序 ID",
+        "og_title": "J2下载器 - 下载无水印抖音视频 - J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "曼G",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "douyin": {
+      "title": "免费下载无logo、无水印、无水印的抖音视频",
+      "description": "抖音视频下载工具无logo、水印，水印完全免费。",
+      "meta": {
+        "title": "免费下载无logo、无水印、无水印的抖音视频",
+        "application_name": "J2下载",
+        "description": "抖音视频下载工具无logo、水印，水印完全免费。",
+        "twitter": {
+          "title": "免费下载无logo、无水印、无水印的抖音视频",
+          "description": "抖音视频下载工具无logo、水印，水印完全免费。"
+        },
+        "itemprop": {
+          "name": "J2下载",
+          "description": "抖音视频下载 - J2download.com 是在线下载抖音无水印视频的最佳免费工具之一。"
+        },
+        "fb_app_id": "脸书：应用程序 ID",
+        "og_title": "J2下载器 - 下载无水印抖音视频 - J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "曼G",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "how_to_download": {
+      "title": "免费下载无徽标、水印、图像、音频的视频",
+      "description": "完全免费的视频下载器。",
+      "meta": {
+        "title": "免费下载无标志、水印、无水印的视频",
+        "application_name": "我的应用程序名称",
+        "description": "无logo、水印的视频下载工具，水印完全免费。",
+        "twitter": {
+          "title": "免费下载无标志、水印、无水印的视频",
+          "description": "无logo、水印的视频下载工具，水印完全免费。"
+        },
+        "itemprop": {
+          "name": "J2下载",
+          "description": "视频下载 - J2download.com 是在线下载无水印视频的最佳免费工具之一。"
+        },
+        "fb_app_id": "脸书：应用程序 ID",
+        "og_title": "J2 Downloader - 下载无水印视频 - J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "曼G",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    }
+  },
+  "title": {
+    "all": "下载全合一",
+    "tiktok": "下载 TikTok 视频",
+    "douyin": "下载抖音视频",
+    "how_to_download": "如何下载视频、照片、音频"
+  },
+  "title_2": {
+    "all": "快速、简单、免费",
+    "tiktok": "没有徽标、幻灯片、故事、音频",
+    "douyin": "没有徽标、幻灯片、故事、音频"
+  },
+  "description": {
+    "all": "多合一视频下载工具是完全免费的。",
+    "tiktok": "完全免费下载没有徽标、水印或水印的 TikTok 视频。",
+    "douyin": "完全免费下载没有徽标、水印或水印的抖音视频。"
+  },
+  "placeholder": "将链接粘贴到此处",
+  "paste_icon": "粘贴",
+  "clear_icon": "擦除",
+  "download_icon": "下载",
+  "download": "下载",
+  "home": "主页",
+  "footer": {
+    "privacy_policy": "隐私政策",
+    "terms_of_service": "服务条款",
+    "contact_us": "联系我们",
+    "about_us": "关于我们",
+    "tool": {
+      "all": "下载视频和音频合一",
+      "tiktok": "下载 Tiktok 视频、幻灯片、故事",
+      "douyin": "在抖音下载视频、幻灯片、故事",
+      "how_to_download": "如何下载视频、照片、音频"
+    }
+  },
+  "share": "分享",
+  "select_language": "选择语言",
+  "install_app": {
+    "ios": "/",
+    "android": "/"
+  },
+  "card": {
+    "render_video": "渲染视频",
+    "preparing_render": "Preparing files to render",
+    "preparing_rendering": "Rendering...",
+    "preparing_render_complete": "Render Completed",
+    "download": "下载",
+    "download_photo": "下载图片",
+    "download_video": "下载视频",
+    "download_server_2": "下载服务器2",
+    "download_other_video": "其他下载",
+    "download_success": "下载成功",
+    "download_error": "下载失败",
+    "download_mp3": "下载MP3"
+  },
+  "error": "错误！发生错误。请稍后再试！",
+  "invalid_url": "无效的链接！",
+  "paste_button": {
+    "success": "粘贴文字成功！",
+    "error": "粘贴文本失败！"
+  },
+  "container": {
+    "auto_bot": "机器人自动下载",
+    "support_platform": {
+      "title": "支持平台",
+      "description": "Tiktok、抖音、Capcut、Threads、Instagram、Facebook、Espn、快手、Pinterest、imdb、imgur、ifunny、Izlesene、Reddit、Youtube、Twitter、Vimeo、Snapchat、Bilibili、Dailymotion、Sharechat、Linkedin、Tumblr、Hipi、Telegram、 Getstickerpack、Bitchute、Febspot、9GAG、oke.ru、Rumble、Streamable、Ted、SohuTv、Xvideos、Xnxx、小红书、微博、秒拍、美拍、小影、国家视频、映客、Soundcloud、Mixcloud、Spotify、Zingmp3、Bandcamp。"
+    },
+    "title_download": "下载 J2download 应用程序",
+    "description_title": {
+      "all": "J2download 目前提供了一个应用程序，允许从许多不同的社交网络下载视频和音频。",
+      "tiktok": "目前J2download提供了一个允许下载TikTok视频的应用程序。",
+      "douyin": "J2download目前提供了一款可以下载抖音视频的应用程序。"
+    },
+    "title_f14": {
+      "all": "免费下载视频、图像、音频合一",
+      "tiktok": "免费下载没有徽标（水印）的 TikTok 视频",
+      "douyin": "免费下载无logo（水印）的抖音视频"
+    },
+    "description_f14": {
+      "all": "J2download是一款免费在线下载视频、图像和音频的工具。",
+      "tiktok": "J2download是一款在线下载TikTok视频且徽标不模糊的工具。",
+      "douyin": "J2download是一款下载在线抖音视频且标识不模糊的工具。"
+    },
+    "subtitle_f14": "主功能",
+    "main_function": {
+      "all": {
+        "1": "下载视频、图片、音频，支持在所有类型设备上下载：手机、PC、平板电脑。",
+        "2": "下载的视频不会像正常下载那样在视频上方和下方粘贴 Tik Tok 徽标和用户 ID。",
+        "3": "您可以使用网络浏览器或 J2download android 软件下载它。",
+        "4": "全部免费。",
+        "5": "支持为所有设备（PC、Mac、Android、iOS）下载 .mp3、.mp4、.jpg 格式的视频、照片、音频。",
+        "6": "新的 J2download 为用户提供了下载 Mp4 视频格式的照片幻灯片的能力。"
+      },
+      "tiktok": {
+        "1": "下载TikTok视频，支持在所有类型的设备上下载TikTok视频：手机、PC、平板电脑。 ",
+        "2": "下载的视频不会像正常下载那样在视频上方和下方粘贴 Tik Tok 徽标和用户 ID。",
+        "3": "您可以使用网络浏览器或 J2download android 软件下载它。",
+        "4": "全部免费。",
+        "5": "支持所有设备（PC、Mac、Android、iOS）下载 .mp3、.mp4 格式的 TikTok 视频。",
+        "6": "新的 J2download 为用户提供了以 Mp4 视频格式下载 Tiktok 照片幻灯片的功能。 "
+      },
+      "douyin": {
+        "1": "下载抖音视频，支持在所有类型设备上下载抖音视频：手机、PC、平板电脑。 ",
+        "2": "下载的视频不会像正常下载那样在视频上方和下方粘贴 Tik Tok 徽标和用户 ID。",
+        "3": "您可以使用网络浏览器或 J2download android 软件下载它。",
+        "4": "全部免费。",
+        "5": "支持所有设备（PC、Mac、Android、iOS）下载.mp3、.mp4格式的抖音视频。",
+        "6": "新的J2download为用户提供了以Mp4视频格式下载抖音照片幻灯片的功能。"
+      }
+    }
+  },
+  "faq": {
+    "title": {
+      "all": {
+        "1": "如何下载无水印的视频",
+        "2": "视频下载后保存在哪里？",
+        "3": "J2download 是否存储下载的视频或保留视频的副本？",
+        "4": "我需要安装扩展吗？",
+        "5": "下载视频需要付费吗？",
+        "6": "如何将我喜爱的视频保存/下载到 iPhone/iPad (iOS)？",
+        "7": "我可以在 Android 手机上下载视频吗？",
+        "8": "J2download下载视频有下载次数限制吗？",
+        "9": "J2download是否支持下载多个视频/下载特定频道的所有视频/Htags？",
+        "10": "我可以在 J2download 下载高清视频吗？",
+        "11": "我可以编辑从 J2download 下载的视频吗？",
+        "12": "J2download提供mp3下载解决方案吗？"
+      },
+      "tiktok": {
+        "1": "如何下载无水印的TikTok视频",
+        "2": "TikTok视频下载后保存在哪里？",
+        "3": "J2download 是否存储下载的视频或保留视频的副本？",
+        "4": "我需要安装扩展吗？",
+        "5": "下载 Tik Tok 视频需要付费吗？",
+        "6": "如何将我最喜欢的 Tik Tok 视频保存/下载到 iPhone/iPad (iOS)？",
+        "7": "我可以在 Android 手机上下载 Tik Tok 视频吗？",
+        "8": "J2download下载抖音视频有下载次数限制吗？",
+        "9": "J2download是否支持下载多个视频/下载某些抖音频道/Htags的所有视频？",
+        "10": "我可以在 J2download 下载高分辨率的 TikTok 视频吗？",
+        "11": "我可以编辑在 J2download 下载的 TikTok 视频吗？",
+        "12": "J2download提供抖音mp3下载解决方案吗？"
+      },
+      "douyin": {
+        "1": "如何下载无水印的抖音视频",
+        "2": "抖音视频下载后保存在哪里？",
+        "3": "J2download 是否存储下载的视频或保留视频的副本？",
+        "4": "我需要安装扩展吗？",
+        "5": "下载 Tik Tok 视频需要付费吗？",
+        "6": "如何将我最喜欢的 Tik Tok 视频保存/下载到 iPhone/iPad (iOS)？",
+        "7": "我可以在 Android 手机上下载 Tik Tok 视频吗？",
+        "8": "J2download下载抖音视频有下载次数限制吗？",
+        "9": "J2download是否支持下载多个视频/下载特定抖音频道/Htags的所有视频？",
+        "10": "J2download可以下载高分辨率抖音视频吗？",
+        "11": "我可以编辑在J2download下载的抖音视频吗？",
+        "12": "J2download提供抖音mp3下载解决方案吗？"
+      }
+    },
+    "reply": {
+      "all": {
+        "1": "打开手机上的应用程序。",
+        "2": "下载文件，通常会保存到您设置的默认下载文件夹中。",
+        "3": "J2download 不托管视频。",
+        "4": "不是。",
+        "5": "不，你不必这样做。",
+        "6": "由于 Apple 的隐私政策，从 IOS 12 和 IPAD OS 12 及更低版本开始，您无法将任何视频、音乐或电影下载到 iPhone。",
+        "7": "是的，但为了更方便，我们建议使用 J2download 软件。 ",
+        "8": "不，您可以在 J2download 下载许多您喜爱的视频，而无需限制下载数量。",
+        "9": "不，J2download 尚不支持此功能。",
+        "10": "是的，J2download 是一款为您提供最高分辨率的视频下载器。",
+        "11": "不，J2download只是一个视频下载工具，不支持视频编辑。",
+        "12": "J2download提供完整的mp3音乐下载。"
+      },
+      "tiktok": {
+        "1": "打开手机上的 TikTok 应用。",
+        "2": "下载文件，通常会保存到您设置的默认下载文件夹中。",
+        "3": "J2download 不托管视频。",
+        "4": "不是。",
+        "5": "不，你不必这样做。",
+        "6": "由于 Apple 的隐私政策，从 IOS 12 和 IPAD OS 12 及更低版本开始，您无法将任何视频、音乐或电影下载到 iPhone。",
+        "7": "是的，但为了更方便，我们建议使用 J2download 软件。 ",
+        "8": "不，您可以在 J2download 下载许多您喜爱的 TikTok 视频，没有下载限制。",
+        "9": "不，J2download 尚不支持此功能。",
+        "10": "是的，J2download 是一款 TikTok 视频下载器，可为您提供最高分辨率。",
+        "11": "不，J2download只是一个下载TikTok视频的工具，它不支持视频编辑。",
+        "12": "J2download提供完整的mp3音乐下载。"
+      },
+      "douyin": {
+        "1": "打开手机上的抖音应用。",
+        "2": "下载文件，通常会保存到您设置的默认下载文件夹中。",
+        "3": "J2download 不托管视频。",
+        "4": "不是。",
+        "5": "不，你不必这样做。",
+        "6": "由于 Apple 的隐私政策，从 IOS 12 和 IPAD OS 12 及更低版本开始，您无法将任何视频、音乐或电影下载到 iPhone。",
+        "7": "是的，但为了更方便，我们建议使用 J2download 软件。 ",
+        "8": "不需要，您可以在 J2download 下载许多您喜欢的抖音视频，没有下载限制。",
+        "9": "不，J2download 尚不支持此功能。",
+        "10": "是的，J2download是一款为您提供最高分辨率的抖音视频下载器。",
+        "11": "不，J2download只是抖音视频下载工具，不支持视频编辑。",
+        "12": "J2download提供完整的mp3音乐下载。"
+      }
+    }
+  },
+  "alert": {
+    "all": "注意：J2download不是社交网络工具，我们与任何第二方没有任何关系。我们只支持用户毫无问题地下载我们的视频。",
+    "tiktok": "注：J2download不是Tiktok的工具，我们与Tiktok或字节跳动有限公司没有任何关系。",
+    "douyin": "注：J2download不是抖音工具，我们与抖音或字节跳动有限公司没有任何关系。"
+  },
+  "other": {
+    "how_to_download": {
+      "title_h1": "如何使用J2download在iOS/Android手机和电脑上下载视频",
+      "description_h1": "随着其在全球的流行，从该平台下载视频的需求显着增加。<br><br>有些人可能不希望下载的视频中包含徽标和上传者 ID。<br><br>如今，有多种免费工具可以为 iOS 和 Android 设备以及计算机下载视频。",
+      "introducing": {
+        "title": "J2简介下载",
+        "description": "<strong>J2download 是一款流行的在线视频下载器，可让您下载没有徽标或水印的视频。<br><br>您无需在计算机或手机上下载任何软件。"
+      },
+      "feature": {
+        "title": "J2download的主要特点：",
+        "description": "<p>以下是您应该体验 J2download 下载视频的原因：</p><ul><li>下载没有徽标的高质量视频。</li><li>下载支持 <a href=\"/\" title=\"Tải Video\">视频</a> 在多种设备上：手机、个人电脑和平板电脑。</li><li>完全免费、无限制：J2download承诺不向用户收取任何费用。</li><li>支持为所有设备（PC、Mac、Android、iOS）下载 .mp3 和 .mp4 格式的视频。</li><li>可通过网络浏览器或 Android 应用程序访问。</li> </ul>"
+      },
+      "tutorial": {
+        "computer": {
+          "title": "如何在电脑/PC上使用J2download下载视频：",
+          "description": "<p><strong>步骤1：</strong> 复制您要下载的视频的链接。 <img src=\"/static/png/copy-link-video.png\" alt=\"Sao chép link video web\"></p><p><strong>第2步：</strong> 使用权 <strong>J2下载</strong> 在 <a href=\"/\">https://J2download.com</a>。</p><p><strong>步骤3：</strong> 将链接粘贴到 J2download 的工具栏中，然后单击“下载” <img src=\"/static/png/download-video.png\" alt=\"Tải xuống video PC\"></p><br>"
+        }
+      },
+      "notice": "<strong>简而言之：</strong> 上面的指南解释了如何在所有三个流行平台上下载视频：Android（三星、Oppo 等）、iOS（iPhone、iPad 等）和计算机（PC、MacOS、Windows）。"
+    }
+  },
+  "notfound404": {
+    "message": "抱歉，您要查找的页面不存在！",
+    "return": "返回首页"
+  }
+}

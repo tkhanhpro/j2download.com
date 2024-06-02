@@ -1,0 +1,344 @@
+{
+  "first_name": "J2",
+  "last_name": "Download",
+  "header": {
+    "all": {
+      "title": "Unduh video Semua Dalam Satu",
+      "description": "Alat pengunduhan video All In One sepenuhnya gratis. ",
+      "meta": {
+        "title": "Unduh video tanpa logo, tanda air, tanda air gratis",
+        "application_name": "Nama aplikasi saya",
+        "description": "Alat pengunduhan video All In One sepenuhnya gratis. ",
+        "twitter": {
+          "title": "Unduh video tiktok tanpa logo, tanda air, tanda air gratis",
+          "description": "Alat pengunduhan video All In One sepenuhnya gratis. "
+        },
+        "itemprop": {
+          "name": "Unduh J2",
+          "description": "Pengunduhan Video Semua Dalam Satu - J2download.com adalah salah satu alat gratis terbaik yang tersedia online untuk mengunduh video tanpa tanda air."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader - Unduh Video Semua Dalam Satu - J2download",
+        "og_image": "/statis/png/beranda-web.png"
+      },
+      "links": {
+        "author": "kawan",
+        "icon": {
+          "href": "/statis/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "tiktok": {
+      "title": "Unduh video tiktok tanpa logo, tanda air, tanda air gratis",
+      "description": "Alat pengunduhan video Tiktok tanpa logo, tanda air, tanda air sepenuhnya gratis. ",
+      "meta": {
+        "title": "Unduh video tiktok tanpa logo, tanda air, tanda air gratis",
+        "application_name": "Nama aplikasi saya",
+        "description": "Alat pengunduhan video Tiktok tanpa logo, tanda air, tanda air sepenuhnya gratis. ",
+        "twitter": {
+          "title": "Unduh video tiktok tanpa logo, tanda air, tanda air gratis",
+          "description": "Alat pengunduhan video Tiktok tanpa logo, tanda air, tanda air sepenuhnya gratis. "
+        },
+        "itemprop": {
+          "name": "Unduh J2",
+          "description": "Pengunduhan Video TikTok - J2download.com adalah salah satu alat gratis terbaik yang tersedia online untuk mengunduh video tanpa tanda air dari TikTok."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader - Unduh Video Tiktok Tanpa Tanda Air - J2download",
+        "og_image": "/statis/png/beranda-web.png"
+      },
+      "links": {
+        "author": "kawan",
+        "icon": {
+          "href": "/statis/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "douyin": {
+      "title": "Unduh video Douyin tanpa logo, tanda air, atau tanda air secara gratis",
+      "description": "Alat pengunduhan video Douyin tidak memiliki logo, tanda air, atau tanda air, sepenuhnya gratis. ",
+      "meta": {
+        "title": "Unduh video Douyin tanpa logo, tanda air, atau tanda air secara gratis",
+        "application_name": "Unduh J2",
+        "description": "Alat pengunduhan video Douyin tidak memiliki logo, tanda air, atau tanda air, sepenuhnya gratis. ",
+        "twitter": {
+          "title": "Unduh video Douyin tanpa logo, tanda air, atau tanda air secara gratis",
+          "description": "Alat pengunduhan video Douyin tidak memiliki logo, tanda air, atau tanda air, sepenuhnya gratis. "
+        },
+        "itemprop": {
+          "name": "Unduh J2",
+          "description": "Unduhan Video Douyin - J2download.com adalah salah satu alat gratis terbaik yang tersedia online untuk mengunduh video tanpa tanda air dari Douyin."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader - Unduh Video Tiktok Tanpa Tanda Air - J2download",
+        "og_image": "/statis/png/beranda-web.png"
+      },
+      "links": {
+        "author": "kawan",
+        "icon": {
+          "href": "/statis/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "how_to_download": {
+      "title": "Unduh video tanpa logo, tanda air, gambar, audio gratis",
+      "description": "Pengunduh video sepenuhnya gratis. ",
+      "meta": {
+        "title": "Unduh video tanpa logo, tanda air, tanda air gratis",
+        "application_name": "Nama aplikasi saya",
+        "description": "Alat pengunduhan video tanpa logo, tanda air, tanda air sepenuhnya gratis. ",
+        "twitter": {
+          "title": "Unduh video tanpa logo, tanda air, tanda air gratis",
+          "description": "Alat pengunduhan video tanpa logo, tanda air, tanda air sepenuhnya gratis. "
+        },
+        "itemprop": {
+          "name": "Unduh J2",
+          "description": "Pengunduhan Video - J2download.com adalah salah satu alat gratis terbaik yang tersedia online untuk mengunduh video tanpa tanda air."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader - Unduh Video Tanpa Tanda Air - J2download",
+        "og_image": "/statis/png/beranda-web.png"
+      },
+      "links": {
+        "author": "kawan",
+        "icon": {
+          "href": "/statis/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    }
+  },
+  "title": {
+    "all": "Unduh Semua Dalam Satu",
+    "tiktok": "Unduh Video TikTok",
+    "douyin": "Unduh Video Douyin",
+    "how_to_download": "Cara mendownload video, foto, audio"
+  },
+  "title_2": {
+    "all": "Cepat, mudah, gratis",
+    "tiktok": "Tidak ada logo, slide, cerita, audio",
+    "douyin": "Tidak ada logo, slide, cerita, audio"
+  },
+  "description": {
+    "all": "Alat pengunduhan video All In One sepenuhnya gratis. ",
+    "tiktok": "Unduh video TikTok tanpa logo, tanda air, atau tanda air sepenuhnya gratis. ",
+    "douyin": "Unduh video Douyin tanpa logo, tanda air, atau tanda air sepenuhnya gratis. "
+  },
+  "placeholder": "Tempel tautannya di sini",
+  "paste_icon": "Tempel",
+  "clear_icon": "Menghapus",
+  "download_icon": "Unduh",
+  "download": "Unduh",
+  "home": "Halaman rumah",
+  "footer": {
+    "privacy_policy": "Kebijakan pribadi",
+    "terms_of_service": "Persyaratan layanan",
+    "contact_us": "Hubungi kami",
+    "about_us": "Tentang kami",
+    "tool": {
+      "all": "Unduh video dan audio Semua Dalam Satu",
+      "tiktok": "Unduh video Tiktok, slide, cerita",
+      "douyin": "Unduh video, slide, cerita Douyin",
+      "how_to_download": "Cara mendownload video, foto, audio"
+    }
+  },
+  "share": "Membagikan",
+  "select_language": "Pilih bahasa",
+  "install_app": {
+    "ios": "/",
+    "android": "/"
+  },
+  "card": {
+    "render_video": "Merender video",
+    "preparing_render": "Preparing files to render",
+    "preparing_rendering": "Rendering...",
+    "preparing_render_complete": "Render Completed",
+    "download": "Unduh",
+    "download_photo": "Unduh Gambar",
+    "download_video": "Unduh video",
+    "download_server_2": "Unduh server 2",
+    "download_other_video": "Unduhan lainnya",
+    "download_success": "Berhasil diunduh",
+    "download_error": "Pengunduhan gagal",
+    "download_mp3": "Unduh MP3"
+  },
+  "error": "Kesalahan!  ",
+  "invalid_url": "Tautan tidak valid!",
+  "paste_button": {
+    "success": "Berhasil menempelkan teks!",
+    "error": "Gagal menempelkan teks! "
+  },
+  "container": {
+    "auto_bot": "Unduh Otomatis Bot",
+    "support_platform": {
+      "title": "Platform pendukung",
+      "description": "Tiktok, Douyin, Capcut, Threads, Instagram, Facebook, Espn, Kuaishou, Pinterest, imdb, imgur, ifunny, Izlesene, Reddit, Youtube, Twitter, Vimeo, Snapchat, Bilibili, Dailymotion, Sharechat, Linkedin, Tumblr, Hipi, Telegram, Getstickerpack, Bitchute, Febspot, 9GAG, oke.ru, Rumble, Streamable, Ted, SohuTv, Xvideos, Xnxx, Xiaohongshu, Weibo, Miaopai, Meipai, Xiaoying, National Video, Yingke, Soundcloud, Mixcloud, Spotify, Zingmp3, Bandcamp."
+    },
+    "title_download": "Download aplikasi J2download",
+    "description_title": {
+      "all": "J2download saat ini menyediakan aplikasi yang memungkinkan pengunduhan video dan audio dari berbagai jejaring sosial. ",
+      "tiktok": "Saat ini J2download menyediakan aplikasi yang memungkinkan download video TikTok. ",
+      "douyin": "J2download saat ini menyediakan aplikasi yang memungkinkan pengunduhan video Douyin. "
+    },
+    "title_f14": {
+      "all": "Unduh video, gambar, audio All In One secara gratis",
+      "tiktok": "Unduh video TikTok tanpa logo (tanda air) gratis",
+      "douyin": "Unduh video Douyin tanpa logo (tanda air) gratis"
+    },
+    "description_f14": {
+      "all": "J2download adalah alat untuk mengunduh video, gambar, dan audio online secara gratis. ",
+      "tiktok": "J2download adalah alat untuk mengunduh video TikTok online tanpa logo buram. ",
+      "douyin": "J2download adalah alat untuk mengunduh video Douyin online tanpa logo buram. "
+    },
+    "subtitle_f14": "Fungsi utama",
+    "main_function": {
+      "all": {
+        "1": "Unduh video, gambar, audio, Dukungan Unduh di semua jenis perangkat: seluler, PC, tablet.",
+        "2": "Video yang diunduh tidak akan memiliki logo Tik Tok dan ID Pengguna yang menempel di atas dan di bawah video seperti unduhan biasa.",
+        "3": "Anda dapat mendownloadnya menggunakan web browser atau software android J2download.",
+        "4": "Semua bebas. ",
+        "5": "Mendukung pengunduhan video, foto, audio dalam format .mp3, .mp4, .jpg untuk semua perangkat (PC, Mac, Android, iOS).",
+        "6": "J2download baru memberi pengguna kemampuan untuk mengunduh tayangan slide foto dalam format Video Mp4. "
+      },
+      "tiktok": {
+        "1": "Unduh video TikTok, Dukungan Unduh video tiktok di semua jenis perangkat: seluler, PC, tablet. ",
+        "2": "Video yang diunduh tidak akan memiliki logo Tik Tok dan ID Pengguna yang menempel di atas dan di bawah video seperti unduhan biasa.",
+        "3": "Anda dapat mendownloadnya menggunakan web browser atau software android J2download.",
+        "4": "Semua bebas. ",
+        "5": "Mendukung pengunduhan video TikTok dalam format .mp3, .mp4 untuk semua perangkat (PC, Mac, Android, iOS).",
+        "6": "J2download baru memberi pengguna kemampuan untuk mengunduh tayangan slide foto Tiktok dalam format Video Mp4. "
+      },
+      "douyin": {
+        "1": "Unduh video Douyin, Dukungan Unduh video Douyin di semua jenis perangkat: seluler, PC, tablet. ",
+        "2": "Video yang diunduh tidak akan memiliki logo Tik Tok dan ID Pengguna yang menempel di atas dan di bawah video seperti unduhan biasa.",
+        "3": "Anda dapat mendownloadnya menggunakan web browser atau software android J2download.",
+        "4": "Semua bebas. ",
+        "5": "Mendukung pengunduhan video Douyin dalam format .mp3, .mp4 untuk semua perangkat (PC, Mac, Android, iOS).",
+        "6": "J2download baru memberi pengguna kemampuan untuk mengunduh tayangan slide foto Douyin dalam format Video Mp4. "
+      }
+    }
+  },
+  "faq": {
+    "title": {
+      "all": {
+        "1": "Cara download video tanpa watermark",
+        "2": "Di mana video disimpan setelah diunduh?",
+        "3": "Apakah J2download menyimpan video yang diunduh atau menyimpan salinan videonya?",
+        "4": "Apakah saya perlu memasang ekstensi?",
+        "5": "Apakah saya harus membayar untuk mengunduh video?",
+        "6": "Bagaimana cara menyimpan/mengunduh video favorit saya ke iPhone/iPad (iOS)?",
+        "7": "Bisakah saya mengunduh video di ponsel Android saya?",
+        "8": "Apakah ada batasan jumlah download untuk mendownload video di J2download?",
+        "9": "Apakah J2download mendukung pengunduhan banyak video / Mengunduh semua video dari saluran / Htag tertentu?",
+        "10": "Bisakah saya mengunduh video definisi tinggi di J2download?",
+        "11": "Bisakah saya mengedit video yang diunduh di J2download?",
+        "12": "Apakah J2download menyediakan solusi pengunduhan mp3?"
+      },
+      "tiktok": {
+        "1": "Cara Download Video TikTok Tanpa Watermark",
+        "2": "Di mana video TikTok disimpan setelah diunduh?",
+        "3": "Apakah J2download menyimpan video yang diunduh atau menyimpan salinan videonya?",
+        "4": "Apakah saya perlu memasang ekstensi?",
+        "5": "Apakah saya harus membayar untuk mengunduh video Tik Tok?",
+        "6": "Bagaimana cara menyimpan/mengunduh video Tik Tok favorit saya ke iPhone/iPad (iOS)?",
+        "7": "Bisakah saya mengunduh video Tik Tok di ponsel Android saya?",
+        "8": "Apakah ada batasan jumlah download untuk download video Tiktok di J2download?",
+        "9": "Apakah J2download mendukung pengunduhan banyak video / Mengunduh semua video dari saluran Tiktok / Htag tertentu?",
+        "10": "Bisakah saya mengunduh video TikTok resolusi tinggi di J2download?",
+        "11": "Bisakah saya mengedit video TikTok yang diunduh di J2download?",
+        "12": "Apakah J2download menyediakan solusi pengunduhan mp3 Tiktok?"
+      },
+      "douyin": {
+        "1": "Cara mengunduh Video Douyin tanpa tanda air",
+        "2": "Di mana video Douyin disimpan setelah diunduh?",
+        "3": "Apakah J2download menyimpan video yang diunduh atau menyimpan salinan videonya?",
+        "4": "Apakah saya perlu memasang ekstensi?",
+        "5": "Apakah saya harus membayar untuk mengunduh video Tik Tok?",
+        "6": "Bagaimana cara menyimpan/mengunduh video Tik Tok favorit saya ke iPhone/iPad (iOS)?",
+        "7": "Bisakah saya mengunduh video Tik Tok di ponsel Android saya?",
+        "8": "Apakah ada batasan jumlah download untuk mendownload video Douyin di J2download?",
+        "9": "Apakah J2download mendukung pengunduhan banyak video / Mengunduh semua video dari saluran Douyin / Htag tertentu?",
+        "10": "Bisakah saya mengunduh video Douyin resolusi tinggi di J2download?",
+        "11": "Bisakah saya mengedit video Douyin yang diunduh di J2download?",
+        "12": "Apakah J2download menyediakan solusi pengunduhan mp3 Douyin?"
+      }
+    },
+    "reply": {
+      "all": {
+        "1": "Buka aplikasi di ponsel Anda. ",
+        "2": "File unduhan, biasanya disimpan ke folder unduhan yang telah Anda tetapkan sebagai default. ",
+        "3": "J2download tidak menghosting video. ",
+        "4": "Tidak. ",
+        "5": "Tidak, kamu tidak perlu melakukannya. ",
+        "6": "Karena kebijakan privasi Apple, dari IOS 12 dan iPad OS 12 ke bawah Anda tidak dapat mengunduh video, musik, atau film apa pun ke iPhone. ",
+        "7": "Ya, tapi untuk kenyamanan lebih kami sarankan menggunakan software J2download. ",
+        "8": "Tidak, Anda dapat mendownload banyak video favorit Anda di J2download tanpa harus membatasi jumlah download.",
+        "9": "Tidak, J2download belum mendukung fitur ini.",
+        "10": "Ya, J2download adalah pengunduh video yang memberikan resolusi tertinggi untuk Anda. ",
+        "11": "Tidak, J2download hanya alat pengunduhan video, tidak mendukung pengeditan video. ",
+        "12": "J2download menyediakan pengunduhan musik mp3 lengkap."
+      },
+      "tiktok": {
+        "1": "Buka aplikasi TikTok di ponsel Anda. ",
+        "2": "File unduhan, biasanya disimpan ke folder unduhan yang telah Anda tetapkan sebagai default. ",
+        "3": "J2download tidak menghosting video. ",
+        "4": "Tidak. ",
+        "5": "Tidak, kamu tidak perlu melakukannya. ",
+        "6": "Karena kebijakan privasi Apple, dari IOS 12 dan iPad OS 12 ke bawah Anda tidak dapat mengunduh video, musik, atau film apa pun ke iPhone. ",
+        "7": "Ya, tapi untuk kenyamanan lebih kami sarankan menggunakan software J2download. ",
+        "8": "Tidak, Anda dapat mengunduh banyak video TikTok favorit Anda di J2download tanpa batasan unduhan.",
+        "9": "Tidak, J2download belum mendukung fitur ini.",
+        "10": "Ya, J2download merupakan pengunduh video TikTok yang memberikan resolusi tertinggi untuk Anda. ",
+        "11": "Tidak, J2download hanya alat untuk mendownload video TikTok, tidak mendukung pengeditan video. ",
+        "12": "J2download menyediakan pengunduhan musik mp3 lengkap."
+      },
+      "douyin": {
+        "1": "Buka aplikasi Douyin di ponsel Anda. ",
+        "2": "File unduhan, biasanya disimpan ke folder unduhan yang telah Anda tetapkan sebagai default. ",
+        "3": "J2download tidak menghosting video. ",
+        "4": "Tidak. ",
+        "5": "Tidak, kamu tidak perlu melakukannya. ",
+        "6": "Karena kebijakan privasi Apple, dari IOS 12 dan iPad OS 12 ke bawah Anda tidak dapat mengunduh video, musik, atau film apa pun ke iPhone. ",
+        "7": "Ya, tapi untuk kenyamanan lebih kami sarankan menggunakan software J2download. ",
+        "8": "Tidak, Anda dapat mengunduh banyak video Douyin favorit Anda di J2download tanpa batasan unduhan.",
+        "9": "Tidak, J2download belum mendukung fitur ini.",
+        "10": "Ya, J2download adalah pengunduh video Douyin yang memberikan resolusi tertinggi untuk Anda. ",
+        "11": "Tidak, J2download hanya alat pengunduhan video Douyin, tidak mendukung pengeditan video. ",
+        "12": "J2download menyediakan pengunduhan musik mp3 lengkap."
+      }
+    }
+  },
+  "alert": {
+    "all": "Catatan: J2download bukan alat jejaring sosial, kami tidak memiliki hubungan dengan pihak kedua mana pun.  ",
+    "tiktok": "Catatan: J2download bukan alat Tiktok, kami tidak memiliki hubungan dengan Tiktok atau ByteDance Ltd. ",
+    "douyin": "Catatan: J2download bukan alat douyin, kami tidak memiliki hubungan dengan Douyin atau ByteDance Ltd. "
+  },
+  "other": {
+    "how_to_download": {
+      "title_h1": "Cara Menggunakan J2download untuk Download Video di Ponsel iOS/Android dan Komputer",
+      "description_h1": "Dengan popularitas globalnya, permintaan pengunduhan video dari platform ini meningkat secara signifikan. <br><br>Beberapa orang mungkin tidak ingin logo dan ID pengunggah disertakan dalam video yang diunduh. <br><br>Saat ini, ada beberapa alat gratis untuk mengunduh video untuk perangkat iOS dan Android, serta komputer. ",
+      "introducing": {
+        "title": "Memperkenalkan J2download",
+        "description": "<strong>J2download adalah pengunduh video online populer yang memungkinkan Anda mengunduh video tanpa logo atau tanda air.<br><br>Anda tidak perlu mengunduh perangkat lunak apa pun di komputer atau ponsel Anda. "
+      },
+      "feature": {
+        "title": "Fitur utama J2download:",
+        "description": "<p>Berikut adalah alasan mengapa Anda harus mencoba J2download untuk mengunduh video:</p><ul><li>Unduh video berkualitas tinggi tanpa logo.</li><li>Unduh dukungan <a href=\"/\" title=\"Tải Video\">Video</a> di beberapa perangkat: ponsel, komputer pribadi, dan tablet.</li><li>Sepenuhnya gratis dan tidak terbatas: J2download berkomitmen untuk tidak memungut biaya apa pun dari pengguna.</li><li>Mendukung pengunduhan video dalam format .mp3 dan .mp4 untuk semua perangkat (PC, Mac, Android, iOS).</li><li>Dapat diakses melalui browser web atau aplikasi Android.</li> </ul>"
+      },
+      "tutorial": {
+        "computer": {
+          "title": "Cara download video menggunakan J2download di komputer/PC:",
+          "description": "<p><strong>Langkah 1:</strong> Salin tautan video yang ingin Anda unduh. <img src=\"/static/png/copy-link-video.png\" alt=\"Sao chép link video web\"></p><p><strong>Langkah 2:</strong> Mengakses <strong>Unduh J2</strong> di dalam <a href=\"/\">https://J2download.com</a>.</p><p><strong>Langkah 3:</strong> Rekatkan tautan ke toolbar J2download dan klik \"Unduh\" <img src=\"/static/png/download-video.png\" alt=\"Tải xuống video PC\"></p><br>"
+        }
+      },
+      "notice": "<strong>Pendeknya:</strong> Panduan di atas menjelaskan cara mengunduh video di ketiga platform populer: Android (Samsung, Oppo, dll.), iOS (iPhone, iPad, dll.), dan komputer (PC, MacOS, Windows). "
+    }
+  },
+  "notfound404": {
+    "message": "MAAF, HALAMAN YANG ANDA CARI TIDAK ADA!",
+    "return": "Kembali ke halaman beranda"
+  }
+}

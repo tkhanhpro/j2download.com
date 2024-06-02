@@ -1,0 +1,344 @@
+{
+  "first_name": "J2",
+  "last_name": "Download",
+  "header": {
+    "all": {
+      "title": "Télécharger la vidéo Tout en un",
+      "description": "L'outil de téléchargement de vidéos All In One est entièrement gratuit. ",
+      "meta": {
+        "title": "Téléchargez des vidéos sans logo, filigrane, filigrane gratuitement",
+        "application_name": "Nom de ma candidature",
+        "description": "L'outil de téléchargement de vidéos All In One est entièrement gratuit. ",
+        "twitter": {
+          "title": "Téléchargez des vidéos tiktok sans logo, filigrane, filigrane gratuitement",
+          "description": "L'outil de téléchargement de vidéos All In One est entièrement gratuit. "
+        },
+        "itemprop": {
+          "name": "J2télécharger",
+          "description": "Téléchargement de vidéos tout-en-un - J2download.com est l'un des meilleurs outils gratuits disponibles en ligne pour télécharger des vidéos sans filigrane."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader - Télécharger la vidéo tout en un - J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "hommeG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "tiktok": {
+      "title": "Téléchargez des vidéos tiktok sans logo, filigrane, filigrane gratuitement",
+      "description": "Outil de téléchargement de vidéos Tiktok sans logo, filigrane, filigrane entièrement gratuit. ",
+      "meta": {
+        "title": "Téléchargez des vidéos tiktok sans logo, filigrane, filigrane gratuitement",
+        "application_name": "Nom de ma candidature",
+        "description": "Outil de téléchargement de vidéos Tiktok sans logo, filigrane, filigrane entièrement gratuit. ",
+        "twitter": {
+          "title": "Téléchargez des vidéos tiktok sans logo, filigrane, filigrane gratuitement",
+          "description": "Outil de téléchargement de vidéos Tiktok sans logo, filigrane, filigrane entièrement gratuit. "
+        },
+        "itemprop": {
+          "name": "J2télécharger",
+          "description": "Téléchargement de vidéos TikTok - J2download.com est l'un des meilleurs outils gratuits disponibles en ligne pour télécharger des vidéos sans filigrane de TikTok."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader - Téléchargez la vidéo Tiktok sans filigrane - J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "hommeG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "douyin": {
+      "title": "Téléchargez gratuitement des vidéos Douyin sans logo, filigrane ou filigrane",
+      "description": "L'outil de téléchargement de vidéos Douyin n'a pas de logo, de filigrane ou de filigrane entièrement gratuit. ",
+      "meta": {
+        "title": "Téléchargez gratuitement des vidéos Douyin sans logo, filigrane ou filigrane",
+        "application_name": "J2télécharger",
+        "description": "L'outil de téléchargement de vidéos Douyin n'a pas de logo, de filigrane ou de filigrane entièrement gratuit. ",
+        "twitter": {
+          "title": "Téléchargez gratuitement des vidéos Douyin sans logo, filigrane ou filigrane",
+          "description": "L'outil de téléchargement de vidéos Douyin n'a pas de logo, de filigrane ou de filigrane entièrement gratuit. "
+        },
+        "itemprop": {
+          "name": "J2télécharger",
+          "description": "Douyin Video Download - J2download.com est l'un des meilleurs outils gratuits disponibles en ligne pour télécharger des vidéos sans filigrane depuis Douyin."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader - Téléchargez la vidéo Tiktok sans filigrane - J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "hommeG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "how_to_download": {
+      "title": "Téléchargez gratuitement des vidéos sans logo, filigrane, images, audio",
+      "description": "Téléchargeur vidéo entièrement gratuit. ",
+      "meta": {
+        "title": "Téléchargez des vidéos sans logo, filigrane, filigrane gratuitement",
+        "application_name": "Nom de ma candidature",
+        "description": "Outil de téléchargement de vidéos sans logo, filigrane, filigrane entièrement gratuit. ",
+        "twitter": {
+          "title": "Téléchargez des vidéos sans logo, filigrane, filigrane gratuitement",
+          "description": "Outil de téléchargement de vidéos sans logo, filigrane, filigrane entièrement gratuit. "
+        },
+        "itemprop": {
+          "name": "J2télécharger",
+          "description": "Téléchargement de vidéos - J2download.com est l'un des meilleurs outils gratuits disponibles en ligne pour télécharger des vidéos sans filigrane."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader - Télécharger des vidéos sans filigrane - J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "hommeG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    }
+  },
+  "title": {
+    "all": "Téléchargez tout en un",
+    "tiktok": "Télécharger des vidéos TikTok",
+    "douyin": "Télécharger les vidéos de Douyin",
+    "how_to_download": "Comment télécharger des vidéos, des photos, de l'audio"
+  },
+  "title_2": {
+    "all": "Rapide, facile, gratuit",
+    "tiktok": "Pas de logo, de diapositives, d'histoires, d'audio",
+    "douyin": "Pas de logo, de diapositives, d'histoires, d'audio"
+  },
+  "description": {
+    "all": "L'outil de téléchargement de vidéos All In One est entièrement gratuit. ",
+    "tiktok": "Téléchargez gratuitement des vidéos TikTok sans logo, filigrane ou filigrane. ",
+    "douyin": "Téléchargez des vidéos Douyin sans logo, ni filigrane ou filigrane entièrement gratuitement. "
+  },
+  "placeholder": "Collez le lien ici",
+  "paste_icon": "Pâte",
+  "clear_icon": "Effacer",
+  "download_icon": "Télécharger",
+  "download": "Télécharger",
+  "home": "Page d'accueil",
+  "footer": {
+    "privacy_policy": "politique de confidentialité",
+    "terms_of_service": "Conditions d'utilisation",
+    "contact_us": "Contactez-nous",
+    "about_us": "À propos de nous",
+    "tool": {
+      "all": "Téléchargez de la vidéo et de l'audio tout en un",
+      "tiktok": "Téléchargez des vidéos, des diapositives et des histoires Tiktok",
+      "douyin": "Téléchargez des vidéos, des diapositives, des histoires Douyin",
+      "how_to_download": "Comment télécharger des vidéos, des photos, de l'audio"
+    }
+  },
+  "share": "Partager",
+  "select_language": "Choisir la langue",
+  "install_app": {
+    "ios": "/",
+    "android": "/"
+  },
+  "card": {
+    "render_video": "Rendre des vidéos",
+    "preparing_render": "Preparing files to render",
+    "preparing_rendering": "Rendering...",
+    "preparing_render_complete": "Render Completed",
+    "download": "Télécharger",
+    "download_photo": "Télécharger l'image",
+    "download_video": "Télécharger des vidéos",
+    "download_server_2": "Serveur de téléchargement 2",
+    "download_other_video": "Autres téléchargements",
+    "download_success": "Téléchargé avec succès",
+    "download_error": "Échec du téléchargement",
+    "download_mp3": "Télécharger MP3"
+  },
+  "error": "Erreur!  ",
+  "invalid_url": "Lien invalide!",
+  "paste_button": {
+    "success": "Collez le texte avec succès !",
+    "error": "Le collage du texte a échoué ! "
+  },
+  "container": {
+    "auto_bot": "Téléchargement automatique du robot",
+    "support_platform": {
+      "title": "Plateforme d'assistance",
+      "description": "Tiktok, Douyin, Capcut, Threads, Instagram, Facebook, Espn, Kuaishou, Pinterest, imdb, imgur, ifunny, Izlesene, Reddit, Youtube, Twitter, Vimeo, Snapchat, Bilibili, Dailymotion, Sharechat, Linkedin, Tumblr, Hipi, Telegram, Getstickerpack, Bitchute, Febspot, 9GAG, oke.ru, Rumble, Streamable, Ted, SohuTv, Xvideos, Xnxx, Xiaohongshu, Weibo, Miaopai, Meipai, Xiaoying, National Video, Yingke, Soundcloud, Mixcloud, Spotify, Zingmp3, Bandcamp."
+    },
+    "title_download": "Téléchargez l'application de téléchargement J2",
+    "description_title": {
+      "all": "J2download propose actuellement une application qui permet de télécharger des vidéos et de l'audio depuis de nombreux réseaux sociaux différents. ",
+      "tiktok": "Actuellement, J2download fournit une application qui permet de télécharger des vidéos TikTok. ",
+      "douyin": "J2download propose actuellement une application qui permet de télécharger des vidéos Douyin. "
+    },
+    "title_f14": {
+      "all": "Téléchargez gratuitement des vidéos, des images et de l'audio tout en un",
+      "tiktok": "Téléchargez gratuitement des vidéos TikTok sans logo (filigrane)",
+      "douyin": "Téléchargez gratuitement des vidéos Douyin sans logo (filigrane)"
+    },
+    "description_f14": {
+      "all": "J2download est un outil permettant de télécharger gratuitement des vidéos, des images et de l'audio en ligne. ",
+      "tiktok": "J2download est un outil pour télécharger des vidéos TikTok en ligne sans le logo flou. ",
+      "douyin": "J2download est un outil permettant de télécharger des vidéos Douyin en ligne sans logos flous. "
+    },
+    "subtitle_f14": "Fonction principale",
+    "main_function": {
+      "all": {
+        "1": "Téléchargez des vidéos, des images, de l'audio, Supportez le téléchargement sur tous types d'appareils : mobile, PC, tablette.",
+        "2": "La vidéo téléchargée n'aura pas le logo Tik Tok ni l'ID utilisateur collés au-dessus et en dessous de la vidéo comme les téléchargements normaux.",
+        "3": "Vous pouvez le télécharger à l’aide d’un navigateur Web ou du logiciel Android J2download.",
+        "4": "Tout est gratuit. ",
+        "5": "Prend en charge le téléchargement de vidéos, de photos et d'audio aux formats .mp3, .mp4, .jpg pour tous les appareils (PC, Mac, Android, iOS).",
+        "6": "Le nouveau J2download offre aux utilisateurs la possibilité de télécharger des diaporamas de photos au format vidéo Mp4. "
+      },
+      "tiktok": {
+        "1": "Téléchargez des vidéos TikTok, Support Téléchargez des vidéos tiktok sur tous types d'appareils : mobile, PC, tablette. ",
+        "2": "La vidéo téléchargée n'aura pas le logo Tik Tok ni l'ID utilisateur collés au-dessus et en dessous de la vidéo comme les téléchargements normaux.",
+        "3": "Vous pouvez le télécharger à l’aide d’un navigateur Web ou du logiciel Android J2download.",
+        "4": "Tout est gratuit. ",
+        "5": "Prise en charge du téléchargement de vidéos TikTok au format .mp3, .mp4 pour tous les appareils (PC, Mac, Android, iOS).",
+        "6": "Le nouveau J2download offre aux utilisateurs la possibilité de télécharger des diaporamas de photos Tiktok au format vidéo Mp4. "
+      },
+      "douyin": {
+        "1": "Téléchargez les vidéos Douyin, Support Téléchargez les vidéos Douyin sur tous types d'appareils : mobile, PC, tablette. ",
+        "2": "La vidéo téléchargée n'aura pas le logo Tik Tok ni l'ID utilisateur collés au-dessus et en dessous de la vidéo comme les téléchargements normaux.",
+        "3": "Vous pouvez le télécharger à l’aide d’un navigateur Web ou du logiciel Android J2download.",
+        "4": "Tout est gratuit. ",
+        "5": "Prise en charge du téléchargement de vidéos Douyin au format .mp3, .mp4 pour tous les appareils (PC, Mac, Android, iOS).",
+        "6": "Le nouveau J2download offre aux utilisateurs la possibilité de télécharger les diaporamas de photos de Douyin au format vidéo Mp4. "
+      }
+    }
+  },
+  "faq": {
+    "title": {
+      "all": {
+        "1": "Comment télécharger des vidéos sans filigrane",
+        "2": "Où la vidéo est-elle enregistrée une fois téléchargée ?",
+        "3": "J2download stocke-t-il les vidéos téléchargées ou conserve-t-il une copie de la vidéo ?",
+        "4": "Dois-je installer des extensions ?",
+        "5": "Dois-je payer pour télécharger des vidéos ?",
+        "6": "Comment enregistrer/télécharger mes vidéos préférées sur iPhone/iPad (iOS) ?",
+        "7": "Puis-je télécharger des vidéos sur mon téléphone Android ?",
+        "8": "Y a-t-il une limite au nombre de téléchargements pour télécharger des vidéos sur J2download ?",
+        "9": "J2download prend-il en charge le téléchargement de plusieurs vidéos/le téléchargement de toutes les vidéos de certaines chaînes/les Htags ?",
+        "10": "Puis-je télécharger des vidéos haute définition sur J2download ?",
+        "11": "Puis-je éditer des vidéos téléchargées sur J2download ?",
+        "12": "J2download fournit-il une solution de téléchargement mp3 ?"
+      },
+      "tiktok": {
+        "1": "Comment télécharger des vidéos TikTok sans filigrane",
+        "2": "Où les vidéos TikTok sont-elles enregistrées après avoir été téléchargées ?",
+        "3": "J2download stocke-t-il les vidéos téléchargées ou conserve-t-il une copie de la vidéo ?",
+        "4": "Dois-je installer des extensions ?",
+        "5": "Dois-je payer pour télécharger des vidéos Tik Tok ?",
+        "6": "Comment enregistrer/télécharger mes vidéos Tik Tok préférées sur iPhone/iPad (iOS) ?",
+        "7": "Puis-je télécharger des vidéos Tik Tok sur mon téléphone Android ?",
+        "8": "Y a-t-il une limite au nombre de téléchargements pour télécharger des vidéos Tiktok sur J2download ?",
+        "9": "J2download prend-il en charge le téléchargement de plusieurs vidéos/le téléchargement de toutes les vidéos de certaines chaînes tiktok/Htags ?",
+        "10": "Puis-je télécharger des vidéos TikTok haute résolution sur J2download ?",
+        "11": "Puis-je modifier des vidéos TikTok téléchargées sur J2download ?",
+        "12": "J2download fournit-il une solution de téléchargement mp3 tiktok ?"
+      },
+      "douyin": {
+        "1": "Comment télécharger des vidéos Douyin sans filigrane",
+        "2": "Où les vidéos Douyin sont-elles enregistrées après avoir été téléchargées ?",
+        "3": "J2download stocke-t-il les vidéos téléchargées ou conserve-t-il une copie de la vidéo ?",
+        "4": "Dois-je installer des extensions ?",
+        "5": "Dois-je payer pour télécharger des vidéos Tik Tok ?",
+        "6": "Comment enregistrer/télécharger mes vidéos Tik Tok préférées sur iPhone/iPad (iOS) ?",
+        "7": "Puis-je télécharger des vidéos Tik Tok sur mon téléphone Android ?",
+        "8": "Y a-t-il une limite au nombre de téléchargements pour télécharger des vidéos Douyin sur J2download ?",
+        "9": "J2download prend-il en charge le téléchargement de plusieurs vidéos/le téléchargement de toutes les vidéos de certaines chaînes Douyin/Htags ?",
+        "10": "Puis-je télécharger des vidéos Douyin haute résolution sur J2download ?",
+        "11": "Puis-je éditer les vidéos Douyin téléchargées sur J2download ?",
+        "12": "J2download fournit-il une solution de téléchargement mp3 Douyin ?"
+      }
+    },
+    "reply": {
+      "all": {
+        "1": "Ouvrez l'application sur votre téléphone. ",
+        "2": "Téléchargez les fichiers, ils sont généralement enregistrés dans le dossier de téléchargement que vous avez défini par défaut. ",
+        "3": "J2download n'héberge pas de vidéos. ",
+        "4": "Ne sont pas. ",
+        "5": "Non, vous n'êtes pas obligé. ",
+        "6": "En raison de la politique de confidentialité d'Apple, à partir d'IOS 12 et d'IPAD OS 12 et versions antérieures, vous ne pouvez pas télécharger de vidéos, de musique ou de films sur iPhone. ",
+        "7": "Oui, mais pour plus de commodité, nous vous recommandons d'utiliser le logiciel J2download. ",
+        "8": "Non, vous pouvez télécharger plusieurs de vos vidéos préférées sur J2download sans avoir à limiter le nombre de téléchargements.",
+        "9": "Non, J2download ne prend pas encore en charge cette fonctionnalité.",
+        "10": "Oui, J2download est un téléchargeur vidéo qui vous offre la résolution la plus élevée. ",
+        "11": "Non, J2download est uniquement un outil de téléchargement de vidéos et ne prend pas en charge le montage vidéo. ",
+        "12": "J2download fournit un téléchargement complet de musique mp3."
+      },
+      "tiktok": {
+        "1": "Ouvrez l'application TikTok sur votre téléphone. ",
+        "2": "Téléchargez les fichiers, ils sont généralement enregistrés dans le dossier de téléchargement que vous avez défini par défaut. ",
+        "3": "J2download n'héberge pas de vidéos. ",
+        "4": "Ne sont pas. ",
+        "5": "Non, vous n'êtes pas obligé. ",
+        "6": "En raison de la politique de confidentialité d'Apple, à partir d'IOS 12 et d'IPAD OS 12 et versions antérieures, vous ne pouvez pas télécharger de vidéos, de musique ou de films sur iPhone. ",
+        "7": "Oui, mais pour plus de commodité, nous vous recommandons d'utiliser le logiciel J2download. ",
+        "8": "Non, vous pouvez télécharger plusieurs de vos vidéos TikTok préférées sur J2download sans limites de téléchargement.",
+        "9": "Non, J2download ne prend pas encore en charge cette fonctionnalité.",
+        "10": "Oui, J2download est un téléchargeur de vidéos TikTok qui vous offre la résolution la plus élevée. ",
+        "11": "Non, J2download n'est qu'un outil pour télécharger des vidéos TikTok, il ne prend pas en charge le montage vidéo. ",
+        "12": "J2download fournit un téléchargement complet de musique mp3."
+      },
+      "douyin": {
+        "1": "Ouvrez l'application Douyin sur votre téléphone. ",
+        "2": "Téléchargez les fichiers, ils sont généralement enregistrés dans le dossier de téléchargement que vous avez défini par défaut. ",
+        "3": "J2download n'héberge pas de vidéos. ",
+        "4": "Ne sont pas. ",
+        "5": "Non, vous n'êtes pas obligé. ",
+        "6": "En raison de la politique de confidentialité d'Apple, à partir d'IOS 12 et d'IPAD OS 12 et versions antérieures, vous ne pouvez pas télécharger de vidéos, de musique ou de films sur iPhone. ",
+        "7": "Oui, mais pour plus de commodité, nous vous recommandons d'utiliser le logiciel J2download. ",
+        "8": "Non, vous pouvez télécharger plusieurs de vos vidéos Douyin préférées sur J2download sans limites de téléchargement.",
+        "9": "Non, J2download ne prend pas encore en charge cette fonctionnalité.",
+        "10": "Oui, J2download est un téléchargeur vidéo Douyin qui vous offre la plus haute résolution. ",
+        "11": "Non, J2download n'est qu'un outil de téléchargement de vidéos Douyin, ne prend pas en charge le montage vidéo. ",
+        "12": "J2download fournit un téléchargement complet de musique mp3."
+      }
+    }
+  },
+  "alert": {
+    "all": "Remarque : J2download n'est pas un outil de réseau social, nous n'avons aucune relation avec des tiers.  ",
+    "tiktok": "Remarque : J2download n'est pas un outil de Tiktok, nous n'avons aucune relation avec Tiktok ou ByteDance Ltd. ",
+    "douyin": "Remarque : J2download n'est pas un outil douyin, nous n'avons aucune relation avec Douyin ou ByteDance Ltd. "
+  },
+  "other": {
+    "how_to_download": {
+      "title_h1": "Comment utiliser J2download pour télécharger des vidéos sur des téléphones et ordinateurs iOS/Android",
+      "description_h1": "Avec sa popularité mondiale, la demande de téléchargement de vidéos à partir de cette plateforme a considérablement augmenté. <br><br>Certaines personnes peuvent ne pas vouloir que le logo et l'identifiant du téléchargeur soient inclus dans la vidéo téléchargée. <br><br>De nos jours, il existe plusieurs outils gratuits pour télécharger des vidéos pour les appareils iOS et Android, ainsi que pour les ordinateurs. ",
+      "introducing": {
+        "title": "Présentation de J2download",
+        "description": "<strong>J2download est un téléchargeur de vidéos en ligne populaire qui vous permet de télécharger des vidéos sans logos ni filigranes.<br><br>Vous n'avez pas besoin de télécharger de logiciel sur votre ordinateur ou votre téléphone. "
+      },
+      "feature": {
+        "title": "Principales fonctionnalités de J2download :",
+        "description": "<p>Voici les raisons pour lesquelles vous devriez utiliser J2download pour télécharger des vidéos :</p><ul><li>Téléchargez des vidéos de haute qualité sans logo.</li><li>Télécharger l'assistance <a href=\"/\" title=\"Tải Video\">Vidéo</a> sur plusieurs appareils : téléphones mobiles, ordinateurs personnels et tablettes.</li><li>Entièrement gratuit et illimité : J2download s'engage à ne facturer aucun frais aux utilisateurs.</li><li>Prend en charge le téléchargement de vidéos aux formats .mp3 et .mp4 pour tous les appareils (PC, Mac, Android, iOS).</li><li>Accessible via un navigateur Web ou une application Android.</li> </ul>"
+      },
+      "tutorial": {
+        "computer": {
+          "title": "Comment télécharger des vidéos en utilisant J2download sur ordinateur/PC :",
+          "description": "<p><strong>Étape 1:</strong> Copiez le lien de la vidéo que vous souhaitez télécharger. <img src=\"/static/png/copy-link-video.png\" alt=\"Sao chép link video web\"></p><p><strong>Étape 2:</strong> Accéder <strong>J2télécharger</strong> dans <a href=\"/\">https://J2download.com</a>.</p><p><strong>Étape 3:</strong> Collez le lien dans la barre d'outils de J2download et cliquez sur \"Télécharger\" <img src=\"/static/png/download-video.png\" alt=\"Tải xuống video PC\"></p><br>"
+        }
+      },
+      "notice": "<strong>En bref:</strong> Le guide ci-dessus explique comment télécharger des vidéos sur les trois plateformes populaires : Android (Samsung, Oppo, etc.), iOS (iPhone, iPad, etc.) et ordinateur (PC, MacOS, Windows). "
+    }
+  },
+  "notfound404": {
+    "message": "DÉSOLÉ, LA PAGE QUE VOUS RECHERCHEZ N'EXISTE PAS !",
+    "return": "Retour à la page d'accueil"
+  }
+}

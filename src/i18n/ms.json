@@ -1,0 +1,344 @@
+{
+  "first_name": "J2",
+  "last_name": "Download",
+  "header": {
+    "all": {
+      "title": "Muat turun video Semua Dalam Satu",
+      "description": "Alat muat turun video All In One adalah percuma sepenuhnya. ",
+      "meta": {
+        "title": "Muat turun video tanpa logo, tera air, tera air secara percuma",
+        "application_name": "Nama permohonan saya",
+        "description": "Alat muat turun video All In One adalah percuma sepenuhnya. ",
+        "twitter": {
+          "title": "Muat turun video tiktok tanpa logo, tera air, tera air secara percuma",
+          "description": "Alat muat turun video All In One adalah percuma sepenuhnya. "
+        },
+        "itemprop": {
+          "name": "muat turun J2",
+          "description": "Muat Turun Video Semua Dalam Satu - J2download.com ialah salah satu alat percuma terbaik yang tersedia dalam talian untuk memuat turun video tanpa tera air."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader - Muat Turun Video Semua Dalam Satu - J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "manG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "tiktok": {
+      "title": "Muat turun video tiktok tanpa logo, tera air, tera air secara percuma",
+      "description": "Alat muat turun video Tiktok tanpa logo, tera air, tera air sepenuhnya percuma. ",
+      "meta": {
+        "title": "Muat turun video tiktok tanpa logo, tera air, tera air secara percuma",
+        "application_name": "Nama permohonan saya",
+        "description": "Alat muat turun video Tiktok tanpa logo, tera air, tera air sepenuhnya percuma. ",
+        "twitter": {
+          "title": "Muat turun video tiktok tanpa logo, tera air, tera air secara percuma",
+          "description": "Alat muat turun video Tiktok tanpa logo, tera air, tera air sepenuhnya percuma. "
+        },
+        "itemprop": {
+          "name": "muat turun J2",
+          "description": "Muat Turun Video TikTok - J2download.com ialah salah satu alat percuma terbaik yang tersedia dalam talian untuk memuat turun video tanpa tera air daripada TikTok."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader - Muat Turun Video Tiktok Tanpa Tera Air - J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "manG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "douyin": {
+      "title": "Muat turun video Douyin tanpa logo, tera air atau tera air secara percuma",
+      "description": "Alat muat turun video Douyin tidak mempunyai logo, tera air atau tera air secara percuma. ",
+      "meta": {
+        "title": "Muat turun video Douyin tanpa logo, tera air atau tera air secara percuma",
+        "application_name": "muat turun J2",
+        "description": "Alat muat turun video Douyin tidak mempunyai logo, tera air atau tera air secara percuma. ",
+        "twitter": {
+          "title": "Muat turun video Douyin tanpa logo, tera air atau tera air secara percuma",
+          "description": "Alat muat turun video Douyin tidak mempunyai logo, tera air atau tera air secara percuma. "
+        },
+        "itemprop": {
+          "name": "muat turun J2",
+          "description": "Muat Turun Video Douyin - J2download.com ialah salah satu alat percuma terbaik yang tersedia dalam talian untuk memuat turun video tanpa tera air daripada Douyin."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader - Muat Turun Video Tiktok Tanpa Tera Air - J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "manG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "how_to_download": {
+      "title": "Muat turun video tanpa logo, tera air, imej, audio secara percuma",
+      "description": "Pemuat turun video percuma sepenuhnya. ",
+      "meta": {
+        "title": "Muat turun video tanpa logo, tera air, tera air secara percuma",
+        "application_name": "Nama permohonan saya",
+        "description": "Alat muat turun video tanpa logo, tera air, tera air sepenuhnya percuma. ",
+        "twitter": {
+          "title": "Muat turun video tanpa logo, tera air, tera air secara percuma",
+          "description": "Alat muat turun video tanpa logo, tera air, tera air sepenuhnya percuma. "
+        },
+        "itemprop": {
+          "name": "muat turun J2",
+          "description": "Muat Turun Video - J2download.com ialah salah satu alat percuma terbaik yang tersedia dalam talian untuk memuat turun video tanpa tera air."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader - Muat Turun Video Tanpa Tera Air - J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "manG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    }
+  },
+  "title": {
+    "all": "Muat Turun Semua Dalam Satu",
+    "tiktok": "Muat turun Video TikTok",
+    "douyin": "Muat turun Video Douyin",
+    "how_to_download": "Bagaimana untuk memuat turun video, foto, audio"
+  },
+  "title_2": {
+    "all": "Cepat, mudah, percuma",
+    "tiktok": "Tiada logo, slaid, cerita, audio",
+    "douyin": "Tiada logo, slaid, cerita, audio"
+  },
+  "description": {
+    "all": "Alat muat turun video All In One adalah percuma sepenuhnya. ",
+    "tiktok": "Muat turun video TikTok tanpa logo, tera air atau tera air secara percuma sepenuhnya. ",
+    "douyin": "Muat turun video Douyin tanpa logo, tera air atau tera air secara percuma sepenuhnya. "
+  },
+  "placeholder": "Tampal pautan di sini",
+  "paste_icon": "tampal",
+  "clear_icon": "Padam",
+  "download_icon": "Muat turun",
+  "download": "Muat turun",
+  "home": "Laman utama",
+  "footer": {
+    "privacy_policy": "Dasar Privasi",
+    "terms_of_service": "Syarat perkhidmatan",
+    "contact_us": "Hubungi Kami",
+    "about_us": "Tentang kita",
+    "tool": {
+      "all": "Muat turun video dan audio All In One",
+      "tiktok": "Muat turun video Tiktok, slaid, cerita",
+      "douyin": "Muat turun video, slaid, cerita Douyin",
+      "how_to_download": "Bagaimana untuk memuat turun video, foto, audio"
+    }
+  },
+  "share": "Kongsi",
+  "select_language": "Pilih Bahasa",
+  "install_app": {
+    "ios": "/",
+    "android": "/"
+  },
+  "card": {
+    "render_video": "Membuat video",
+    "preparing_render": "Preparing files to render",
+    "preparing_rendering": "Rendering...",
+    "preparing_render_complete": "Render Completed",
+    "download": "Muat turun",
+    "download_photo": "Muat turun Imej",
+    "download_video": "Muat turun Video",
+    "download_server_2": "Muat turun pelayan 2",
+    "download_other_video": "Muat turun lain",
+    "download_success": "Berjaya dimuat turun",
+    "download_error": "Muat turun gagal",
+    "download_mp3": "Muat turun MP3"
+  },
+  "error": "Ralat!  ",
+  "invalid_url": "Pautan tidak sah!",
+  "paste_button": {
+    "success": "Tampal teks berjaya!",
+    "error": "Menampal teks gagal! "
+  },
+  "container": {
+    "auto_bot": "Muat Turun Auto Bot",
+    "support_platform": {
+      "title": "Platform sokongan",
+      "description": "Tiktok, Douyin, Capcut, Threads, Instagram, Facebook, Espn, Kuaishou, Pinterest, imdb, imgur, ifunny, Izlesene, Reddit, Youtube, Twitter, Vimeo, Snapchat, Bilibili, Dailymotion, Sharechat, Linkedin, Tumblr, Hipi, Telegram, Getstickerpack, Bitchute, Febspot, 9GAG, oke.ru, Rumble, Streamable, Ted, SohuTv, Xvideos, Xnxx, Xiaohongshu, Weibo, Miaopai, Meipai, Xiaoying, National Video, Yingke, Soundcloud, Mixcloud, Spotify, Zingmp3, Bandcamp."
+    },
+    "title_download": "Muat turun aplikasi J2download",
+    "description_title": {
+      "all": "J2download pada masa ini menyediakan aplikasi yang membenarkan memuat turun video dan audio daripada pelbagai rangkaian sosial yang berbeza. ",
+      "tiktok": "Pada masa ini J2download menyediakan aplikasi yang membenarkan memuat turun video TikTok. ",
+      "douyin": "J2download kini menyediakan aplikasi yang membenarkan memuat turun video Douyin. "
+    },
+    "title_f14": {
+      "all": "Muat turun video, imej, audio All In One secara percuma",
+      "tiktok": "Muat turun video TikTok tanpa logo (tera air) secara percuma",
+      "douyin": "Muat turun video Douyin tanpa logo (tera air) secara percuma"
+    },
+    "description_f14": {
+      "all": "J2download ialah alat untuk memuat turun video, imej dan audio dalam talian secara percuma. ",
+      "tiktok": "J2download ialah alat untuk memuat turun video TikTok dalam talian tanpa logo kabur. ",
+      "douyin": "J2download ialah alat untuk memuat turun video Douyin dalam talian tanpa logo kabur. "
+    },
+    "subtitle_f14": "Fungsi utama",
+    "main_function": {
+      "all": {
+        "1": "Muat turun video, imej, audio, Sokongan Muat turun pada semua jenis peranti: mudah alih, PC, tablet.",
+        "2": "Video yang dimuat turun tidak akan mempunyai logo Tik Tok dan ID Pengguna tersepit di atas dan di bawah video seperti muat turun biasa.",
+        "3": "Anda boleh memuat turunnya menggunakan pelayar web atau perisian android J2download.",
+        "4": "Semua percuma. ",
+        "5": "Menyokong memuat turun video, foto, audio dalam format .mp3, .mp4, .jpg untuk semua peranti (PC, Mac, Android, iOS).",
+        "6": "J2download baharu menyediakan pengguna dengan keupayaan untuk memuat turun tayangan slaid foto dalam format Video Mp4. "
+      },
+      "tiktok": {
+        "1": "Muat turun video TikTok, Sokongan Muat turun video tiktok pada semua jenis peranti: mudah alih, PC, tablet. ",
+        "2": "Video yang dimuat turun tidak akan mempunyai logo Tik Tok dan ID Pengguna tersepit di atas dan di bawah video seperti muat turun biasa.",
+        "3": "Anda boleh memuat turunnya menggunakan pelayar web atau perisian android J2download.",
+        "4": "Semua percuma. ",
+        "5": "Sokong memuat turun video TikTok dalam format .mp3, .mp4 untuk semua peranti (PC, Mac, Android, iOS).",
+        "6": "J2download baharu menyediakan pengguna dengan keupayaan untuk memuat turun rancangan slaid foto Tiktok dalam format Mp4 Video. "
+      },
+      "douyin": {
+        "1": "Muat turun video Douyin, Sokongan Muat turun video Douyin pada semua jenis peranti: mudah alih, PC, tablet. ",
+        "2": "Video yang dimuat turun tidak akan mempunyai logo Tik Tok dan ID Pengguna tersepit di atas dan di bawah video seperti muat turun biasa.",
+        "3": "Anda boleh memuat turunnya menggunakan pelayar web atau perisian android J2download.",
+        "4": "Semua percuma. ",
+        "5": "Sokong memuat turun video Douyin dalam format .mp3, .mp4 untuk semua peranti (PC, Mac, Android, iOS).",
+        "6": "J2download baharu menyediakan pengguna dengan keupayaan untuk memuat turun tayangan slaid foto Douyin dalam format Video Mp4. "
+      }
+    }
+  },
+  "faq": {
+    "title": {
+      "all": {
+        "1": "Bagaimana untuk memuat turun video tanpa tera air",
+        "2": "Di manakah video disimpan selepas ia dimuat turun?",
+        "3": "Adakah J2download menyimpan video yang dimuat turun atau menyimpan salinan video tersebut?",
+        "4": "Adakah saya perlu memasang sambungan?",
+        "5": "Adakah saya perlu membayar untuk memuat turun video?",
+        "6": "Bagaimana untuk menyimpan/memuat turun video kegemaran saya ke iPhone/iPad (iOS)?",
+        "7": "Bolehkah saya memuat turun video pada telefon Android saya?",
+        "8": "Adakah terdapat had bilangan muat turun untuk memuat turun video di J2download?",
+        "9": "Adakah J2download menyokong memuat turun berbilang video / Memuat turun semua video daripada saluran tertentu / Htags?",
+        "10": "Bolehkah saya memuat turun video definisi tinggi di J2download?",
+        "11": "Bolehkah saya mengedit video yang dimuat turun di J2download?",
+        "12": "Adakah J2download menyediakan penyelesaian muat turun mp3?"
+      },
+      "tiktok": {
+        "1": "Bagaimana untuk memuat turun Video TikTok tanpa tera air",
+        "2": "Di manakah video TikTok disimpan selepas dimuat turun?",
+        "3": "Adakah J2download menyimpan video yang dimuat turun atau menyimpan salinan video tersebut?",
+        "4": "Adakah saya perlu memasang sambungan?",
+        "5": "Adakah saya perlu membayar untuk memuat turun video Tik Tok?",
+        "6": "Bagaimana untuk menyimpan/memuat turun video Tik Tok kegemaran saya ke iPhone/iPad (iOS)?",
+        "7": "Bolehkah saya memuat turun video Tik Tok pada telefon Android saya?",
+        "8": "Adakah terdapat had bilangan muat turun untuk memuat turun video Tiktok di J2download?",
+        "9": "Adakah J2download menyokong memuat turun berbilang video / Memuat turun semua video daripada saluran tiktok / Htag tertentu?",
+        "10": "Bolehkah saya memuat turun video TikTok beresolusi tinggi di J2download?",
+        "11": "Bolehkah saya mengedit video TikTok yang dimuat turun di J2download?",
+        "12": "Adakah J2download menyediakan penyelesaian muat turun mp3 tiktok?"
+      },
+      "douyin": {
+        "1": "Bagaimana untuk memuat turun Video Douyin tanpa tera air",
+        "2": "Di manakah video Douyin disimpan selepas dimuat turun?",
+        "3": "Adakah J2download menyimpan video yang dimuat turun atau menyimpan salinan video tersebut?",
+        "4": "Adakah saya perlu memasang sambungan?",
+        "5": "Adakah saya perlu membayar untuk memuat turun video Tik Tok?",
+        "6": "Bagaimana untuk menyimpan/memuat turun video Tik Tok kegemaran saya ke iPhone/iPad (iOS)?",
+        "7": "Bolehkah saya memuat turun video Tik Tok pada telefon Android saya?",
+        "8": "Adakah terdapat had kepada bilangan muat turun untuk memuat turun video Douyin di J2download?",
+        "9": "Adakah J2download menyokong memuat turun berbilang video / Memuat turun semua video daripada saluran Douyin / Htags tertentu?",
+        "10": "Bolehkah saya memuat turun video Douyin beresolusi tinggi di J2download?",
+        "11": "Bolehkah saya mengedit video Douyin yang dimuat turun di J2download?",
+        "12": "Adakah J2download menyediakan penyelesaian muat turun mp3 Douyin?"
+      }
+    },
+    "reply": {
+      "all": {
+        "1": "Buka apl pada telefon anda. ",
+        "2": "Muat turun fail, ia biasanya disimpan ke folder muat turun yang telah anda tetapkan sebagai lalai. ",
+        "3": "J2download tidak mengehoskan video. ",
+        "4": "Bukan. ",
+        "5": "Tidak, anda tidak perlu. ",
+        "6": "Disebabkan dasar privasi Apple, daripada IOS 12 dan IPAD OS 12 dan ke bawah anda tidak boleh memuat turun sebarang video, muzik atau filem ke iPhone. ",
+        "7": "Ya, tetapi untuk lebih kemudahan kami mengesyorkan menggunakan perisian J2download. ",
+        "8": "Tidak, anda boleh memuat turun banyak video kegemaran anda di J2download tanpa perlu mengehadkan bilangan muat turun.",
+        "9": "Tidak, J2download tidak menyokong ciri ini lagi.",
+        "10": "Ya, J2download ialah pemuat turun video yang menyediakan peleraian tertinggi untuk anda. ",
+        "11": "Tidak, J2download hanyalah alat muat turun video, tidak menyokong penyuntingan video. ",
+        "12": "J2download menyediakan muat turun muzik mp3 penuh."
+      },
+      "tiktok": {
+        "1": "Buka apl TikTok pada telefon anda. ",
+        "2": "Muat turun fail, ia biasanya disimpan ke folder muat turun yang telah anda tetapkan sebagai lalai. ",
+        "3": "J2download tidak mengehoskan video. ",
+        "4": "Bukan. ",
+        "5": "Tidak, anda tidak perlu. ",
+        "6": "Disebabkan dasar privasi Apple, daripada IOS 12 dan IPAD OS 12 dan ke bawah anda tidak boleh memuat turun sebarang video, muzik atau filem ke iPhone. ",
+        "7": "Ya, tetapi untuk lebih kemudahan kami mengesyorkan menggunakan perisian J2download. ",
+        "8": "Tidak, anda boleh memuat turun banyak video TikTok kegemaran anda di J2download tanpa had muat turun.",
+        "9": "Tidak, J2download tidak menyokong ciri ini lagi.",
+        "10": "Ya, J2download ialah pemuat turun video TikTok yang menyediakan peleraian tertinggi untuk anda. ",
+        "11": "Tidak, J2download hanyalah alat untuk memuat turun video TikTok, ia tidak menyokong penyuntingan video. ",
+        "12": "J2download menyediakan muat turun muzik mp3 penuh."
+      },
+      "douyin": {
+        "1": "Buka apl Douyin pada telefon anda. ",
+        "2": "Muat turun fail, ia biasanya disimpan ke folder muat turun yang telah anda tetapkan sebagai lalai. ",
+        "3": "J2download tidak mengehoskan video. ",
+        "4": "Bukan. ",
+        "5": "Tidak, anda tidak perlu. ",
+        "6": "Disebabkan dasar privasi Apple, daripada IOS 12 dan IPAD OS 12 dan ke bawah anda tidak boleh memuat turun sebarang video, muzik atau filem ke iPhone. ",
+        "7": "Ya, tetapi untuk lebih kemudahan kami mengesyorkan menggunakan perisian J2download. ",
+        "8": "Tidak, anda boleh memuat turun banyak video Douyin kegemaran anda di J2download tanpa had muat turun.",
+        "9": "Tidak, J2download tidak menyokong ciri ini lagi.",
+        "10": "Ya, J2download ialah pemuat turun video Douyin yang menyediakan peleraian tertinggi untuk anda. ",
+        "11": "Tidak, J2download hanyalah alat muat turun video Douyin, tidak menyokong penyuntingan video. ",
+        "12": "J2download menyediakan muat turun muzik mp3 penuh."
+      }
+    }
+  },
+  "alert": {
+    "all": "Nota: J2download bukan alat rangkaian sosial, kami tidak mempunyai hubungan dengan mana-mana pihak kedua.  ",
+    "tiktok": "Nota: J2download bukan alat Tiktok, kami tidak mempunyai hubungan dengan Tiktok atau ByteDance Ltd. ",
+    "douyin": "Nota: J2download bukan alat douyin, kami tidak mempunyai hubungan dengan Douyin atau ByteDance Ltd. "
+  },
+  "other": {
+    "how_to_download": {
+      "title_h1": "Cara Menggunakan J2download untuk Muat Turun Video pada iOS/Android Telefon dan Komputer",
+      "description_h1": "Dengan populariti globalnya, permintaan untuk memuat turun video daripada platform ini telah meningkat dengan ketara. <br><br>Sesetengah orang mungkin tidak mahu logo dan ID pemuat naik disertakan dalam video yang dimuat turun. <br><br>Pada masa kini, terdapat beberapa alat percuma untuk memuat turun video untuk kedua-dua peranti iOS dan Android, serta komputer. ",
+      "introducing": {
+        "title": "Memperkenalkan J2download",
+        "description": "<strong>J2download ialah pemuat turun video dalam talian yang popular yang membolehkan anda memuat turun video tanpa logo atau tera air.<br><br>Anda tidak perlu memuat turun sebarang perisian pada komputer atau telefon anda. "
+      },
+      "feature": {
+        "title": "Ciri utama J2download:",
+        "description": "<p>Berikut ialah sebab mengapa anda perlu mengalami J2download untuk memuat turun video:</p><ul><li>Muat turun video berkualiti tinggi tanpa logo.</li><li>Muat turun sokongan <a href=\"/\" title=\"Tải Video\">Video</a> pada berbilang peranti: telefon mudah alih, komputer peribadi dan tablet.</li><li>Percuma dan tidak terhad sepenuhnya: J2download komited untuk tidak mengenakan sebarang bayaran daripada pengguna.</li><li>Menyokong memuat turun video dalam format .mp3 dan .mp4 untuk semua peranti (PC, Mac, Android, iOS).</li><li>Boleh diakses melalui pelayar web atau apl Android.</li> </ul>"
+      },
+      "tutorial": {
+        "computer": {
+          "title": "Cara memuat turun video menggunakan J2download pada komputer/PC:",
+          "description": "<p><strong>Langkah 1:</strong> Salin pautan video yang ingin anda muat turun. <img src=\"/static/png/copy-link-video.png\" alt=\"Sao chép link video web\"></p><p><strong>Langkah 2:</strong> Akses <strong>muat turun J2</strong> dalam <a href=\"/\">https://J2download.com</a>.</p><p><strong>Langkah 3:</strong> Tampalkan pautan ke dalam bar alat J2download dan klik \"Muat Turun\" <img src=\"/static/png/download-video.png\" alt=\"Tải xuống video PC\"></p><br>"
+        }
+      },
+      "notice": "<strong>Secara ringkasnya:</strong> Panduan di atas menerangkan cara memuat turun video pada ketiga-tiga platform popular: Android (Samsung, Oppo, dll.), iOS (iPhone, iPad, dll.), dan komputer (PC, MacOS, Windows). "
+    }
+  },
+  "notfound404": {
+    "message": "MAAF, PAGE YANG ANDA CARI TIDAK ADA!",
+    "return": "Kembali ke halaman utama"
+  }
+}

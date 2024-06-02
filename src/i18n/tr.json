@@ -1,0 +1,344 @@
+{
+  "first_name": "J2",
+  "last_name": "Download",
+  "header": {
+    "all": {
+      "title": "Hepsi Bir Arada videosunu indirin",
+      "description": "Hepsi Bir Arada video indirme aracı tamamen ücretsizdir. ",
+      "meta": {
+        "title": "Logosu, filigranı, filigranı olmayan videoları ücretsiz indirin",
+        "application_name": "Başvurumun adı",
+        "description": "Hepsi Bir Arada video indirme aracı tamamen ücretsizdir. ",
+        "twitter": {
+          "title": "Logo, filigran, filigran olmadan tiktok videolarını ücretsiz indirin",
+          "description": "Hepsi Bir Arada video indirme aracı tamamen ücretsizdir. "
+        },
+        "itemprop": {
+          "name": "J2 indir",
+          "description": "Hepsi Bir Arada Video İndirme - J2download.com, filigran olmadan video indirmek için çevrimiçi olarak mevcut en iyi ücretsiz araçlardan biridir."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 İndirici - Videoyu Hepsi Bir Arada İndirin - J2download",
+        "og_image": "/statik/png/anasayfa-web.png"
+      },
+      "links": {
+        "author": "yönetim",
+        "icon": {
+          "href": "/statik/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "tiktok": {
+      "title": "Logo, filigran, filigran olmadan tiktok videolarını ücretsiz indirin",
+      "description": "Logo, filigran, filigran olmadan Tiktok video indirme aracı tamamen ücretsizdir. ",
+      "meta": {
+        "title": "Logo, filigran, filigran olmadan tiktok videolarını ücretsiz indirin",
+        "application_name": "Başvurumun adı",
+        "description": "Logo, filigran, filigran olmadan Tiktok video indirme aracı tamamen ücretsizdir. ",
+        "twitter": {
+          "title": "Logo, filigran, filigran olmadan tiktok videolarını ücretsiz indirin",
+          "description": "Logo, filigran, filigran olmadan Tiktok video indirme aracı tamamen ücretsizdir. "
+        },
+        "itemprop": {
+          "name": "J2 indir",
+          "description": "TikTok Video İndirme - J2download.com, TikTok'tan filigran olmadan video indirmek için çevrimiçi olarak mevcut en iyi ücretsiz araçlardan biridir."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 İndirici - Filigran Olmadan Tiktok Videosunu İndirin - J2download",
+        "og_image": "/statik/png/anasayfa-web.png"
+      },
+      "links": {
+        "author": "yönetim",
+        "icon": {
+          "href": "/statik/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "douyin": {
+      "title": "Logo, filigran veya filigran olmadan Douyin videolarını ücretsiz indirin",
+      "description": "Douyin video indirme aracında tamamen ücretsiz bir logo, filigran veya filigran yoktur. ",
+      "meta": {
+        "title": "Logo, filigran veya filigran olmadan Douyin videolarını ücretsiz indirin",
+        "application_name": "J2 indir",
+        "description": "Douyin video indirme aracında tamamen ücretsiz bir logo, filigran veya filigran yoktur. ",
+        "twitter": {
+          "title": "Logo, filigran veya filigran olmadan Douyin videolarını ücretsiz indirin",
+          "description": "Douyin video indirme aracında tamamen ücretsiz bir logo, filigran veya filigran yoktur. "
+        },
+        "itemprop": {
+          "name": "J2 indir",
+          "description": "Douyin Video İndirme - J2download.com, Douyin'den filigran olmadan video indirmek için çevrimiçi olarak mevcut en iyi ücretsiz araçlardan biridir."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 İndirici - Filigran Olmadan Tiktok Videosunu İndirin - J2download",
+        "og_image": "/statik/png/anasayfa-web.png"
+      },
+      "links": {
+        "author": "yönetim",
+        "icon": {
+          "href": "/statik/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "how_to_download": {
+      "title": "Logo, filigran, resim ve ses içermeyen videoları ücretsiz indirin",
+      "description": "Tamamen ücretsiz video indirici. ",
+      "meta": {
+        "title": "Logosu, filigranı, filigranı olmayan videoları ücretsiz indirin",
+        "application_name": "Başvurumun adı",
+        "description": "Logo, filigran, filigran içermeyen video indirme aracı tamamen ücretsizdir. ",
+        "twitter": {
+          "title": "Logosu, filigranı, filigranı olmayan videoları ücretsiz indirin",
+          "description": "Logo, filigran, filigran içermeyen video indirme aracı tamamen ücretsizdir. "
+        },
+        "itemprop": {
+          "name": "J2 indir",
+          "description": "Video İndirme - J2download.com, filigran olmadan video indirmek için çevrimiçi olarak mevcut en iyi ücretsiz araçlardan biridir."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 İndirici - Filigran Olmadan Videoları İndirin - J2download",
+        "og_image": "/statik/png/anasayfa-web.png"
+      },
+      "links": {
+        "author": "yönetim",
+        "icon": {
+          "href": "/statik/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    }
+  },
+  "title": {
+    "all": "Hepsi Bir Arada İndir",
+    "tiktok": "TikTok Videolarını İndirin",
+    "douyin": "Douyin Videolarını İndirin",
+    "how_to_download": "Videolar, fotoğraflar ve ses nasıl indirilir"
+  },
+  "title_2": {
+    "all": "Hızlı, kolay, ücretsiz",
+    "tiktok": "Logo, slayt, hikaye, ses yok",
+    "douyin": "Logo, slayt, hikaye, ses yok"
+  },
+  "description": {
+    "all": "Hepsi Bir Arada video indirme aracı tamamen ücretsizdir. ",
+    "tiktok": "Logo, filigran veya filigran olmadan TikTok videolarını tamamen ücretsiz indirin. ",
+    "douyin": "Douyin videolarını logosu, filigranı veya filigranı olmadan tamamen ücretsiz indirin. "
+  },
+  "placeholder": "Bağlantıyı buraya yapıştırın",
+  "paste_icon": "Yapıştırmak",
+  "clear_icon": "Sil",
+  "download_icon": "İndirmek",
+  "download": "İndirmek",
+  "home": "Ana sayfa",
+  "footer": {
+    "privacy_policy": "Gizlilik Politikası",
+    "terms_of_service": "Kullanım Şartları",
+    "contact_us": "Bize Ulaşın",
+    "about_us": "Hakkımızda",
+    "tool": {
+      "all": "Video ve ses Hepsi Bir Arada İndir",
+      "tiktok": "Tiktok videolarını, slaytlarını, hikayelerini indirin",
+      "douyin": "Videoları, slaytları, hikayeleri indirin",
+      "how_to_download": "Videolar, fotoğraflar ve ses nasıl indirilir"
+    }
+  },
+  "share": "Paylaşmak",
+  "select_language": "Dil Seçin",
+  "install_app": {
+    "ios": "/",
+    "android": "/"
+  },
+  "card": {
+    "render_video": "Videoları oluştur",
+    "preparing_render": "Preparing files to render",
+    "preparing_rendering": "Rendering...",
+    "preparing_render_complete": "Render Completed",
+    "download": "İndirmek",
+    "download_photo": "Resmi İndir",
+    "download_video": "Videolar indir",
+    "download_server_2": "Sunucu 2'yi indirin",
+    "download_other_video": "Diğer indirmeler",
+    "download_success": "Başarıyla indirildi",
+    "download_error": "Yükleme başarısız",
+    "download_mp3": "Mp3 indir"
+  },
+  "error": "Hata!  ",
+  "invalid_url": "Geçersiz link!",
+  "paste_button": {
+    "success": "Metni başarıyla yapıştırın!",
+    "error": "Metin yapıştırılamadı! "
+  },
+  "container": {
+    "auto_bot": "Bot Otomatik İndirme",
+    "support_platform": {
+      "title": "Destek platformu",
+      "description": "Tiktok, Douyin, Capcut, Threads, Instagram, Facebook, Espn, Kuaishou, Pinterest, imdb, imgur, ifunny, Izlesene, Reddit, Youtube, Twitter, Vimeo, Snapchat, Bilibili, Dailymotion, Sharechat, Linkedin, Tumblr, Hipi, Telegram, Getstickerpack, Bitchute, Febspot, 9GAG, oke.ru, Rumble, Streamable, Ted, SohuTv, Xvideos, Xnxx, Xiaohongshu, Weibo, Miaopai, Meipai, Xiaoying, National Video, Yingke, Soundcloud, Mixcloud, Spotify, Zingmp3, Bandcamp."
+    },
+    "title_download": "J2download uygulamasını indirin",
+    "description_title": {
+      "all": "J2download şu anda birçok farklı sosyal ağdan video ve ses indirmeye izin veren bir uygulama sunmaktadır. ",
+      "tiktok": "Şu anda J2download, TikTok videolarının indirilmesine izin veren bir uygulama sunmaktadır. ",
+      "douyin": "J2download şu anda Douyin videolarının indirilmesine izin veren bir uygulama sunmaktadır. "
+    },
+    "title_f14": {
+      "all": "Videoları, resimleri ve sesleri Hepsi Bir Arada ücretsiz indirin",
+      "tiktok": "Logosuz (filigran) TikTok videolarını ücretsiz indirin",
+      "douyin": "Douyin videolarını logosuz (filigran) ücretsiz indirin"
+    },
+    "description_f14": {
+      "all": "J2download, videoları, resimleri ve sesleri çevrimiçi olarak ücretsiz indirmenize olanak tanıyan bir araçtır. ",
+      "tiktok": "J2download, TikTok videolarını bulanık logo olmadan çevrimiçi olarak indirmek için bir araçtır. ",
+      "douyin": "J2download, çevrimiçi Douyin videolarını bulanık logolar olmadan indirmek için bir araçtır. "
+    },
+    "subtitle_f14": "Ana işlev",
+    "main_function": {
+      "all": {
+        "1": "Videoları, resimleri, sesleri indirin, Destek İndirmeyi her tür cihaza indirin: mobil, PC, tablet.",
+        "2": "İndirilen videoda, normal indirmelerde olduğu gibi videonun üstünde ve altında Tik Tok logosu ve Kullanıcı Kimliği sıkışmayacak.",
+        "3": "Bir web tarayıcısı veya J2download android yazılımını kullanarak indirebilirsiniz.",
+        "4": "Tamamen ücretsiz. ",
+        "5": "Tüm cihazlar için (PC, Mac, Android, iOS) .mp3, .mp4, .jpg formatlarındaki videoların, fotoğrafların ve seslerin indirilmesini destekler.",
+        "6": "Yeni J2download, kullanıcılara Mp4 Video formatında fotoğraf slayt gösterileri indirme olanağı sağlar. "
+      },
+      "tiktok": {
+        "1": "TikTok videolarını indirin, Destek Tiktok videolarını her tür cihaza indirin: mobil, PC, tablet. ",
+        "2": "İndirilen videoda, normal indirmelerde olduğu gibi videonun üstünde ve altında Tik Tok logosu ve Kullanıcı Kimliği sıkışmayacak.",
+        "3": "Bir web tarayıcısı veya J2download android yazılımını kullanarak indirebilirsiniz.",
+        "4": "Tamamen ücretsiz. ",
+        "5": "Tüm cihazlar (PC, Mac, Android, iOS) için TikTok videolarının .mp3, .mp4 formatında indirilmesini destekler.",
+        "6": "Yeni J2download, kullanıcılara Tiktok fotoğraf slayt gösterilerini Mp4 Video formatında indirme olanağı sağlar. "
+      },
+      "douyin": {
+        "1": "Douyin videolarını indirin, Destek Douyin videolarını her tür cihaza indirin: mobil, PC, tablet. ",
+        "2": "İndirilen videoda, normal indirmelerde olduğu gibi videonun üstünde ve altında Tik Tok logosu ve Kullanıcı Kimliği sıkışmayacak.",
+        "3": "Bir web tarayıcısı veya J2download android yazılımını kullanarak indirebilirsiniz.",
+        "4": "Tamamen ücretsiz. ",
+        "5": "Tüm cihazlar (PC, Mac, Android, iOS) için Douyin videolarının .mp3, .mp4 formatında indirilmesini destekler.",
+        "6": "Yeni J2download, kullanıcılara Douyin'in fotoğraf slayt gösterilerini Mp4 Video formatında indirme olanağı sağlar. "
+      }
+    }
+  },
+  "faq": {
+    "title": {
+      "all": {
+        "1": "Filigran olmadan videolar nasıl indirilir",
+        "2": "Video indirildikten sonra nereye kaydedilir?",
+        "3": "J2download indirilen videoları saklıyor mu veya videonun bir kopyasını saklıyor mu?",
+        "4": "Uzantıları yüklemem gerekiyor mu?",
+        "5": "Videoları indirmek için ödeme yapmam gerekiyor mu?",
+        "6": "Favori videolarımı iPhone/iPad'e (iOS) nasıl kaydedebilirim/indirebilirim?",
+        "7": "Android telefonuma video indirebilir miyim?",
+        "8": "J2download'da video indirmek için indirme sayısında bir sınır var mı?",
+        "9": "J2download birden fazla video indirmeyi / belirli kanallardan / Htag'lerden tüm videoları indirmeyi destekliyor mu?",
+        "10": "Yüksek çözünürlüklü videoları J2download'dan indirebilir miyim?",
+        "11": "J2download'da indirilen videoları düzenleyebilir miyim?",
+        "12": "J2download mp3 indirme çözümü sağlıyor mu?"
+      },
+      "tiktok": {
+        "1": "TikTok Videoları filigran olmadan nasıl indirilir",
+        "2": "TikTok videoları indirildikten sonra nereye kaydedilir?",
+        "3": "J2download indirilen videoları saklıyor mu veya videonun bir kopyasını saklıyor mu?",
+        "4": "Uzantıları yüklemem gerekiyor mu?",
+        "5": "Tik Tok videolarını indirmek için ödeme yapmam gerekiyor mu?",
+        "6": "Favori Tik Tok videolarımı iPhone/iPad'e (iOS) nasıl kaydedebilirim/indirebilirim?",
+        "7": "Tik Tok videolarını Android telefonuma indirebilir miyim?",
+        "8": "J2download'da Tiktok videolarını indirmek için indirme sayısında bir sınır var mı?",
+        "9": "J2download birden fazla video indirmeyi / belirli tiktok kanallarından / Htag'lerden tüm videoları indirmeyi destekliyor mu?",
+        "10": "Yüksek çözünürlüklü TikTok videolarını J2download'dan indirebilir miyim?",
+        "11": "J2download'da indirilen TikTok videolarını düzenleyebilir miyim?",
+        "12": "J2download tiktok mp3 indirme çözümü sağlıyor mu?"
+      },
+      "douyin": {
+        "1": "Filigran olmadan Douyin Videoları nasıl indirilir",
+        "2": "Douyin videoları indirildikten sonra nereye kaydedilir?",
+        "3": "J2download indirilen videoları saklıyor mu veya videonun bir kopyasını saklıyor mu?",
+        "4": "Uzantıları yüklemem gerekiyor mu?",
+        "5": "Tik Tok videolarını indirmek için ödeme yapmam gerekiyor mu?",
+        "6": "Favori Tik Tok videolarımı iPhone/iPad'e (iOS) nasıl kaydedebilirim/indirebilirim?",
+        "7": "Tik Tok videolarını Android telefonuma indirebilir miyim?",
+        "8": "J2download'da Douyin videolarını indirmek için indirme sayısında bir sınır var mı?",
+        "9": "J2download birden fazla video indirmeyi / belirli Douyin kanallarından / Htag'lerden tüm videoları indirmeyi destekliyor mu?",
+        "10": "Yüksek çözünürlüklü Douyin videolarını J2download'dan indirebilir miyim?",
+        "11": "J2download'da indirilen Douyin videolarını düzenleyebilir miyim?",
+        "12": "J2download Douyin mp3 indirme çözümü sağlıyor mu?"
+      }
+    },
+    "reply": {
+      "all": {
+        "1": "Uygulamayı telefonunuzda açın. ",
+        "2": "İndirilen dosyalar genellikle varsayılan olarak ayarladığınız indirme klasörüne kaydedilir. ",
+        "3": "J2download videoları barındırmaz. ",
+        "4": "Değiller. ",
+        "5": "Hayır, buna gerek yok. ",
+        "6": "Apple'ın gizlilik politikası nedeniyle, IOS 12 ve IPAD OS 12 ve altındaki sürümlerden iPhone'a hiçbir video, müzik veya film indiremezsiniz. ",
+        "7": "Evet, ancak daha fazla kolaylık sağlamak için J2download yazılımını kullanmanızı öneririz. ",
+        "8": "Hayır, en sevdiğiniz videoların çoğunu, indirme sayısını sınırlamak zorunda kalmadan J2download'dan indirebilirsiniz.",
+        "9": "Hayır, J2download bu özelliği henüz desteklemiyor.",
+        "10": "Evet, J2download sizin için en yüksek çözünürlüğü sağlayan bir video indiricisidir. ",
+        "11": "Hayır, J2download yalnızca bir video indirme aracıdır, video düzenlemeyi desteklemez. ",
+        "12": "J2download tam mp3 müzik indirme sağlar."
+      },
+      "tiktok": {
+        "1": "Telefonunuzda TikTok uygulamasını açın. ",
+        "2": "İndirilen dosyalar genellikle varsayılan olarak ayarladığınız indirme klasörüne kaydedilir. ",
+        "3": "J2download videoları barındırmaz. ",
+        "4": "Değiller. ",
+        "5": "Hayır, buna gerek yok. ",
+        "6": "Apple'ın gizlilik politikası nedeniyle, IOS 12 ve IPAD OS 12 ve altındaki sürümlerden iPhone'a hiçbir video, müzik veya film indiremezsiniz. ",
+        "7": "Evet, ancak daha fazla kolaylık sağlamak için J2download yazılımını kullanmanızı öneririz. ",
+        "8": "Hayır, en sevdiğiniz TikTok videolarının çoğunu J2download'dan indirme sınırı olmadan indirebilirsiniz.",
+        "9": "Hayır, J2download bu özelliği henüz desteklemiyor.",
+        "10": "Evet, J2download sizin için en yüksek çözünürlüğü sağlayan bir TikTok video indiricisidir. ",
+        "11": "Hayır, J2download yalnızca TikTok videolarını indirmek için bir araçtır, video düzenlemeyi desteklemez. ",
+        "12": "J2download tam mp3 müzik indirme sağlar."
+      },
+      "douyin": {
+        "1": "Telefonunuzda Douyin uygulamasını açın. ",
+        "2": "İndirilen dosyalar genellikle varsayılan olarak ayarladığınız indirme klasörüne kaydedilir. ",
+        "3": "J2download videoları barındırmaz. ",
+        "4": "Değiller. ",
+        "5": "Hayır, buna gerek yok. ",
+        "6": "Apple'ın gizlilik politikası nedeniyle, IOS 12 ve IPAD OS 12 ve altındaki sürümlerden iPhone'a hiçbir video, müzik veya film indiremezsiniz. ",
+        "7": "Evet, ancak daha fazla kolaylık sağlamak için J2download yazılımını kullanmanızı öneririz. ",
+        "8": "Hayır, en sevdiğiniz Douyin videolarının çoğunu J2download'dan indirme sınırı olmadan indirebilirsiniz.",
+        "9": "Hayır, J2download bu özelliği henüz desteklemiyor.",
+        "10": "Evet, J2download sizin için en yüksek çözünürlüğü sağlayan bir Douyin video indiricisidir. ",
+        "11": "Hayır, J2download yalnızca bir Douyin video indirme aracıdır, video düzenlemeyi desteklemez. ",
+        "12": "J2download tam mp3 müzik indirme sağlar."
+      }
+    }
+  },
+  "alert": {
+    "all": "Not: J2download bir sosyal ağ aracı değildir, herhangi bir 2. tarafla ilişkimiz yoktur.  ",
+    "tiktok": "Not: J2download, Tiktok'un bir aracı değildir, Tiktok veya ByteDance Ltd ile hiçbir ilişkimiz yoktur. ",
+    "douyin": "Not: J2download bir douyin aracı değildir; Douyin veya ByteDance Ltd ile hiçbir ilişkimiz yoktur. "
+  },
+  "other": {
+    "how_to_download": {
+      "title_h1": "İOS/Android Telefonlara ve Bilgisayarlara Video İndirmek için J2download Nasıl Kullanılır",
+      "description_h1": "Küresel popülaritesi ile bu platformdan video indirme talebi önemli ölçüde arttı. <br><br>Bazı kişiler indirilen videoda logonun ve yükleyici kimliğinin yer almasını istemeyebilir. <br><br>Günümüzde hem iOS hem de Android cihazların yanı sıra bilgisayarlara da video indirmek için çeşitli ücretsiz araçlar bulunmaktadır. ",
+      "introducing": {
+        "title": "J2download'la tanışın",
+        "description": "<strong>J2download, videoları logo veya filigran olmadan indirmenize olanak tanıyan popüler bir çevrimiçi video indiricisidir.<br><br>Bilgisayarınıza veya telefonunuza herhangi bir yazılım indirmenize gerek yoktur. "
+      },
+      "feature": {
+        "title": "J2download'un ana özellikleri:",
+        "description": "<p>Videoları indirmek için J2download deneyimini yaşamanızın nedenleri şunlardır:</p><ul><li>Logosuz yüksek kaliteli videolar indirin.</li><li>Desteği indirin <a href=\"/\" title=\"Tải Video\">Video</a> birden fazla cihazda: cep telefonları, kişisel bilgisayarlar ve tabletler.</li><li>Tamamen ücretsiz ve sınırsız: J2download, kullanıcılardan herhangi bir ücret almamayı taahhüt eder.</li><li>Tüm cihazlar (PC, Mac, Android, iOS) için .mp3 ve .mp4 formatlarındaki videoların indirilmesini destekler.</li><li>Web tarayıcısı veya Android uygulaması aracılığıyla erişilebilir.</li> </ul>"
+      },
+      "tutorial": {
+        "computer": {
+          "title": "Bilgisayara/PC'ye J2download kullanarak videolar nasıl indirilir:",
+          "description": "<p><strong>Aşama 1:</strong> İndirmek istediğiniz videonun bağlantısını kopyalayın. <img src=\"/static/png/copy-link-video.png\" alt=\"Sao chép link video web\"></p><p><strong>Adım 2:</strong> Erişim <strong>J2 indir</strong> içinde <a href=\"/\">https://J2download.com</a>.</p><p><strong>Aşama 3:</strong> Bağlantıyı J2download'un araç çubuğuna yapıştırın ve \"İndir\"e tıklayın <img src=\"/static/png/download-video.png\" alt=\"Tải xuống video PC\"></p><br>"
+        }
+      },
+      "notice": "<strong>Kısacası:</strong> Yukarıdaki kılavuzda videoların üç popüler platformda nasıl indirileceği açıklanmaktadır: Android (Samsung, Oppo vb.), iOS (iPhone, iPad vb.) ve bilgisayar (PC, MacOS, Windows). "
+    }
+  },
+  "notfound404": {
+    "message": "Üzgünüz, ARADIĞINIZ SAYFA MEVCUT DEĞİL!",
+    "return": "Ana sayfaya dön"
+  }
+}

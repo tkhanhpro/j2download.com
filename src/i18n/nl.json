@@ -1,0 +1,344 @@
+{
+  "first_name": "J2",
+  "last_name": "Download",
+  "header": {
+    "all": {
+      "title": "Alles in één video downloaden",
+      "description": "Alles-in-één video-downloadtool is volledig gratis. ",
+      "meta": {
+        "title": "Download video's zonder logo, watermerk, watermerk gratis",
+        "application_name": "Naam van mijn applicatie",
+        "description": "Alles-in-één video-downloadtool is volledig gratis. ",
+        "twitter": {
+          "title": "Download tiktok-video's zonder logo, watermerk en watermerk gratis",
+          "description": "Alles-in-één video-downloadtool is volledig gratis. "
+        },
+        "itemprop": {
+          "name": "J2 downloaden",
+          "description": "Alles-in-één video downloaden - J2download.com is een van de beste gratis tools die online beschikbaar zijn om video's zonder watermerk te downloaden."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader - Download video alles in één - J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "manG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "tiktok": {
+      "title": "Download tiktok-video's zonder logo, watermerk en watermerk gratis",
+      "description": "Tiktok video-downloadtool zonder logo, watermerk, watermerk volledig gratis. ",
+      "meta": {
+        "title": "Download tiktok-video's zonder logo, watermerk en watermerk gratis",
+        "application_name": "Naam van mijn applicatie",
+        "description": "Tiktok video-downloadtool zonder logo, watermerk, watermerk volledig gratis. ",
+        "twitter": {
+          "title": "Download tiktok-video's zonder logo, watermerk en watermerk gratis",
+          "description": "Tiktok video-downloadtool zonder logo, watermerk, watermerk volledig gratis. "
+        },
+        "itemprop": {
+          "name": "J2 downloaden",
+          "description": "TikTok Video Download - J2download.com is een van de beste gratis tools die online beschikbaar zijn om video's zonder watermerk van TikTok te downloaden."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader - Download Tiktok-video zonder watermerk - J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "manG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "douyin": {
+      "title": "Download Douyin-video's gratis zonder logo, watermerk of watermerk",
+      "description": "Douyin video-downloadtool heeft geen logo, watermerk of watermerk volledig gratis. ",
+      "meta": {
+        "title": "Download Douyin-video's gratis zonder logo, watermerk of watermerk",
+        "application_name": "J2 downloaden",
+        "description": "Douyin video-downloadtool heeft geen logo, watermerk of watermerk volledig gratis. ",
+        "twitter": {
+          "title": "Download Douyin-video's gratis zonder logo, watermerk of watermerk",
+          "description": "Douyin video-downloadtool heeft geen logo, watermerk of watermerk volledig gratis. "
+        },
+        "itemprop": {
+          "name": "J2 downloaden",
+          "description": "Douyin Video Download - J2download.com is een van de beste gratis tools die online beschikbaar zijn om video's zonder watermerk van Douyin te downloaden."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader - Download Tiktok-video zonder watermerk - J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "manG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "how_to_download": {
+      "title": "Download gratis video's zonder logo, watermerk, afbeeldingen en audio",
+      "description": "Volledig gratis video-downloader. ",
+      "meta": {
+        "title": "Download video's zonder logo, watermerk, watermerk gratis",
+        "application_name": "Naam van mijn applicatie",
+        "description": "Video-downloadtool zonder logo, watermerk, watermerk volledig gratis. ",
+        "twitter": {
+          "title": "Download video's zonder logo, watermerk, watermerk gratis",
+          "description": "Video-downloadtool zonder logo, watermerk, watermerk volledig gratis. "
+        },
+        "itemprop": {
+          "name": "J2 downloaden",
+          "description": "Video downloaden - J2download.com is een van de beste gratis tools die online beschikbaar zijn om video's zonder watermerk te downloaden."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader - Download video's zonder watermerk - J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "manG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    }
+  },
+  "title": {
+    "all": "Alles in één downloaden",
+    "tiktok": "TikTok-video's downloaden",
+    "douyin": "Download Douyin-video's",
+    "how_to_download": "Hoe video's, foto's en audio te downloaden"
+  },
+  "title_2": {
+    "all": "Snel, gemakkelijk, gratis",
+    "tiktok": "Geen logo, dia's, verhalen, audio",
+    "douyin": "Geen logo, dia's, verhalen, audio"
+  },
+  "description": {
+    "all": "Alles-in-één video-downloadtool is volledig gratis. ",
+    "tiktok": "Download TikTok-video's zonder logo, watermerk of watermerk volledig gratis. ",
+    "douyin": "Download Douyin-video's zonder logo, watermerk of watermerk volledig gratis. "
+  },
+  "placeholder": "Plak de link hier",
+  "paste_icon": "Plakken",
+  "clear_icon": "Wissen",
+  "download_icon": "Downloaden",
+  "download": "Downloaden",
+  "home": "Startpagina",
+  "footer": {
+    "privacy_policy": "Privacybeleid",
+    "terms_of_service": "Servicevoorwaarden",
+    "contact_us": "Neem contact met ons op",
+    "about_us": "Over ons",
+    "tool": {
+      "all": "Download video en audio alles in één",
+      "tiktok": "Download Tiktok-video's, dia's, verhalen",
+      "douyin": "Download video's, dia's, verhalen Douyin",
+      "how_to_download": "Hoe video's, foto's en audio te downloaden"
+    }
+  },
+  "share": "Deel",
+  "select_language": "Selecteer taal",
+  "install_app": {
+    "ios": "/",
+    "android": "/"
+  },
+  "card": {
+    "render_video": "Geef video's weer",
+    "preparing_render": "Preparing files to render",
+    "preparing_rendering": "Rendering...",
+    "preparing_render_complete": "Render Completed",
+    "download": "Downloaden",
+    "download_photo": "Afbeelding downloaden",
+    "download_video": "Video's downloaden",
+    "download_server_2": "Downloadserver 2",
+    "download_other_video": "Andere downloads",
+    "download_success": "Succesvol gedownload",
+    "download_error": "Download mislukt",
+    "download_mp3": "MP3 downloaden"
+  },
+  "error": "Fout!  ",
+  "invalid_url": "Ongeldige link!",
+  "paste_button": {
+    "success": "Tekst plakken!",
+    "error": "Tekst plakken mislukt! "
+  },
+  "container": {
+    "auto_bot": "Bot automatisch downloaden",
+    "support_platform": {
+      "title": "Ondersteuningsplatform",
+      "description": "Tiktok, Douyin, Capcut, Threads, Instagram, Facebook, Espn, Kuaishou, Pinterest, imdb, imgur, ifunny, Izlesene, Reddit, Youtube, Twitter, Vimeo, Snapchat, Bilibili, Dailymotion, Sharechat, Linkedin, Tumblr, Hipi, Telegram, Getstickerpack, Bitchute, Febspot, 9GAG, oke.ru, Rumble, Streamable, Ted, SohuTv, Xvideos, Xnxx, Xiaohongshu, Weibo, Miaopai, Meipai, Xiaoying, National Video, Yingke, Soundcloud, Mixcloud, Spotify, Zingmp3, Bandcamp."
+    },
+    "title_download": "Download de J2download-applicatie",
+    "description_title": {
+      "all": "J2download biedt momenteel een applicatie waarmee video's en audio van veel verschillende sociale netwerken kunnen worden gedownload. ",
+      "tiktok": "Momenteel biedt J2download een applicatie waarmee je TikTok-video's kunt downloaden. ",
+      "douyin": "J2download biedt momenteel een applicatie waarmee Douyin-video's kunnen worden gedownload. "
+    },
+    "title_f14": {
+      "all": "Download gratis video's, afbeeldingen en audio Alles-in-één",
+      "tiktok": "Download gratis TikTok-video's zonder logo (watermerk).",
+      "douyin": "Download Douyin-video's zonder logo (watermerk) gratis"
+    },
+    "description_f14": {
+      "all": "J2download is een tool waarmee je gratis video's, afbeeldingen en audio online kunt downloaden. ",
+      "tiktok": "J2download is een tool om TikTok-video's online te downloaden zonder het wazige logo. ",
+      "douyin": "J2download is een tool om online Douyin-video's te downloaden zonder wazige logo's. "
+    },
+    "subtitle_f14": "Hoofdfunctie",
+    "main_function": {
+      "all": {
+        "1": "Download video's, afbeeldingen, audio, ondersteuning Downloaden op alle soorten apparaten: mobiel, pc, tablet.",
+        "2": "Bij de gedownloade video zijn het Tik Tok-logo en de gebruikers-ID niet boven en onder de video geplakt, zoals bij normale downloads.",
+        "3": "Je kunt het downloaden met een webbrowser of J2download Android-software.",
+        "4": "Allemaal gratis. ",
+        "5": "Ondersteunt het downloaden van video's, foto's en audio in de formaten .mp3, .mp4 en .jpg voor alle apparaten (pc, Mac, Android, iOS).",
+        "6": "De nieuwe J2download biedt gebruikers de mogelijkheid om fotodiavoorstellingen te downloaden in mp4-videoformaat. "
+      },
+      "tiktok": {
+        "1": "Download TikTok-video's, ondersteuning Download tiktok-video's op alle soorten apparaten: mobiel, pc, tablet. ",
+        "2": "Bij de gedownloade video zijn het Tik Tok-logo en de gebruikers-ID niet boven en onder de video geplakt, zoals bij normale downloads.",
+        "3": "Je kunt het downloaden met een webbrowser of J2download Android-software.",
+        "4": "Allemaal gratis. ",
+        "5": "Ondersteuning voor het downloaden van TikTok-video's in .mp3-, .mp4-formaat voor alle apparaten (pc, Mac, Android, iOS).",
+        "6": "De nieuwe J2download biedt gebruikers de mogelijkheid om Tiktok-fotodiavoorstellingen te downloaden in mp4-videoformaat. "
+      },
+      "douyin": {
+        "1": "Download Douyin-video's, ondersteuning Download Douyin-video's op alle soorten apparaten: mobiel, pc, tablet. ",
+        "2": "Bij de gedownloade video zijn het Tik Tok-logo en de gebruikers-ID niet boven en onder de video geplakt, zoals bij normale downloads.",
+        "3": "Je kunt het downloaden met een webbrowser of J2download Android-software.",
+        "4": "Allemaal gratis. ",
+        "5": "Ondersteuning voor het downloaden van Douyin-video's in .mp3-, .mp4-formaat voor alle apparaten (pc, Mac, Android, iOS).",
+        "6": "De nieuwe J2download biedt gebruikers de mogelijkheid om Douyins fotodiavoorstellingen te downloaden in mp4-videoformaat. "
+      }
+    }
+  },
+  "faq": {
+    "title": {
+      "all": {
+        "1": "Hoe download je video's zonder watermerk",
+        "2": "Waar wordt de video opgeslagen nadat deze is gedownload?",
+        "3": "Bewaart J2download gedownloade video's of bewaart hij een kopie van de video?",
+        "4": "Moet ik extensies installeren?",
+        "5": "Moet ik betalen om video's te downloaden?",
+        "6": "Hoe kan ik mijn favoriete video's opslaan/downloaden naar iPhone/iPad (iOS)?",
+        "7": "Kan ik video's downloaden op mijn Android-telefoon?",
+        "8": "Is er een limiet aan het aantal downloads voor het downloaden van video's bij J2download?",
+        "9": "Ondersteunt J2download het downloaden van meerdere video's / het downloaden van alle video's van bepaalde kanalen / Htags?",
+        "10": "Kan ik high-definition video's downloaden bij J2download?",
+        "11": "Kan ik video's bewerken die zijn gedownload bij J2download?",
+        "12": "Biedt J2download een mp3-downloadoplossing?"
+      },
+      "tiktok": {
+        "1": "Hoe TikTok-video's te downloaden zonder watermerk",
+        "2": "Waar worden TikTok-video's opgeslagen nadat ze zijn gedownload?",
+        "3": "Bewaart J2download gedownloade video's of bewaart hij een kopie van de video?",
+        "4": "Moet ik extensies installeren?",
+        "5": "Moet ik betalen om Tik Tok-video's te downloaden?",
+        "6": "Hoe kan ik mijn favoriete Tik Tok-video's opslaan/downloaden naar iPhone/iPad (iOS)?",
+        "7": "Kan ik Tik Tok-video's downloaden op mijn Android-telefoon?",
+        "8": "Is er een limiet aan het aantal downloads voor het downloaden van Tiktok-video's bij J2download?",
+        "9": "Ondersteunt J2download het downloaden van meerdere video's / het downloaden van alle video's van bepaalde tiktok-kanalen / Htags?",
+        "10": "Kan ik TikTok-video's met hoge resolutie downloaden bij J2download?",
+        "11": "Kan ik TikTok-video's bewerken die zijn gedownload bij J2download?",
+        "12": "Biedt J2download een tiktok mp3-downloadoplossing?"
+      },
+      "douyin": {
+        "1": "Hoe Douyin-video's te downloaden zonder watermerk",
+        "2": "Waar worden Douyin-video's opgeslagen nadat ze zijn gedownload?",
+        "3": "Bewaart J2download gedownloade video's of bewaart hij een kopie van de video?",
+        "4": "Moet ik extensies installeren?",
+        "5": "Moet ik betalen om Tik Tok-video's te downloaden?",
+        "6": "Hoe kan ik mijn favoriete Tik Tok-video's opslaan/downloaden naar iPhone/iPad (iOS)?",
+        "7": "Kan ik Tik Tok-video's downloaden op mijn Android-telefoon?",
+        "8": "Is er een limiet aan het aantal downloads voor het downloaden van Douyin-video's bij J2download?",
+        "9": "Ondersteunt J2download het downloaden van meerdere video's / het downloaden van alle video's van bepaalde Douyin-kanalen / Htags?",
+        "10": "Kan ik Douyin-video's met hoge resolutie downloaden bij J2download?",
+        "11": "Kan ik Douyin-video's bewerken die zijn gedownload bij J2download?",
+        "12": "Biedt J2download een Douyin mp3-downloadoplossing?"
+      }
+    },
+    "reply": {
+      "all": {
+        "1": "Open de app op je telefoon. ",
+        "2": "Bestanden downloaden, deze worden doorgaans opgeslagen in de downloadmap die u standaard heeft ingesteld. ",
+        "3": "J2download host geen video's. ",
+        "4": "Zijn niet. ",
+        "5": "Nee, dat hoeft niet. ",
+        "6": "Vanwege het privacybeleid van Apple kun je vanaf IOS 12 en iPad OS 12 en lager geen video's, muziek of films downloaden naar de iPhone. ",
+        "7": "Ja, maar voor meer gemak raden wij u aan de J2download-software te gebruiken. ",
+        "8": "Nee, je kunt veel van je favoriete video's downloaden bij J2download zonder dat je het aantal downloads hoeft te beperken.",
+        "9": "Nee, J2download ondersteunt deze functie nog niet.",
+        "10": "Ja, J2download is een video-downloader die je de hoogste resolutie biedt. ",
+        "11": "Nee, J2download is alleen een videodownloadtool en ondersteunt geen videobewerking. ",
+        "12": "J2download biedt volledige download van mp3-muziek."
+      },
+      "tiktok": {
+        "1": "Open de TikTok-app op je telefoon. ",
+        "2": "Bestanden downloaden, deze worden doorgaans opgeslagen in de downloadmap die u standaard heeft ingesteld. ",
+        "3": "J2download host geen video's. ",
+        "4": "Zijn niet. ",
+        "5": "Nee, dat hoeft niet. ",
+        "6": "Vanwege het privacybeleid van Apple kun je vanaf IOS 12 en iPad OS 12 en lager geen video's, muziek of films downloaden naar de iPhone. ",
+        "7": "Ja, maar voor meer gemak raden wij u aan de J2download-software te gebruiken. ",
+        "8": "Nee, je kunt veel van je favoriete TikTok-video's downloaden op J2download zonder downloadlimieten.",
+        "9": "Nee, J2download ondersteunt deze functie nog niet.",
+        "10": "Ja, J2download is een TikTok-video-downloader die je de hoogste resolutie biedt. ",
+        "11": "Nee, J2download is alleen een tool om TikTok-video's te downloaden, het ondersteunt geen videobewerking. ",
+        "12": "J2download biedt volledige download van mp3-muziek."
+      },
+      "douyin": {
+        "1": "Open de Douyin-app op je telefoon. ",
+        "2": "Bestanden downloaden, deze worden doorgaans opgeslagen in de downloadmap die u standaard heeft ingesteld. ",
+        "3": "J2download host geen video's. ",
+        "4": "Zijn niet. ",
+        "5": "Nee, dat hoeft niet. ",
+        "6": "Vanwege het privacybeleid van Apple kun je vanaf IOS 12 en iPad OS 12 en lager geen video's, muziek of films downloaden naar de iPhone. ",
+        "7": "Ja, maar voor meer gemak raden wij u aan de J2download-software te gebruiken. ",
+        "8": "Nee, je kunt veel van je favoriete Douyin-video's downloaden op J2download zonder downloadlimieten.",
+        "9": "Nee, J2download ondersteunt deze functie nog niet.",
+        "10": "Ja, J2download is een Douyin-videodownloader die u de hoogste resolutie biedt. ",
+        "11": "Nee, J2download is slechts een Douyin-videodownloadtool en ondersteunt geen videobewerking. ",
+        "12": "J2download biedt volledige download van mp3-muziek."
+      }
+    }
+  },
+  "alert": {
+    "all": "Opmerking: J2download is geen sociale netwerktool, we hebben geen relatie met een derde partij.  ",
+    "tiktok": "Let op: J2download is geen tool van Tiktok, we hebben geen relatie met Tiktok of ByteDance Ltd. ",
+    "douyin": "Let op: J2download is geen douyin-tool, we hebben geen relatie met Douyin of ByteDance Ltd. "
+  },
+  "other": {
+    "how_to_download": {
+      "title_h1": "Hoe J2download te gebruiken om video's te downloaden op iOS/Android-telefoons en computers",
+      "description_h1": "Met zijn wereldwijde populariteit is de vraag naar het downloaden van video's van dit platform aanzienlijk toegenomen. <br><br>Sommige mensen willen misschien niet dat het logo en de uploader-ID in de gedownloade video worden opgenomen. <br><br>Tegenwoordig zijn er verschillende gratis tools om video's te downloaden voor zowel iOS- als Android-apparaten, maar ook voor computers. ",
+      "introducing": {
+        "title": "Maak kennis met J2download",
+        "description": "<strong>J2download is een populaire online video-downloader waarmee je video's kunt downloaden zonder logo's of watermerken.<br><br>U hoeft geen software op uw computer of telefoon te downloaden. "
+      },
+      "feature": {
+        "title": "Belangrijkste kenmerken van J2download:",
+        "description": "<p>Hier zijn de redenen waarom u J2download zou moeten gebruiken om video's te downloaden:</p><ul><li>Download video's van hoge kwaliteit zonder logo.</li><li>Ondersteuning downloaden <a href=\"/\" title=\"Tải Video\">Video</a> op meerdere apparaten: mobiele telefoons, pc's en tablets.</li><li>Volledig gratis en onbeperkt: J2download verbindt zich ertoe geen kosten in rekening te brengen bij gebruikers.</li><li>Ondersteunt het downloaden van video's in .mp3- en .mp4-formaten voor alle apparaten (pc, Mac, Android, iOS).</li><li>Toegankelijk via webbrowser of Android-app.</li> </ul>"
+      },
+      "tutorial": {
+        "computer": {
+          "title": "Video's downloaden met J2download op computer/pc:",
+          "description": "<p><strong>Stap 1:</strong> Kopieer de link van de video die u wilt downloaden. <img src=\"/static/png/copy-link-video.png\" alt=\"Sao chép link video web\"></p><p><strong>Stap 2:</strong> Toegang <strong>J2 downloaden</strong> in <a href=\"/\">https://J2download.com</a>.</p><p><strong>Stap 3:</strong> Plak de link in de werkbalk van J2download en klik op \"Downloaden\" <img src=\"/static/png/download-video.png\" alt=\"Tải xuống video PC\"></p><br>"
+        }
+      },
+      "notice": "<strong>In het kort:</strong> In de bovenstaande gids wordt uitgelegd hoe u video's kunt downloaden op alle drie de populaire platforms: Android (Samsung, Oppo, enz.), iOS (iPhone, iPad, enz.) en computer (pc, MacOS, Windows). "
+    }
+  },
+  "notfound404": {
+    "message": "SORRY, DE PAGINA DIE U ZOEKT BESTAAT NIET!",
+    "return": "Keer terug naar de start pagina"
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "first_name": "J2",
+  "last_name": "Download",
+  "header": {
+    "all": {
+      "title": "Töltse le az All In One videót",
+      "description": "Az All In One videóletöltő eszköz teljesen ingyenes. ",
+      "meta": {
+        "title": "Ingyenesen letölthető videók logó, vízjel, vízjel nélkül",
+        "application_name": "Pályázatom neve",
+        "description": "Az All In One videóletöltő eszköz teljesen ingyenes. ",
+        "twitter": {
+          "title": "Töltsön le ingyen tiktok videókat logó, vízjel és vízjel nélkül",
+          "description": "Az All In One videóletöltő eszköz teljesen ingyenes. "
+        },
+        "itemprop": {
+          "name": "J2 letöltés",
+          "description": "All In One Video Download – A J2download.com az egyik legjobb ingyenes online eszköz a videók vízjel nélküli letöltéséhez."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader – Videó letöltése All In One – J2 letöltés",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "manG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "tiktok": {
+      "title": "Töltsön le ingyen tiktok videókat logó, vízjel és vízjel nélkül",
+      "description": "Tiktok videóletöltő eszköz logó, vízjel és vízjel nélkül teljesen ingyenes. ",
+      "meta": {
+        "title": "Töltsön le ingyen tiktok videókat logó, vízjel és vízjel nélkül",
+        "application_name": "Pályázatom neve",
+        "description": "Tiktok videóletöltő eszköz logó, vízjel és vízjel nélkül teljesen ingyenes. ",
+        "twitter": {
+          "title": "Töltsön le ingyen tiktok videókat logó, vízjel és vízjel nélkül",
+          "description": "Tiktok videóletöltő eszköz logó, vízjel és vízjel nélkül teljesen ingyenes. "
+        },
+        "itemprop": {
+          "name": "J2 letöltés",
+          "description": "TikTok Video Download – A J2download.com az egyik legjobb ingyenes online eszköz a videók vízjel nélküli letöltéséhez a TikTok oldaláról."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader - Tiktok videó letöltése vízjel nélkül - J2 letöltés",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "manG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "douyin": {
+      "title": "Ingyenesen töltsön le Douyin videókat logó, vízjel vagy vízjel nélkül",
+      "description": "A Douyin videóletöltő eszköznek nincs logója, vízjele vagy teljesen ingyenes vízjele. ",
+      "meta": {
+        "title": "Ingyenesen töltsön le Douyin videókat logó, vízjel vagy vízjel nélkül",
+        "application_name": "J2 letöltés",
+        "description": "A Douyin videóletöltő eszköznek nincs logója, vízjele vagy teljesen ingyenes vízjele. ",
+        "twitter": {
+          "title": "Ingyenesen töltsön le Douyin videókat logó, vízjel vagy vízjel nélkül",
+          "description": "A Douyin videóletöltő eszköznek nincs logója, vízjele vagy teljesen ingyenes vízjele. "
+        },
+        "itemprop": {
+          "name": "J2 letöltés",
+          "description": "Douyin Video Download – A J2download.com az egyik legjobb ingyenes online eszköz, amellyel vízjel nélküli videókat tölthet le a Douyin cégtől."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader - Tiktok videó letöltése vízjel nélkül - J2 letöltés",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "manG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "how_to_download": {
+      "title": "Ingyenesen letölthető videók logó, vízjel, képek és hang nélkül",
+      "description": "Teljesen ingyenes videó letöltő. ",
+      "meta": {
+        "title": "Ingyenesen letölthető videók logó, vízjel, vízjel nélkül",
+        "application_name": "Pályázatom neve",
+        "description": "Videóletöltő eszköz logó, vízjel és vízjel nélkül teljesen ingyenes. ",
+        "twitter": {
+          "title": "Ingyenesen letölthető videók logó, vízjel, vízjel nélkül",
+          "description": "Videóletöltő eszköz logó, vízjel és vízjel nélkül teljesen ingyenes. "
+        },
+        "itemprop": {
+          "name": "J2 letöltés",
+          "description": "Videóletöltés – A J2download.com az egyik legjobb ingyenes online eszköz a videók vízjel nélküli letöltéséhez."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader - Videók letöltése vízjel nélkül - J2 letöltés",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "manG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    }
+  },
+  "title": {
+    "all": "Töltse le az All In One",
+    "tiktok": "Töltse le a TikTok videókat",
+    "douyin": "Douyin videók letöltése",
+    "how_to_download": "Hogyan tölthet le videókat, fényképeket, hangot"
+  },
+  "title_2": {
+    "all": "Gyors, egyszerű, ingyenes",
+    "tiktok": "Nincs logó, diák, történetek, hang",
+    "douyin": "Nincs logó, diák, történetek, hang"
+  },
+  "description": {
+    "all": "Az All In One videóletöltő eszköz teljesen ingyenes. ",
+    "tiktok": "Töltse le a TikTok videókat logó, vízjel vagy vízjel nélkül teljesen ingyenesen. ",
+    "douyin": "Töltse le a Douyin videókat logó, vízjel vagy vízjel nélkül teljesen ingyenesen. "
+  },
+  "placeholder": "Illessze be a linket ide",
+  "paste_icon": "Paszta",
+  "clear_icon": "Törli",
+  "download_icon": "Letöltés",
+  "download": "Letöltés",
+  "home": "Kezdőlap",
+  "footer": {
+    "privacy_policy": "Adatvédelmi irányelvek",
+    "terms_of_service": "Szolgáltatás feltételei",
+    "contact_us": "Lépjen kapcsolatba velünk",
+    "about_us": "Rólunk",
+    "tool": {
+      "all": "Videó és hang letöltése All In One",
+      "tiktok": "Töltse le a Tiktok videókat, diákat, történeteket",
+      "douyin": "Töltsön le videókat, diákat, történeteket Douyin",
+      "how_to_download": "Hogyan tölthet le videókat, fényképeket, hangot"
+    }
+  },
+  "share": "Ossza meg",
+  "select_language": "Válasszon nyelvet",
+  "install_app": {
+    "ios": "/",
+    "android": "/"
+  },
+  "card": {
+    "render_video": "Videók renderelése",
+    "preparing_render": "Preparing files to render",
+    "preparing_rendering": "Rendering...",
+    "preparing_render_complete": "Render Completed",
+    "download": "Letöltés",
+    "download_photo": "Kép letöltése",
+    "download_video": "Letölteni videókat",
+    "download_server_2": "Letöltő szerver 2",
+    "download_other_video": "Egyéb letöltések",
+    "download_success": "Sikeres letöltés",
+    "download_error": "Sikertelen letöltés",
+    "download_mp3": "MP3 letöltése"
+  },
+  "error": "Hiba!  ",
+  "invalid_url": "Érvénytelen link!",
+  "paste_button": {
+    "success": "A szöveg beillesztése sikerült!",
+    "error": "A szöveg beillesztése nem sikerült! "
+  },
+  "container": {
+    "auto_bot": "Bot automatikus letöltés",
+    "support_platform": {
+      "title": "Támogatási platform",
+      "description": "Tiktok, Douyin, Capcut, Threads, Instagram, Facebook, Espn, Kuaishou, Pinterest, imdb, imgur, ifunny, Izlesene, Reddit, Youtube, Twitter, Vimeo, Snapchat, Bilibili, Dailymotion, Sharechat, Linkedin, Tumblr, Hipi, Telegram, Getstickerpack, Bitchute, Febspot, 9GAG, oke.ru, Rumble, Streamable, Ted, SohuTv, Xvideos, Xnxx, Xiaohongshu, Weibo, Miaopai, Meipai, Xiaoying, National Video, Yingke, Soundcloud, Mixcloud, Spotify, Zingmp3, Bandcamp."
+    },
+    "title_download": "Töltse le a J2download alkalmazást",
+    "description_title": {
+      "all": "A J2download jelenleg egy olyan alkalmazást biztosít, amely lehetővé teszi videók és hangok letöltését számos különböző közösségi hálózatról. ",
+      "tiktok": "Jelenleg a J2download egy olyan alkalmazást biztosít, amely lehetővé teszi a TikTok videók letöltését. ",
+      "douyin": "A J2download jelenleg egy olyan alkalmazást biztosít, amely lehetővé teszi Douyin videók letöltését. "
+    },
+    "title_f14": {
+      "all": "Tölts le ingyen videókat, képeket, hangokat All In One",
+      "tiktok": "Töltse le ingyenesen a TikTok-videókat logó (vízjel) nélkül",
+      "douyin": "Töltse le ingyenesen a Douyin videókat logó (vízjel) nélkül"
+    },
+    "description_f14": {
+      "all": "A J2download egy olyan eszköz, amellyel ingyenesen letölthet online videókat, képeket és hanganyagokat. ",
+      "tiktok": "A J2download egy eszköz a TikTok videók online letöltéséhez az elmosódott logó nélkül. ",
+      "douyin": "A J2download egy olyan eszköz, amellyel online Douyin videókat tölthet le elmosódott logók nélkül. "
+    },
+    "subtitle_f14": "Fő funkció",
+    "main_function": {
+      "all": {
+        "1": "Videók, képek, hangok letöltése, támogatás Letöltés minden típusú eszközre: mobilra, számítógépre, táblagépre.",
+        "2": "A letöltött videón nem jelenik meg a Tik Tok logó és a felhasználói azonosító a videó felett és alatt, mint a normál letöltéseknél.",
+        "3": "Letöltheti webböngészővel vagy J2download android szoftverrel.",
+        "4": "Minden ingyenes. ",
+        "5": "Támogatja a videók, fényképek, hanganyagok letöltését .mp3, .mp4, .jpg formátumban minden eszközre (PC, Mac, Android, iOS).",
+        "6": "Az új J2download lehetővé teszi a felhasználók számára, hogy fényképeket töltsenek le Mp4 Video formátumban. "
+      },
+      "tiktok": {
+        "1": "TikTok videók letöltése, támogatás TikTok videók letöltése minden típusú eszközre: mobilra, számítógépre, táblagépre. ",
+        "2": "A letöltött videón nem jelenik meg a Tik Tok logó és a felhasználói azonosító a videó felett és alatt, mint a normál letöltéseknél.",
+        "3": "Letöltheti webböngészővel vagy J2download android szoftverrel.",
+        "4": "Minden ingyenes. ",
+        "5": "Támogatja a TikTok videók letöltését .mp3, .mp4 formátumban minden eszközre (PC, Mac, Android, iOS).",
+        "6": "Az új J2download lehetőséget biztosít a felhasználóknak a Tiktok fotódiavetítések letöltésére Mp4 Video formátumban. "
+      },
+      "douyin": {
+        "1": "Douyin videók letöltése, támogatás Douyin videók letöltése minden típusú eszközre: mobilra, számítógépre, táblagépre. ",
+        "2": "A letöltött videón nem jelenik meg a Tik Tok logó és a felhasználói azonosító a videó felett és alatt, mint a normál letöltéseknél.",
+        "3": "Letöltheti webböngészővel vagy J2download android szoftverrel.",
+        "4": "Minden ingyenes. ",
+        "5": "Douyin videók letöltésének támogatása .mp3, .mp4 formátumban minden eszközre (PC, Mac, Android, iOS).",
+        "6": "Az új J2download segítségével a felhasználók letölthetik Douyin diavetítéseit Mp4 Video formátumban. "
+      }
+    }
+  },
+  "faq": {
+    "title": {
+      "all": {
+        "1": "Hogyan töltsünk le videókat vízjel nélkül",
+        "2": "Hová menti a videót a letöltés után?",
+        "3": "A J2download tárolja a letöltött videókat, vagy megőrzi a videó másolatát?",
+        "4": "Kell-e telepítenem bővítményeket?",
+        "5": "Fizetnem kell a videók letöltéséért?",
+        "6": "Hogyan tudom elmenteni/letölteni kedvenc videóimat iPhone/iPad-re (iOS)?",
+        "7": "Letölthetek videókat androidos telefonomra?",
+        "8": "Van-e korlátozás a letöltések számára a J2download videók letöltéséhez?",
+        "9": "Támogatja a J2download több videó letöltését / az összes videó letöltését bizonyos csatornákról / Htagekről?",
+        "10": "Letölthetek nagy felbontású videókat a J2download segítségével?",
+        "11": "Szerkeszthetem a J2download segítségével letöltött videókat?",
+        "12": "A J2download biztosít mp3 letöltési megoldást?"
+      },
+      "tiktok": {
+        "1": "Hogyan töltsünk le TikTok videókat vízjel nélkül",
+        "2": "Hová mentik a TikTok-videókat a letöltés után?",
+        "3": "A J2download tárolja a letöltött videókat, vagy megőrzi a videó másolatát?",
+        "4": "Kell-e telepítenem bővítményeket?",
+        "5": "Fizetnem kell a Tik Tok videók letöltéséért?",
+        "6": "Hogyan lehet elmenteni/letölteni kedvenc Tik Tok videóimat iPhone/iPad-re (iOS)?",
+        "7": "Letölthetek Tik Tok videókat Android telefonomra?",
+        "8": "Van-e korlátozás a letöltések számára a Tiktok-videók letöltéséhez a J2downloadnál?",
+        "9": "A J2download támogatja több videó letöltését / az összes videó letöltését bizonyos tiktok csatornákról / Htagokról?",
+        "10": "Letölthetek nagy felbontású TikTok videókat a J2download segítségével?",
+        "11": "Szerkeszthetem a J2download webhelyen letöltött TikTok-videókat?",
+        "12": "A J2download biztosít tiktok mp3 letöltési megoldást?"
+      },
+      "douyin": {
+        "1": "Douyin videók letöltése vízjel nélkül",
+        "2": "Hová mentik a Douyin-videókat a letöltés után?",
+        "3": "A J2download tárolja a letöltött videókat, vagy megőrzi a videó másolatát?",
+        "4": "Kell-e telepítenem bővítményeket?",
+        "5": "Fizetnem kell a Tik Tok videók letöltéséért?",
+        "6": "Hogyan lehet elmenteni/letölteni kedvenc Tik Tok videóimat iPhone/iPad-re (iOS)?",
+        "7": "Letölthetek Tik Tok videókat Android telefonomra?",
+        "8": "Van-e korlátozás a letöltések számára a Douyin videók letöltéséhez a J2download webhelyen?",
+        "9": "A J2download támogatja több videó letöltését / az összes videó letöltését bizonyos Douyin csatornákról / Htagokról?",
+        "10": "Letölthetek nagy felbontású Douyin videókat a J2download segítségével?",
+        "11": "Szerkeszthetem a J2download webhelyről letöltött Douyin videókat?",
+        "12": "A J2download kínál Douyin mp3 letöltési megoldást?"
+      }
+    },
+    "reply": {
+      "all": {
+        "1": "Nyissa meg az alkalmazást a telefonon. ",
+        "2": "Fájlok letöltése, általában az alapértelmezettként beállított letöltési mappába kerülnek. ",
+        "3": "A J2download nem tartalmaz videókat. ",
+        "4": "Ők nem. ",
+        "5": "Nem, nem kell. ",
+        "6": "Az Apple adatvédelmi irányelvei miatt az IOS 12 és az IPAD OS 12 vagy régebbi verzióiról nem tölthet le videókat, zenéket vagy filmeket iPhone-ra. ",
+        "7": "Igen, de a nagyobb kényelem érdekében javasoljuk a J2download szoftver használatát. ",
+        "8": "Nem, sok kedvenc videóját letöltheti a J2download segítségével anélkül, hogy korlátoznia kellene a letöltések számát.",
+        "9": "Nem, a J2download még nem támogatja ezt a funkciót.",
+        "10": "Igen, a J2download egy videó letöltő, amely a legnagyobb felbontást biztosítja az Ön számára. ",
+        "11": "Nem, a J2download csak egy videóletöltő eszköz, nem támogatja a videószerkesztést. ",
+        "12": "A J2download teljes mp3 zeneletöltést biztosít."
+      },
+      "tiktok": {
+        "1": "Nyissa meg a TikTok alkalmazást a telefonján. ",
+        "2": "Fájlok letöltése, általában az alapértelmezettként beállított letöltési mappába kerülnek. ",
+        "3": "A J2download nem tartalmaz videókat. ",
+        "4": "Ők nem. ",
+        "5": "Nem, nem kell. ",
+        "6": "Az Apple adatvédelmi irányelvei miatt az IOS 12 és az IPAD OS 12 vagy régebbi verzióiról nem tölthet le videókat, zenéket vagy filmeket iPhone-ra. ",
+        "7": "Igen, de a nagyobb kényelem érdekében javasoljuk a J2download szoftver használatát. ",
+        "8": "Nem, sok kedvenc TikTok-videóját letöltheti a J2download segítségével letöltési korlátok nélkül.",
+        "9": "Nem, a J2download még nem támogatja ezt a funkciót.",
+        "10": "Igen, a J2download egy TikTok videó letöltő, amely a legmagasabb felbontást biztosítja az Ön számára. ",
+        "11": "Nem, a J2download csak egy eszköz a TikTok videók letöltésére, nem támogatja a videószerkesztést. ",
+        "12": "A J2download teljes mp3 zeneletöltést biztosít."
+      },
+      "douyin": {
+        "1": "Nyissa meg a Douyin alkalmazást a telefonján. ",
+        "2": "Fájlok letöltése, általában az alapértelmezettként beállított letöltési mappába kerülnek. ",
+        "3": "A J2download nem tartalmaz videókat. ",
+        "4": "Ők nem. ",
+        "5": "Nem, nem kell. ",
+        "6": "Az Apple adatvédelmi irányelvei miatt az IOS 12 és az IPAD OS 12 vagy régebbi verzióiról nem tölthet le videókat, zenéket vagy filmeket iPhone-ra. ",
+        "7": "Igen, de a nagyobb kényelem érdekében javasoljuk a J2download szoftver használatát. ",
+        "8": "Nem, sok kedvenc Douyin-videóját letöltheti a J2download webhelyről letöltési korlátok nélkül.",
+        "9": "Nem, a J2download még nem támogatja ezt a funkciót.",
+        "10": "Igen, a J2download egy Douyin videó letöltő, amely a legnagyobb felbontást biztosítja az Ön számára. ",
+        "11": "Nem, a J2download csak egy Douyin videóletöltő eszköz, nem támogatja a videószerkesztést. ",
+        "12": "A J2download teljes mp3 zeneletöltést biztosít."
+      }
+    }
+  },
+  "alert": {
+    "all": "Megjegyzés: A J2download nem közösségi hálózati eszköz, nincs kapcsolatunk egyik másik féllel sem.  ",
+    "tiktok": "Megjegyzés: A J2download nem a Tiktok eszköze, nincs kapcsolatunk a Tiktokkal vagy a ByteDance Ltd.-vel. ",
+    "douyin": "Megjegyzés: A J2download nem egy douyin eszköz, nincs kapcsolatunk a Douyin-nel vagy a ByteDance Ltd-vel. "
+  },
+  "other": {
+    "how_to_download": {
+      "title_h1": "A J2download használata videók letöltéséhez iOS/Android telefonokon és számítógépeken",
+      "description_h1": "Globális népszerűségével jelentősen megnőtt az igény a videók letöltésére erről a platformról. <br><br>Előfordulhat, hogy egyesek nem akarják, hogy az embléma és a feltöltőazonosító szerepeljen a letöltött videóban. <br><br>Manapság számos ingyenes eszköz létezik videók letöltésére iOS és Android készülékekre, valamint számítógépekre egyaránt. ",
+      "introducing": {
+        "title": "Bemutatkozik a J2download",
+        "description": "<strong>A J2download egy népszerű online videó letöltő, amely lehetővé teszi videók letöltését a webhelyről logók vagy vízjelek nélkül.<br><br>Nem kell semmilyen szoftvert letöltenie számítógépére vagy telefonjára. "
+      },
+      "feature": {
+        "title": "A J2Download főbb jellemzői:",
+        "description": "<p>A következő okok miatt érdemes megtapasztalnia a J2download alkalmazást a videók letöltéséhez:</p><ul><li>Kiváló minőségű videók letöltése logó nélkül.</li><li>Letöltés támogatás <a href=\"/\" title=\"Tải Video\">Videó</a> több eszközön is: mobiltelefonokon, személyi számítógépeken és táblagépeken.</li><li>Teljesen ingyenes és korlátlan: A J2download vállalja, hogy nem számít fel díjat a felhasználóktól.</li><li>Támogatja a videók letöltését .mp3 és .mp4 formátumban minden eszközre (PC, Mac, Android, iOS).</li><li>Elérhető webböngészőn vagy Android alkalmazáson keresztül.</li> </ul>"
+      },
+      "tutorial": {
+        "computer": {
+          "title": "Videók letöltése a J2download segítségével számítógépen/PC-n:",
+          "description": "<p><strong>1. lépés:</strong> Másold ki a letölteni kívánt videó linkjét. <img src=\"/static/png/copy-link-video.png\" alt=\"Sao chép link video web\"></p><p><strong>2. lépés:</strong> Hozzáférés <strong>J2 letöltés</strong> ban ben <a href=\"/\">https://J2download.com</a>.</p><p><strong>3. lépés:</strong> Illessze be a hivatkozást a J2download eszköztárába, és kattintson a \"Letöltés\" gombra. <img src=\"/static/png/download-video.png\" alt=\"Tải xuống video PC\"></p><br>"
+        }
+      },
+      "notice": "<strong>Röviden:</strong> A fenti útmutató elmagyarázza, hogyan tölthet le videókat mindhárom népszerű platformon: Android (Samsung, Oppo stb.), iOS (iPhone, iPad stb.) és számítógépen (PC, MacOS, Windows). "
+    }
+  },
+  "notfound404": {
+    "message": "SAJNÁLJON, AZ OLDAL, AMIT KERES, NEM LÉTEZIK!",
+    "return": "Vissza a kezdőlapra"
+  }
+}

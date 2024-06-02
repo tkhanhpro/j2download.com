@@ -1,0 +1,344 @@
+{
+  "first_name": "J2",
+  "last_name": "Download",
+  "header": {
+    "all": {
+      "title": "Download All In One video",
+      "description": "All In One video download tool is completely free. ",
+      "meta": {
+        "title": "Download videos without logo, watermark, watermark for free",
+        "application_name": "Name of my application",
+        "description": "All In One video download tool is completely free. ",
+        "twitter": {
+          "title": "Download tiktok videos without logo, watermark, watermark for free",
+          "description": "All In One video download tool is completely free. "
+        },
+        "itemprop": {
+          "name": "J2download",
+          "description": "All In One Video Download - J2download.com is one of the best free tools available online to download videos without watermark."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader - Download Video All In One - J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "manG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "tiktok": {
+      "title": "Download tiktok videos without logo, watermark, watermark for free",
+      "description": "Tiktok video download tool without logo, watermark, watermark completely free. ",
+      "meta": {
+        "title": "Download tiktok videos without logo, watermark, watermark for free",
+        "application_name": "Name of my application",
+        "description": "Tiktok video download tool without logo, watermark, watermark completely free. ",
+        "twitter": {
+          "title": "Download tiktok videos without logo, watermark, watermark for free",
+          "description": "Tiktok video download tool without logo, watermark, watermark completely free. "
+        },
+        "itemprop": {
+          "name": "J2download",
+          "description": "TikTok Video Download - J2download.com is one of the best free tools available online to download videos without watermark from TikTok."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader - Download Tiktok Video Without Watermark - J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "manG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "douyin": {
+      "title": "Download Douyin videos without logo, watermark, or watermark for free",
+      "description": "Douyin video download tool has no logo, watermark, or watermark completely free. ",
+      "meta": {
+        "title": "Download Douyin videos without logo, watermark, or watermark for free",
+        "application_name": "J2download",
+        "description": "Douyin video download tool has no logo, watermark, or watermark completely free. ",
+        "twitter": {
+          "title": "Download Douyin videos without logo, watermark, or watermark for free",
+          "description": "Douyin video download tool has no logo, watermark, or watermark completely free. "
+        },
+        "itemprop": {
+          "name": "J2download",
+          "description": "Douyin Video Download - J2download.com is one of the best free tools available online to download videos without watermark from Douyin."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader - Download Tiktok Video Without Watermark - J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "manG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "how_to_download": {
+      "title": "Download videos without logo, watermark, images, audio for free",
+      "description": "Completely free video downloader. ",
+      "meta": {
+        "title": "Download videos without logo, watermark, watermark for free",
+        "application_name": "Name of my application",
+        "description": "Video download tool without logo, watermark, watermark completely free. ",
+        "twitter": {
+          "title": "Download videos without logo, watermark, watermark for free",
+          "description": "Video download tool without logo, watermark, watermark completely free. "
+        },
+        "itemprop": {
+          "name": "J2download",
+          "description": "Video Download - J2download.com is one of the best free tools available online to download videos without watermark."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader - Download Videos Without Watermark - J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "manG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    }
+  },
+  "title": {
+    "all": "Download All In One",
+    "tiktok": "Download TikTok Video",
+    "douyin": "Download Douyin Video",
+    "how_to_download": "How to download videos, photos, audio"
+  },
+  "title_2": {
+    "all": "Fast, easy, free",
+    "tiktok": "No logo, slides, stories, audio",
+    "douyin": "No logo, slides, stories, audio"
+  },
+  "description": {
+    "all": "All In One video download tool is completely free. ",
+    "tiktok": "Download TikTok videos without logo, watermark, or watermark completely free. ",
+    "douyin": "Download Douyin videos without logo, watermark, or watermark completely free. "
+  },
+  "placeholder": "Paste the link here",
+  "paste_icon": "Paste",
+  "clear_icon": "Clear",
+  "download_icon": "Download",
+  "download": "Download",
+  "home": "Home page",
+  "footer": {
+    "privacy_policy": "Privacy Policy",
+    "terms_of_service": "Terms of service",
+    "contact_us": "Contact us",
+    "about_us": "About us",
+    "tool": {
+      "all": "Download video and audio All In One",
+      "tiktok": "Download Tiktok videos, slides, stories",
+      "douyin": "Download videos, slides, stories Douyin",
+      "how_to_download": "How to download videos, photos, audio"
+    }
+  },
+  "share": "Share",
+  "select_language": "Select language",
+  "install_app": {
+    "ios": "/",
+    "android": "/"
+  },
+  "card": {
+    "render_video": "Render video",
+    "preparing_render": "Preparing files to render",
+    "preparing_rendering": "Rendering...",
+    "preparing_render_complete": "Render Completed",
+    "download": "Download",
+    "download_photo": "Download Image",
+    "download_video": "Download Video",
+    "download_server_2": "Download server 2",
+    "download_other_video": "Other download",
+    "download_success": "Downloaded successfully",
+    "download_error": "Download failed",
+    "download_mp3": "Download MP3"
+  },
+  "error": "Error! An error occurred. Please try again later! ",
+  "invalid_url": "Invalid link!",
+  "paste_button": {
+    "success": "Paste text successfully!",
+    "error": "Pasting text failed! "
+  },
+  "container": {
+    "auto_bot": "Bot Auto Download",
+    "support_platform": {
+      "title": "Support platform",
+      "description": "Tiktok, Douyin, Capcut, Threads, Instagram, Facebook, Espn, Kuaishou, Pinterest, imdb, imgur, ifunny, Izlesene, Reddit, Youtube, Twitter, Vimeo, Snapchat, Bilibili, Dailymotion, Sharechat, Linkedin, Tumblr, Hipi, Telegram, Getstickerpack, Bitchute, Febspot, 9GAG, oke.ru, Rumble, Streamable, Ted, SohuTv, Xvideos, Xnxx, Xiaohongshu, Weibo, Miaopai, Meipai, Xiaoying, National Video, Yingke, Soundcloud, Mixcloud, Spotify, Zingmp3, Bandcamp."
+    },
+    "title_download": "Download the J2download application",
+    "description_title": {
+      "all": "J2download currently provides an application that allows downloading videos and audio from many different social networks. ",
+      "tiktok": "Currently J2download provides an application that allows downloading TikTok videos. ",
+      "douyin": "J2download currently provides an application that allows downloading Douyin videos. "
+    },
+    "title_f14": {
+      "all": "Download videos, images, audio All In One for free",
+      "tiktok": "Download TikTok videos without logo (watermark) for free",
+      "douyin": "Download Douyin videos without logo (watermark) for free"
+    },
+    "description_f14": {
+      "all": "J2download is a tool to download videos, images, and audio online for free. ",
+      "tiktok": "J2download is a tool to download TikTok videos online without the blurred logo. ",
+      "douyin": "J2download is a tool to download online Douyin videos without blurry logos. "
+    },
+    "subtitle_f14": "Main function",
+    "main_function": {
+      "all": {
+        "1": "Download videos, images, audio, Support Download on all types of devices: mobile, PC, tablet.",
+        "2": "The downloaded video will not have the Tik Tok logo and User ID stuck above and below the video like normal downloads.",
+        "3": "You can download it using a web browser or J2download android software.",
+        "4": "All free. ",
+        "5": "Supports downloading videos, photos, audio in .mp3, .mp4, .jpg formats for all devices (PC, Mac, Android, iOS).",
+        "6": "The new J2download provides users with the ability to download photo slide shows in Mp4 Video format. "
+      },
+      "tiktok": {
+        "1": "Download TikTok videos, Support Download tiktok videos on all types of devices: mobile, PC, tablet. ",
+        "2": "The downloaded video will not have the Tik Tok logo and User ID stuck above and below the video like normal downloads.",
+        "3": "You can download it using a web browser or J2download android software.",
+        "4": "All free. ",
+        "5": "Support downloading TikTok videos in .mp3, .mp4 format for all devices (PC, Mac, Android, iOS).",
+        "6": "The new J2download provides users with the ability to download Tiktok photo slide shows in Mp4 Video format. "
+      },
+      "douyin": {
+        "1": "Download Douyin videos, Support Download Douyin videos on all types of devices: mobile, PC, tablet. ",
+        "2": "The downloaded video will not have the Tik Tok logo and User ID stuck above and below the video like normal downloads.",
+        "3": "You can download it using a web browser or J2download android software.",
+        "4": "All free. ",
+        "5": "Support downloading Douyin videos in .mp3, .mp4 format for all devices (PC, Mac, Android, iOS).",
+        "6": "The new J2download provides users with the ability to download Douyin's photo slide shows in Mp4 Video format. "
+      }
+    }
+  },
+  "faq": {
+    "title": {
+      "all": {
+        "1": "How to download videos without watermark",
+        "2": "Where is the video saved after it is downloaded?",
+        "3": "Does J2download store downloaded videos or keep a copy of the video?",
+        "4": "Do I need to install extensions?",
+        "5": "Do I have to pay to download videos?",
+        "6": "How to save/download my favorite videos to iPhone/iPad (iOS)?",
+        "7": "Can I download videos on my Android phone?",
+        "8": "Is there a limit to the number of downloads for downloading videos at J2download?",
+        "9": "Does J2download support downloading multiple videos / Downloading all videos from certain channels / Htags?",
+        "10": "Can I download high definition videos at J2download?",
+        "11": "Can I edit videos downloaded at J2download?",
+        "12": "Does J2download provide mp3 download solution?"
+      },
+      "tiktok": {
+        "1": "How to download TikTok Videos without watermark",
+        "2": "Where are TikTok videos saved after being downloaded?",
+        "3": "Does J2download store downloaded videos or keep a copy of the video?",
+        "4": "Do I need to install extensions?",
+        "5": "Do I have to pay to download Tik Tok videos?",
+        "6": "How to save/download my favorite Tik Tok videos to iPhone/iPad (iOS)?",
+        "7": "Can I download Tik Tok videos on my Android phone?",
+        "8": "Is there a limit to the number of downloads for downloading Tiktok videos at J2download?",
+        "9": "Does J2download support downloading multiple videos / Downloading all videos from certain tiktok channels / Htags?",
+        "10": "Can I download high resolution TikTok videos at J2download?",
+        "11": "Can I edit TikTok videos downloaded at J2download?",
+        "12": "Does J2download provide tiktok mp3 download solution?"
+      },
+      "douyin": {
+        "1": "How to download Douyin Videos without watermark",
+        "2": "Where are Douyin videos saved after being downloaded?",
+        "3": "Does J2download store downloaded videos or keep a copy of the video?",
+        "4": "Do I need to install extensions?",
+        "5": "Do I have to pay to download Tik Tok videos?",
+        "6": "How to save/download my favorite Tik Tok videos to iPhone/iPad (iOS)?",
+        "7": "Can I download Tik Tok videos on my Android phone?",
+        "8": "Is there a limit to the number of downloads for downloading Douyin videos at J2download?",
+        "9": "Does J2download support downloading multiple videos / Downloading all videos from certain Douyin channels / Htags?",
+        "10": "Can I download high resolution Douyin videos at J2download?",
+        "11": "Can I edit Douyin videos downloaded at J2download?",
+        "12": "Does J2download provide Douyin mp3 download solution?"
+      }
+    },
+    "reply": {
+      "all": {
+        "1": "Open the app on your phone. ",
+        "2": "Download files, they are usually saved to the download folder you have set as default. ",
+        "3": "J2download does not host videos. ",
+        "4": "Are not. ",
+        "5": "No, you don't have to. ",
+        "6": "Because of Apple's privacy policy, from IOS 12 and IPAD OS 12 and below you cannot download any videos, music or movies to iPhone. ",
+        "7": "Yes, but for more convenience we recommend using the J2download software. ",
+        "8": "No, you can download many of your favorite videos at J2download without having to limit the number of downloads.",
+        "9": "No, J2download does not support this feature yet.",
+        "10": "Yes, J2download is a video downloader that provides the highest resolution for you. ",
+        "11": "No, J2download is only a video download tool, does not support video editing. ",
+        "12": "J2download provides full mp3 music download."
+      },
+      "tiktok": {
+        "1": "Open the TikTok app on your phone. ",
+        "2": "Download files, they are usually saved to the download folder you have set as default. ",
+        "3": "J2download does not host videos. ",
+        "4": "Are not. ",
+        "5": "No, you don't have to. ",
+        "6": "Because of Apple's privacy policy, from IOS 12 and IPAD OS 12 and below you cannot download any videos, music or movies to iPhone. ",
+        "7": "Yes, but for more convenience we recommend using the J2download software. ",
+        "8": "No, you can download many of your favorite TikTok videos at J2download without download limits.",
+        "9": "No, J2download does not support this feature yet.",
+        "10": "Yes, J2download is a TikTok video downloader that provides the highest resolution for you. ",
+        "11": "No, J2download is only a tool to download TikTok videos, it does not support video editing. ",
+        "12": "J2download provides full mp3 music download."
+      },
+      "douyin": {
+        "1": "Open the Douyin app on your phone. ",
+        "2": "Download files, they are usually saved to the download folder you have set as default. ",
+        "3": "J2download does not host videos. ",
+        "4": "Are not. ",
+        "5": "No, you don't have to. ",
+        "6": "Because of Apple's privacy policy, from IOS 12 and IPAD OS 12 and below you cannot download any videos, music or movies to iPhone. ",
+        "7": "Yes, but for more convenience we recommend using the J2download software. ",
+        "8": "No, you can download many of your favorite Douyin videos at J2download without download limits.",
+        "9": "No, J2download does not support this feature yet.",
+        "10": "Yes, J2download is a Douyin video downloader that provides the highest resolution for you. ",
+        "11": "No, J2download is only a Douyin video download tool, does not support video editing. ",
+        "12": "J2download provides full mp3 music download."
+      }
+    }
+  },
+  "alert": {
+    "all": "Note: J2download is not a social network tool, we have no relationship with any 2nd party. We only support users to download our videos without any problems ",
+    "tiktok": "Note: J2download is not a tool of Tiktok, we have no relationship with Tiktok or ByteDance Ltd. ",
+    "douyin": "Note: J2download is not a douyin tool, we have no relationship with Douyin or ByteDance Ltd. "
+  },
+  "other": {
+    "how_to_download": {
+      "title_h1": "How to Use J2download to Download Videos on iOS/Android Phones and Computers",
+      "description_h1": "With its global popularity, the demand for downloading videos from this platform has increased significantly. <br><br>Some people may not want the logo and uploader ID included in the downloaded video. <br><br>Nowadays, there are several free tools to download videos for both iOS and Android devices, as well as computers. ",
+      "introducing": {
+        "title": "Introducing J2download",
+        "description": "<strong>J2download is a popular online video downloader that allows you to download videos from without logos or watermarks.<br><br>You don't need to download any software on your computer or phone. "
+      },
+      "feature": {
+        "title": "Main features of J2download:",
+        "description": "<p>Here are the reasons why you should experience J2download to download videos:</p><ul><li>Download high quality videos without logo.</li><li>Download support <a href=\"/\" title=\"Tải Video\">Video</a> on multiple devices: mobile phones, personal computers and tablets.</li><li>Completely free and unlimited: J2download commits not to charge any fees from users.</li><li>Supports downloading videos in .mp3 and .mp4 formats for all devices (PC, Mac, Android, iOS).</li><li>Accessible via web browser or Android app.</li> </ul>"
+      },
+      "tutorial": {
+        "computer": {
+          "title": "How to download videos using J2download on computer/PC:",
+          "description": "<p><strong>Step 1:</strong> Copy the link of the video you want to download. <img src=\"/static/png/copy-link-video.png\" alt=\"Sao chép link video web\"></p><p><strong>Step 2:</strong> Access <strong>J2download</strong> in <a href=\"/\">https://J2download.com</a>.</p><p><strong>Step 3:</strong> Paste the link into J2download's toolbar and click \"Download\" <img src=\"/static/png/download-video.png\" alt=\"Tải xuống video PC\"></p><br>"
+        }
+      },
+      "notice": "<strong>In short:</strong> The guide above explains how to download videos on all three popular platforms: Android (Samsung, Oppo, etc.), iOS (iPhone, iPad, etc.), and computer (PC, MacOS, Windows). "
+    }
+  },
+  "notfound404": {
+    "message": "SORRY, THE PAGE YOU ARE LOOKING FOR DOES NOT EXIST!",
+    "return": "Return to home page"
+  }
+}

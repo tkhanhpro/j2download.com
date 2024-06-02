@@ -1,0 +1,344 @@
+{
+  "first_name": "J2",
+  "last_name": "Download",
+  "header": {
+    "all": {
+      "title": "Stáhnout video All In One",
+      "description": "Nástroj pro stahování videa All In One je zcela zdarma. ",
+      "meta": {
+        "title": "Stáhnout videa bez loga, vodoznaku, vodoznaku zdarma",
+        "application_name": "Název mé aplikace",
+        "description": "Nástroj pro stahování videa All In One je zcela zdarma. ",
+        "twitter": {
+          "title": "Stáhněte si zdarma tiktok videa bez loga, vodoznaku a vodoznaku",
+          "description": "Nástroj pro stahování videa All In One je zcela zdarma. "
+        },
+        "itemprop": {
+          "name": "J2 ke stažení",
+          "description": "All In One Video Download – J2download.com je jedním z nejlepších bezplatných online nástrojů pro stahování videí bez vodoznaku."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader - Stáhnout Video All In One - J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "manG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "tiktok": {
+      "title": "Stáhněte si zdarma tiktok videa bez loga, vodoznaku a vodoznaku",
+      "description": "Nástroj pro stahování videa Tiktok bez loga, vodoznaku, vodoznaku zcela zdarma. ",
+      "meta": {
+        "title": "Stáhněte si zdarma tiktok videa bez loga, vodoznaku a vodoznaku",
+        "application_name": "Název mé aplikace",
+        "description": "Nástroj pro stahování videa Tiktok bez loga, vodoznaku, vodoznaku zcela zdarma. ",
+        "twitter": {
+          "title": "Stáhněte si zdarma tiktok videa bez loga, vodoznaku a vodoznaku",
+          "description": "Nástroj pro stahování videa Tiktok bez loga, vodoznaku, vodoznaku zcela zdarma. "
+        },
+        "itemprop": {
+          "name": "J2 ke stažení",
+          "description": "TikTok Video Download - J2download.com je jedním z nejlepších bezplatných nástrojů dostupných online pro stahování videí bez vodoznaku z TikTok."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader - Stáhnout Tiktok Video bez vodoznaku - J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "manG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "douyin": {
+      "title": "Stáhněte si zdarma videa Douyin bez loga, vodoznaku nebo vodoznaku",
+      "description": "Nástroj pro stahování videa Douyin nemá žádné logo, vodoznak ani vodoznak zcela zdarma. ",
+      "meta": {
+        "title": "Stáhněte si zdarma videa Douyin bez loga, vodoznaku nebo vodoznaku",
+        "application_name": "J2 ke stažení",
+        "description": "Nástroj pro stahování videa Douyin nemá žádné logo, vodoznak ani vodoznak zcela zdarma. ",
+        "twitter": {
+          "title": "Stáhněte si zdarma videa Douyin bez loga, vodoznaku nebo vodoznaku",
+          "description": "Nástroj pro stahování videa Douyin nemá žádné logo, vodoznak ani vodoznak zcela zdarma. "
+        },
+        "itemprop": {
+          "name": "J2 ke stažení",
+          "description": "Douyin Video Download - J2download.com je jedním z nejlepších bezplatných nástrojů dostupných online pro stahování videí bez vodoznaku od Douyin."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader - Stáhnout Tiktok Video bez vodoznaku - J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "manG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "how_to_download": {
+      "title": "Stáhněte si zdarma videa bez loga, vodoznaku, obrázků a zvuku",
+      "description": "Zcela zdarma ke stažení videa. ",
+      "meta": {
+        "title": "Stáhnout videa bez loga, vodoznaku, vodoznaku zdarma",
+        "application_name": "Název mé aplikace",
+        "description": "Nástroj pro stahování videa bez loga, vodoznaku, vodoznaku zcela zdarma. ",
+        "twitter": {
+          "title": "Stáhnout videa bez loga, vodoznaku, vodoznaku zdarma",
+          "description": "Nástroj pro stahování videa bez loga, vodoznaku, vodoznaku zcela zdarma. "
+        },
+        "itemprop": {
+          "name": "J2 ke stažení",
+          "description": "Video Download – J2download.com je jedním z nejlepších bezplatných nástrojů dostupných online pro stahování videí bez vodoznaku."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader - Stahování videí bez vodoznaku - J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "manG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    }
+  },
+  "title": {
+    "all": "Stáhnout All In One",
+    "tiktok": "Stáhněte si videa TikTok",
+    "douyin": "Stáhnout Douyin videa",
+    "how_to_download": "Jak stahovat videa, fotografie, zvuk"
+  },
+  "title_2": {
+    "all": "Rychle, snadno, zdarma",
+    "tiktok": "Žádné logo, diapozitivy, příběhy, zvuk",
+    "douyin": "Žádné logo, diapozitivy, příběhy, zvuk"
+  },
+  "description": {
+    "all": "Nástroj pro stahování videa All In One je zcela zdarma. ",
+    "tiktok": "Stáhněte si videa TikTok bez loga, vodoznaku nebo vodoznaku zcela zdarma. ",
+    "douyin": "Stáhněte si videa Douyin bez loga, vodoznaku nebo vodoznaku zcela zdarma. "
+  },
+  "placeholder": "Vložte odkaz sem",
+  "paste_icon": "Vložit",
+  "clear_icon": "Vymazat",
+  "download_icon": "Stažení",
+  "download": "Stažení",
+  "home": "Domovská stránka",
+  "footer": {
+    "privacy_policy": "Zásady ochrany osobních údajů",
+    "terms_of_service": "Podmínky služby",
+    "contact_us": "Kontaktujte nás",
+    "about_us": "O nás",
+    "tool": {
+      "all": "Stáhněte si video a zvuk All In One",
+      "tiktok": "Stáhněte si Tiktok videa, diapozitivy, příběhy",
+      "douyin": "Stáhněte si videa, diapozitivy, příběhy Douyin",
+      "how_to_download": "Jak stahovat videa, fotografie, zvuk"
+    }
+  },
+  "share": "Podíl",
+  "select_language": "Zvolte jazyk",
+  "install_app": {
+    "ios": "/",
+    "android": "/"
+  },
+  "card": {
+    "render_video": "Vykreslování videí",
+    "preparing_render": "Preparing files to render",
+    "preparing_rendering": "Rendering...",
+    "preparing_render_complete": "Render Completed",
+    "download": "Stažení",
+    "download_photo": "Stáhnout obrázek",
+    "download_video": "Stahovat videa",
+    "download_server_2": "Stahovací server 2",
+    "download_other_video": "Další stahování",
+    "download_success": "Úspěšně staženo",
+    "download_error": "Stažení se nezdařilo",
+    "download_mp3": "Stáhnout MP3"
+  },
+  "error": "Chyba!  ",
+  "invalid_url": "Neplatný odkaz!",
+  "paste_button": {
+    "success": "Úspěšně vložte text!",
+    "error": "Vložení textu se nezdařilo! "
+  },
+  "container": {
+    "auto_bot": "Automatické stahování robota",
+    "support_platform": {
+      "title": "Platforma podpory",
+      "description": "Tiktok, Douyin, Capcut, Threads, Instagram, Facebook, Espn, Kuaishou, Pinterest, imdb, imgur, ifunny, Izlesene, Reddit, Youtube, Twitter, Vimeo, Snapchat, Bilibili, Dailymotion, Sharechat, Linkedin, Tumblr, Hipi, Telegram, Getstickerpack, Bitchute, Febspot, 9GAG, oke.ru, Rumble, Streamable, Ted, SohuTv, Xvideos, Xnxx, Xiaohongshu, Weibo, Miaopai, Meipai, Xiaoying, National Video, Yingke, Soundcloud, Mixcloud, Spotify, Zingmp3, Bandcamp."
+    },
+    "title_download": "Stáhněte si aplikaci J2download",
+    "description_title": {
+      "all": "J2download v současné době poskytuje aplikaci, která umožňuje stahování videa a zvuku z mnoha různých sociálních sítí. ",
+      "tiktok": "V současné době J2download poskytuje aplikaci, která umožňuje stahování videí TikTok. ",
+      "douyin": "J2download v současné době poskytuje aplikaci, která umožňuje stahování videí Douyin. "
+    },
+    "title_f14": {
+      "all": "Stáhněte si zdarma videa, obrázky, zvuk All In One",
+      "tiktok": "Stáhněte si zdarma videa TikTok bez loga (vodoznaku).",
+      "douyin": "Stáhněte si zdarma videa Douyin bez loga (vodoznaku)."
+    },
+    "description_f14": {
+      "all": "J2download je nástroj pro stahování videí, obrázků a zvuku online zdarma. ",
+      "tiktok": "J2download je nástroj pro stahování videí TikTok online bez rozmazaného loga. ",
+      "douyin": "J2download je nástroj pro stahování online videí Douyin bez rozmazaných log. "
+    },
+    "subtitle_f14": "Hlavní funkce",
+    "main_function": {
+      "all": {
+        "1": "Stahování videí, obrázků, zvuku, Podpora Stahování na všechny typy zařízení: mobil, PC, tablet.",
+        "2": "Stažené video nebude mít logo Tik Tok a ID uživatele přilepené nad a pod videem jako u běžného stahování.",
+        "3": "Můžete si jej stáhnout pomocí webového prohlížeče nebo softwaru J2download pro Android.",
+        "4": "Vše zdarma. ",
+        "5": "Podporuje stahování videí, fotografií, zvuku ve formátech .mp3, .mp4, .jpg pro všechna zařízení (PC, Mac, Android, iOS).",
+        "6": "Nový J2download poskytuje uživatelům možnost stahovat prezentace fotografií ve formátu Mp4 Video. "
+      },
+      "tiktok": {
+        "1": "Stahování videí TikTok, Podpora Stahování videí tiktok na všech typech zařízení: mobil, PC, tablet. ",
+        "2": "Stažené video nebude mít logo Tik Tok a ID uživatele přilepené nad a pod videem jako u běžného stahování.",
+        "3": "Můžete si jej stáhnout pomocí webového prohlížeče nebo softwaru J2download pro Android.",
+        "4": "Vše zdarma. ",
+        "5": "Podpora stahování videí TikTok ve formátu .mp3, .mp4 pro všechna zařízení (PC, Mac, Android, iOS).",
+        "6": "Nový J2download poskytuje uživatelům možnost stahovat prezentace fotografií Tiktok ve formátu Mp4 Video. "
+      },
+      "douyin": {
+        "1": "Stahování videí Douyin, Podpora Stahování videí Douyin na všech typech zařízení: mobil, PC, tablet. ",
+        "2": "Stažené video nebude mít logo Tik Tok a ID uživatele přilepené nad a pod videem jako u běžného stahování.",
+        "3": "Můžete si jej stáhnout pomocí webového prohlížeče nebo softwaru J2download pro Android.",
+        "4": "Vše zdarma. ",
+        "5": "Podpora stahování Douyin videí ve formátu .mp3, .mp4 pro všechna zařízení (PC, Mac, Android, iOS).",
+        "6": "Nový J2download poskytuje uživatelům možnost stahovat Douyinovy ​​fotografické prezentace ve formátu Mp4 Video. "
+      }
+    }
+  },
+  "faq": {
+    "title": {
+      "all": {
+        "1": "Jak stahovat videa bez vodoznaku",
+        "2": "Kam se video po stažení uloží?",
+        "3": "Ukládá J2download stažená videa nebo uchovává kopii videa?",
+        "4": "Musím instalovat rozšíření?",
+        "5": "Musím za stahování videí platit?",
+        "6": "Jak uložit/stáhnout moje oblíbená videa do iPhone/iPad (iOS)?",
+        "7": "Mohu si do telefonu Android stáhnout videa?",
+        "8": "Existuje nějaký limit na počet stažení pro stahování videí na J2download?",
+        "9": "Podporuje J2download stahování více videí / stahování všech videí z určitých kanálů / Htagů?",
+        "10": "Mohu si stáhnout videa ve vysokém rozlišení na J2download?",
+        "11": "Mohu upravovat videa stažená na J2download?",
+        "12": "Poskytuje J2download řešení pro stahování mp3?"
+      },
+      "tiktok": {
+        "1": "Jak stahovat videa TikTok bez vodoznaku",
+        "2": "Kam se ukládají videa TikTok po stažení?",
+        "3": "Ukládá J2download stažená videa nebo uchovává kopii videa?",
+        "4": "Musím instalovat rozšíření?",
+        "5": "Musím za stahování videí Tik Tok platit?",
+        "6": "Jak uložit/stáhnout moje oblíbená videa Tik Tok do iPhone/iPad (iOS)?",
+        "7": "Mohu si stáhnout videa Tik Tok do svého telefonu Android?",
+        "8": "Existuje nějaký limit na počet stažení pro stahování videí Tiktok na J2download?",
+        "9": "Podporuje J2download stahování více videí / stahování všech videí z určitých kanálů tiktok / Htagů?",
+        "10": "Mohu si stáhnout videa TikTok ve vysokém rozlišení na J2download?",
+        "11": "Mohu upravovat videa TikTok stažená na J2download?",
+        "12": "Poskytuje J2download řešení pro stahování mp3 tiktok?"
+      },
+      "douyin": {
+        "1": "Jak stahovat videa Douyin bez vodoznaku",
+        "2": "Kam se ukládají videa Douyin po stažení?",
+        "3": "Ukládá J2download stažená videa nebo uchovává kopii videa?",
+        "4": "Musím instalovat rozšíření?",
+        "5": "Musím za stahování videí Tik Tok platit?",
+        "6": "Jak uložit/stáhnout moje oblíbená videa Tik Tok do iPhone/iPad (iOS)?",
+        "7": "Mohu si stáhnout videa Tik Tok do svého telefonu Android?",
+        "8": "Existuje nějaký limit na počet stažení pro stahování Douyin videí na J2download?",
+        "9": "Podporuje J2download stahování více videí / stahování všech videí z určitých kanálů Douyin / Htagů?",
+        "10": "Mohu si stáhnout Douyin videa ve vysokém rozlišení na J2download?",
+        "11": "Mohu upravovat videa Douyin stažená na J2download?",
+        "12": "Poskytuje J2download řešení pro stahování mp3 Douyin?"
+      }
+    },
+    "reply": {
+      "all": {
+        "1": "Otevřete aplikaci v telefonu. ",
+        "2": "Stahujte soubory, obvykle se ukládají do složky pro stahování, kterou jste nastavili jako výchozí. ",
+        "3": "J2download nehostuje videa. ",
+        "4": "Nejsou. ",
+        "5": "Ne, nemusíš. ",
+        "6": "Kvůli zásadám ochrany osobních údajů společnosti Apple z IOS 12 a IPAD OS 12 a nižších nemůžete do iPhone stahovat žádná videa, hudbu ani filmy. ",
+        "7": "Ano, ale pro větší pohodlí doporučujeme použít software J2download. ",
+        "8": "Ne, na J2download si můžete stáhnout mnoho svých oblíbených videí, aniž byste museli omezovat počet stahování.",
+        "9": "Ne, J2download zatím tuto funkci nepodporuje.",
+        "10": "Ano, J2download je video downloader, který vám poskytuje nejvyšší rozlišení. ",
+        "11": "Ne, J2download je pouze nástroj pro stahování videa, nepodporuje úpravy videa. ",
+        "12": "J2download poskytuje úplné stahování hudby ve formátu mp3."
+      },
+      "tiktok": {
+        "1": "Otevřete v telefonu aplikaci TikTok. ",
+        "2": "Stahujte soubory, obvykle se ukládají do složky pro stahování, kterou jste nastavili jako výchozí. ",
+        "3": "J2download nehostuje videa. ",
+        "4": "Nejsou. ",
+        "5": "Ne, nemusíš. ",
+        "6": "Kvůli zásadám ochrany osobních údajů společnosti Apple z IOS 12 a IPAD OS 12 a nižších nemůžete do iPhone stahovat žádná videa, hudbu ani filmy. ",
+        "7": "Ano, ale pro větší pohodlí doporučujeme použít software J2download. ",
+        "8": "Ne, mnoho svých oblíbených videí TikTok si můžete stáhnout na J2download bez omezení stahování.",
+        "9": "Ne, J2download zatím tuto funkci nepodporuje.",
+        "10": "Ano, J2download je stahovač videa TikTok, který vám poskytuje nejvyšší rozlišení. ",
+        "11": "Ne, J2download je pouze nástroj pro stahování videí TikTok, nepodporuje úpravy videa. ",
+        "12": "J2download poskytuje úplné stahování hudby ve formátu mp3."
+      },
+      "douyin": {
+        "1": "Otevřete v telefonu aplikaci Douyin. ",
+        "2": "Stahujte soubory, obvykle se ukládají do složky pro stahování, kterou jste nastavili jako výchozí. ",
+        "3": "J2download nehostuje videa. ",
+        "4": "Nejsou. ",
+        "5": "Ne, nemusíš. ",
+        "6": "Kvůli zásadám ochrany osobních údajů společnosti Apple z IOS 12 a IPAD OS 12 a nižších nemůžete do iPhone stahovat žádná videa, hudbu ani filmy. ",
+        "7": "Ano, ale pro větší pohodlí doporučujeme použít software J2download. ",
+        "8": "Ne, mnoho svých oblíbených Douyin videí si můžete stáhnout na J2download bez omezení stahování.",
+        "9": "Ne, J2download zatím tuto funkci nepodporuje.",
+        "10": "Ano, J2download je Douyin video downloader, který vám poskytuje nejvyšší rozlišení. ",
+        "11": "Ne, J2download je pouze nástroj pro stahování videa Douyin, nepodporuje úpravy videa. ",
+        "12": "J2download poskytuje úplné stahování hudby ve formátu mp3."
+      }
+    }
+  },
+  "alert": {
+    "all": "Poznámka: J2download není nástroj sociální sítě, nemáme žádný vztah s žádnou druhou stranou.  ",
+    "tiktok": "Poznámka: J2download není nástroj Tiktok, nemáme žádný vztah s Tiktok nebo ByteDance Ltd. ",
+    "douyin": "Poznámka: J2download není nástroj douyin, nemáme žádný vztah s Douyin nebo ByteDance Ltd. "
+  },
+  "other": {
+    "how_to_download": {
+      "title_h1": "Jak používat J2download ke stahování videí na telefonech a počítačích iOS/Android",
+      "description_h1": "S její celosvětovou popularitou výrazně vzrostla poptávka po stahování videí z této platformy. <br><br>Někteří lidé možná nebudou chtít, aby stažené video obsahovalo logo a ID uživatele, který video nahrál. <br><br>V současné době existuje několik bezplatných nástrojů pro stahování videí pro zařízení iOS a Android a také pro počítače. ",
+      "introducing": {
+        "title": "Představujeme J2download",
+        "description": "<strong>J2download je populární online stahovač videa, který vám umožňuje stahovat videa z bez log nebo vodoznaků.<br><br>Do počítače nebo telefonu nemusíte stahovat žádný software. "
+      },
+      "feature": {
+        "title": "Hlavní funkce J2download:",
+        "description": "<p>Zde jsou důvody, proč byste měli zažít J2download pro stahování videí:</p><ul><li>Stáhněte si vysoce kvalitní videa bez loga.</li><li>Stáhněte si podporu <a href=\"/\" title=\"Tải Video\">Video</a> na více zařízeních: mobilní telefony, osobní počítače a tablety.</li><li>Zcela zdarma a neomezeně: J2download se zavazuje, že nebude od uživatelů účtovat žádné poplatky.</li><li>Podporuje stahování videí ve formátech .mp3 a .mp4 pro všechna zařízení (PC, Mac, Android, iOS).</li><li>Přístupné prostřednictvím webového prohlížeče nebo aplikace pro Android.</li> </ul>"
+      },
+      "tutorial": {
+        "computer": {
+          "title": "Jak stahovat videa pomocí J2download do počítače/PC:",
+          "description": "<p><strong>Krok 1:</strong> Zkopírujte odkaz na video, které chcete stáhnout. <img src=\"/static/png/copy-link-video.png\" alt=\"Sao chép link video web\"></p><p><strong>Krok 2:</strong> Přístup <strong>J2 ke stažení</strong> v <a href=\"/\">https://J2download.com</a>.</p><p><strong>Krok 3:</strong> Vložte odkaz do panelu nástrojů J2download a klikněte na \"Stáhnout\" <img src=\"/static/png/download-video.png\" alt=\"Tải xuống video PC\"></p><br>"
+        }
+      },
+      "notice": "<strong>Ve zkratce:</strong> Výše uvedená příručka vysvětluje, jak stahovat videa na všech třech populárních platformách: Android (Samsung, Oppo atd.), iOS (iPhone, iPad atd.) a počítač (PC, MacOS, Windows). "
+    }
+  },
+  "notfound404": {
+    "message": "OMLOUVÁME SE, STRÁNKA, KTEROU HLEDÁTE, NEEXISTUJE!",
+    "return": "Návrat na domovskou stránku"
+  }
+}

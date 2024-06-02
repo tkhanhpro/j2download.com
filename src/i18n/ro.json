@@ -1,0 +1,344 @@
+{
+  "first_name": "J2",
+  "last_name": "Download",
+  "header": {
+    "all": {
+      "title": "Descărcați videoclipul All In One",
+      "description": "Instrumentul de descărcare video All In One este complet gratuit. ",
+      "meta": {
+        "title": "Descărcați videoclipuri fără logo, filigran, filigran gratuit",
+        "application_name": "Numele aplicației mele",
+        "description": "Instrumentul de descărcare video All In One este complet gratuit. ",
+        "twitter": {
+          "title": "Descărcați gratuit videoclipuri tiktok fără logo, filigran, filigran",
+          "description": "Instrumentul de descărcare video All In One este complet gratuit. "
+        },
+        "itemprop": {
+          "name": "J2 descărcare",
+          "description": "Descărcare video All In One - J2download.com este unul dintre cele mai bune instrumente gratuite disponibile online pentru a descărca videoclipuri fără filigran."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader - Descarcă video All In One - J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "manG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "tiktok": {
+      "title": "Descărcați gratuit videoclipuri tiktok fără logo, filigran, filigran",
+      "description": "Instrument de descărcare video Tiktok fără logo, filigran, filigran complet gratuit. ",
+      "meta": {
+        "title": "Descărcați gratuit videoclipuri tiktok fără logo, filigran, filigran",
+        "application_name": "Numele aplicației mele",
+        "description": "Instrument de descărcare video Tiktok fără logo, filigran, filigran complet gratuit. ",
+        "twitter": {
+          "title": "Descărcați gratuit videoclipuri tiktok fără logo, filigran, filigran",
+          "description": "Instrument de descărcare video Tiktok fără logo, filigran, filigran complet gratuit. "
+        },
+        "itemprop": {
+          "name": "J2 descărcare",
+          "description": "Descărcare video TikTok - J2download.com este unul dintre cele mai bune instrumente gratuite disponibile online pentru a descărca videoclipuri fără filigran de la TikTok."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader - Descarcă video Tiktok fără filigran - J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "manG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "douyin": {
+      "title": "Descărcați gratuit videoclipuri Douyin fără logo, filigran sau filigran",
+      "description": "Instrumentul de descărcare video Douyin nu are logo, filigran sau filigran complet gratuit. ",
+      "meta": {
+        "title": "Descărcați gratuit videoclipuri Douyin fără logo, filigran sau filigran",
+        "application_name": "J2 descărcare",
+        "description": "Instrumentul de descărcare video Douyin nu are logo, filigran sau filigran complet gratuit. ",
+        "twitter": {
+          "title": "Descărcați gratuit videoclipuri Douyin fără logo, filigran sau filigran",
+          "description": "Instrumentul de descărcare video Douyin nu are logo, filigran sau filigran complet gratuit. "
+        },
+        "itemprop": {
+          "name": "J2 descărcare",
+          "description": "Descărcare video Douyin - J2download.com este unul dintre cele mai bune instrumente gratuite disponibile online pentru a descărca videoclipuri fără filigran de la Douyin."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader - Descarcă video Tiktok fără filigran - J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "manG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    },
+    "how_to_download": {
+      "title": "Descărcați videoclipuri fără logo, filigran, imagini, audio gratuit",
+      "description": "Descărcător video complet gratuit. ",
+      "meta": {
+        "title": "Descărcați videoclipuri fără logo, filigran, filigran gratuit",
+        "application_name": "Numele aplicației mele",
+        "description": "Instrument de descărcare video fără logo, filigran, filigran complet gratuit. ",
+        "twitter": {
+          "title": "Descărcați videoclipuri fără logo, filigran, filigran gratuit",
+          "description": "Instrument de descărcare video fără logo, filigran, filigran complet gratuit. "
+        },
+        "itemprop": {
+          "name": "J2 descărcare",
+          "description": "Descărcare video - J2download.com este unul dintre cele mai bune instrumente gratuite disponibile online pentru a descărca videoclipuri fără filigran."
+        },
+        "fb_app_id": "fb:app_id",
+        "og_title": "J2 Downloader - Descarcă videoclipuri fără filigran - J2download",
+        "og_image": "/static/png/homepage-web.png"
+      },
+      "links": {
+        "author": "manG",
+        "icon": {
+          "href": "/static/png/favicon.png",
+          "size": "32x32"
+        }
+      }
+    }
+  },
+  "title": {
+    "all": "Descărcați All In One",
+    "tiktok": "Descărcați videoclipuri TikTok",
+    "douyin": "Descărcați videoclipuri Douyin",
+    "how_to_download": "Cum să descărcați videoclipuri, fotografii, audio"
+  },
+  "title_2": {
+    "all": "Rapid, ușor, gratuit",
+    "tiktok": "Fără logo, slide-uri, povești, audio",
+    "douyin": "Fără logo, slide-uri, povești, audio"
+  },
+  "description": {
+    "all": "Instrumentul de descărcare video All In One este complet gratuit. ",
+    "tiktok": "Descărcați videoclipuri TikTok fără logo, filigran sau filigran complet gratuit. ",
+    "douyin": "Descărcați videoclipuri Douyin fără logo, filigran sau filigran complet gratuit. "
+  },
+  "placeholder": "Lipiți linkul aici",
+  "paste_icon": "Pastă",
+  "clear_icon": "Şterge",
+  "download_icon": "Descarca",
+  "download": "Descarca",
+  "home": "pagina principala",
+  "footer": {
+    "privacy_policy": "Politica de confidențialitate",
+    "terms_of_service": "Termenii serviciului",
+    "contact_us": "Contactaţi-ne",
+    "about_us": "Despre noi",
+    "tool": {
+      "all": "Descărcați video și audio All In One",
+      "tiktok": "Descărcați videoclipuri Tiktok, diapozitive, povești",
+      "douyin": "Descărcați videoclipuri, diapozitive, povești Douyin",
+      "how_to_download": "Cum să descărcați videoclipuri, fotografii, audio"
+    }
+  },
+  "share": "Acțiune",
+  "select_language": "Selecteaza limba",
+  "install_app": {
+    "ios": "/",
+    "android": "/"
+  },
+  "card": {
+    "render_video": "Redați videoclipuri",
+    "preparing_render": "Preparing files to render",
+    "preparing_rendering": "Rendering...",
+    "preparing_render_complete": "Render Completed",
+    "download": "Descarca",
+    "download_photo": "Descărcați imaginea",
+    "download_video": "Descarcă videoclipuri",
+    "download_server_2": "Descărcați serverul 2",
+    "download_other_video": "Alte descărcări",
+    "download_success": "Descărcat cu succes",
+    "download_error": "Descarcare esuata",
+    "download_mp3": "Descărcați MP3"
+  },
+  "error": "Eroare!  ",
+  "invalid_url": "Link invalid!",
+  "paste_button": {
+    "success": "Lipiți textul cu succes!",
+    "error": "Lipirea textului nu a reușit! "
+  },
+  "container": {
+    "auto_bot": "Descărcare automată a botului",
+    "support_platform": {
+      "title": "Platforma de suport",
+      "description": "TTiktok, Douyin, Capcut, Threads, Instagram, Facebook, Espn, Kuaishou, Pinterest, imdb, imgur, ifunny, Izlesene, Reddit, Youtube, Twitter, Vimeo, Snapchat, Bilibili, Dailymotion, Sharechat, Linkedin, Tumblr, Hipi, Telegram, Getstickerpack, Bitchute, Febspot, 9GAG, oke.ru, Rumble, Streamable, Ted, SohuTv, Xvideos, Xnxx, Xiaohongshu, Weibo, Miaopai, Meipai, Xiaoying, National Video, Yingke, Soundcloud, Mixcloud, Spotify, Zingmp3, Bandcamp."
+    },
+    "title_download": "Descărcați aplicația J2download",
+    "description_title": {
+      "all": "J2download oferă în prezent o aplicație care permite descărcarea videoclipurilor și audio din multe rețele sociale diferite. ",
+      "tiktok": "În prezent, J2download oferă o aplicație care permite descărcarea videoclipurilor TikTok. ",
+      "douyin": "J2download oferă în prezent o aplicație care permite descărcarea videoclipurilor Douyin. "
+    },
+    "title_f14": {
+      "all": "Descărcați videoclipuri, imagini, audio All In One gratuit",
+      "tiktok": "Descărcați videoclipuri TikTok fără logo (filigran) gratuit",
+      "douyin": "Descărcați gratuit videoclipuri Douyin fără logo (filigran)."
+    },
+    "description_f14": {
+      "all": "J2download este un instrument de descărcare gratuită a videoclipurilor, imaginilor și audio online. ",
+      "tiktok": "J2download este un instrument pentru a descărca videoclipuri TikTok online fără logo-ul neclar. ",
+      "douyin": "J2download este un instrument pentru a descărca videoclipuri online Douyin fără logo-uri neclare. "
+    },
+    "subtitle_f14": "Functie principala",
+    "main_function": {
+      "all": {
+        "1": "Descărcați videoclipuri, imagini, audio, Asistență Descărcare pe toate tipurile de dispozitive: mobil, PC, tabletă.",
+        "2": "Videoclipul descărcat nu va avea sigla Tik Tok și ID-ul utilizatorului blocate deasupra și dedesubtul videoclipului, ca la descărcări normale.",
+        "3": "Îl puteți descărca folosind un browser web sau J2download software Android.",
+        "4": "Toate gratuite. ",
+        "5": "Acceptă descărcarea videoclipurilor, fotografiilor, audio în formate .mp3, .mp4, .jpg pentru toate dispozitivele (PC, Mac, Android, iOS).",
+        "6": "Noul J2download oferă utilizatorilor posibilitatea de a descărca prezentări de fotografii în format video Mp4. "
+      },
+      "tiktok": {
+        "1": "Descărcați videoclipuri TikTok, Asistență Descărcați videoclipuri TikTok pe toate tipurile de dispozitive: mobil, computer, tabletă. ",
+        "2": "Videoclipul descărcat nu va avea sigla Tik Tok și ID-ul utilizatorului blocate deasupra și dedesubtul videoclipului, ca la descărcări normale.",
+        "3": "Îl puteți descărca folosind un browser web sau J2download software Android.",
+        "4": "Toate gratuite. ",
+        "5": "Acceptă descărcarea videoclipurilor TikTok în format .mp3, .mp4 pentru toate dispozitivele (PC, Mac, Android, iOS).",
+        "6": "Noul J2download oferă utilizatorilor posibilitatea de a descărca prezentări de diapozitive foto Tiktok în format video Mp4. "
+      },
+      "douyin": {
+        "1": "Descărcați videoclipuri Douyin, suport Descărcați videoclipuri Douyin pe toate tipurile de dispozitive: mobil, computer, tabletă. ",
+        "2": "Videoclipul descărcat nu va avea sigla Tik Tok și ID-ul utilizatorului blocate deasupra și dedesubtul videoclipului, ca la descărcări normale.",
+        "3": "Îl puteți descărca folosind un browser web sau J2download software Android.",
+        "4": "Toate gratuite. ",
+        "5": "Acceptă descărcarea videoclipurilor Douyin în format .mp3, .mp4 pentru toate dispozitivele (PC, Mac, Android, iOS).",
+        "6": "Noul J2download oferă utilizatorilor posibilitatea de a descărca expozițiile de fotografii ale lui Douyin în format video Mp4. "
+      }
+    }
+  },
+  "faq": {
+    "title": {
+      "all": {
+        "1": "Cum să descărcați videoclipuri fără filigran",
+        "2": "Unde este salvat videoclipul după ce este descărcat?",
+        "3": "J2download stochează videoclipurile descărcate sau păstrează o copie a videoclipului?",
+        "4": "Trebuie să instalez extensii?",
+        "5": "Trebuie să plătesc pentru a descărca videoclipuri?",
+        "6": "Cum salvez/descarc videoclipurile mele preferate pe iPhone/iPad (iOS)?",
+        "7": "Pot descărca videoclipuri pe telefonul meu Android?",
+        "8": "Există o limită a numărului de descărcări pentru descărcarea videoclipurilor la J2download?",
+        "9": "J2download acceptă descărcarea mai multor videoclipuri / Descărcarea tuturor videoclipurilor de pe anumite canale / Htag-uri?",
+        "10": "Pot descărca videoclipuri de înaltă definiție de la J2download?",
+        "11": "Pot edita videoclipuri descărcate la J2download?",
+        "12": "J2download oferă o soluție de descărcare mp3?"
+      },
+      "tiktok": {
+        "1": "Cum să descărcați videoclipuri TikTok fără filigran",
+        "2": "Unde sunt salvate videoclipurile TikTok după ce au fost descărcate?",
+        "3": "J2download stochează videoclipurile descărcate sau păstrează o copie a videoclipului?",
+        "4": "Trebuie să instalez extensii?",
+        "5": "Trebuie să plătesc pentru a descărca videoclipuri Tik Tok?",
+        "6": "Cum salvez/descarc videoclipurile mele preferate Tik Tok pe iPhone/iPad (iOS)?",
+        "7": "Pot descărca videoclipuri Tik Tok pe telefonul meu Android?",
+        "8": "Există o limită a numărului de descărcări pentru descărcarea videoclipurilor Tiktok la J2download?",
+        "9": "J2download acceptă descărcarea mai multor videoclipuri / Descărcarea tuturor videoclipurilor de pe anumite canale tiktok / Htag-uri?",
+        "10": "Pot descărca videoclipuri TikTok de înaltă rezoluție la J2download?",
+        "11": "Pot edita videoclipuri TikTok descărcate la J2download?",
+        "12": "J2download oferă o soluție de descărcare mp3 tiktok?"
+      },
+      "douyin": {
+        "1": "Cum să descărcați videoclipuri Douyin fără filigran",
+        "2": "Unde sunt salvate videoclipurile Douyin după ce au fost descărcate?",
+        "3": "J2download stochează videoclipurile descărcate sau păstrează o copie a videoclipului?",
+        "4": "Trebuie să instalez extensii?",
+        "5": "Trebuie să plătesc pentru a descărca videoclipuri Tik Tok?",
+        "6": "Cum salvez/descarc videoclipurile mele preferate Tik Tok pe iPhone/iPad (iOS)?",
+        "7": "Pot descărca videoclipuri Tik Tok pe telefonul meu Android?",
+        "8": "Există o limită a numărului de descărcări pentru descărcarea videoclipurilor Douyin la J2download?",
+        "9": "J2download acceptă descărcarea mai multor videoclipuri / Descărcarea tuturor videoclipurilor de pe anumite canale Douyin / Htag-uri?",
+        "10": "Pot descărca videoclipuri Douyin de înaltă rezoluție la J2download?",
+        "11": "Pot edita videoclipuri Douyin descărcate la J2download?",
+        "12": "J2download oferă Douyin soluție de descărcare mp3?"
+      }
+    },
+    "reply": {
+      "all": {
+        "1": "Deschideți aplicația pe telefon. ",
+        "2": "Descărcați fișiere, acestea sunt de obicei salvate în folderul de descărcare pe care l-ați setat ca implicit. ",
+        "3": "J2download nu găzduiește videoclipuri. ",
+        "4": "Nu sunt. ",
+        "5": "Nu, nu trebuie. ",
+        "6": "Din cauza politicii de confidențialitate a Apple, de la IOS 12 și IPAD OS 12 și mai jos nu puteți descărca niciun videoclip, muzică sau filme pe iPhone. ",
+        "7": "Da, dar pentru mai multă comoditate vă recomandăm să utilizați software-ul de descărcare J2. ",
+        "8": "Nu, puteți descărca multe dintre videoclipurile dvs. preferate de la J2download fără a fi nevoie să limitați numărul de descărcări.",
+        "9": "Nu, J2download nu acceptă încă această caracteristică.",
+        "10": "Da, J2download este un program de descărcare video care vă oferă cea mai înaltă rezoluție. ",
+        "11": "Nu, J2download este doar un instrument de descărcare video, nu acceptă editarea video. ",
+        "12": "J2download oferă descărcare completă de muzică mp3."
+      },
+      "tiktok": {
+        "1": "Deschideți aplicația TikTok pe telefon. ",
+        "2": "Descărcați fișiere, acestea sunt de obicei salvate în folderul de descărcare pe care l-ați setat ca implicit. ",
+        "3": "J2download nu găzduiește videoclipuri. ",
+        "4": "Nu sunt. ",
+        "5": "Nu, nu trebuie. ",
+        "6": "Din cauza politicii de confidențialitate a Apple, de la IOS 12 și IPAD OS 12 și mai jos nu puteți descărca niciun videoclip, muzică sau filme pe iPhone. ",
+        "7": "Da, dar pentru mai multă comoditate vă recomandăm să utilizați software-ul de descărcare J2. ",
+        "8": "Nu, poți descărca multe dintre videoclipurile tale preferate TikTok la J2download fără limite de descărcare.",
+        "9": "Nu, J2download nu acceptă încă această caracteristică.",
+        "10": "Da, J2download este un program de descărcare video TikTok care vă oferă cea mai înaltă rezoluție. ",
+        "11": "Nu, J2download este doar un instrument pentru a descărca videoclipuri TikTok, nu acceptă editarea video. ",
+        "12": "J2download oferă descărcare completă de muzică mp3."
+      },
+      "douyin": {
+        "1": "Deschideți aplicația Douyin pe telefon. ",
+        "2": "Descărcați fișiere, acestea sunt de obicei salvate în folderul de descărcare pe care l-ați setat ca implicit. ",
+        "3": "J2download nu găzduiește videoclipuri. ",
+        "4": "Nu sunt. ",
+        "5": "Nu, nu trebuie. ",
+        "6": "Din cauza politicii de confidențialitate a Apple, de la IOS 12 și IPAD OS 12 și mai jos nu puteți descărca niciun videoclip, muzică sau filme pe iPhone. ",
+        "7": "Da, dar pentru mai multă comoditate vă recomandăm să utilizați software-ul de descărcare J2. ",
+        "8": "Nu, poți descărca multe dintre videoclipurile tale preferate Douyin la J2download fără limite de descărcare.",
+        "9": "Nu, J2download nu acceptă încă această caracteristică.",
+        "10": "Da, J2download este un program de descărcare video Douyin care vă oferă cea mai înaltă rezoluție. ",
+        "11": "Nu, J2download este doar un instrument de descărcare video Douyin, nu acceptă editarea video. ",
+        "12": "J2download oferă descărcare completă de muzică mp3."
+      }
+    }
+  },
+  "alert": {
+    "all": "Notă: J2download nu este un instrument de rețea socială, nu avem nicio relație cu o terță parte.  ",
+    "tiktok": "Notă: J2download nu este un instrument Tiktok, nu avem nicio relație cu Tiktok sau ByteDance Ltd. ",
+    "douyin": "Notă: J2download nu este un instrument douyin, nu avem nicio relație cu Douyin sau ByteDance Ltd. "
+  },
+  "other": {
+    "how_to_download": {
+      "title_h1": "Cum să utilizați J2download pentru a descărca videoclipuri pe telefoane și computere iOS/Android",
+      "description_h1": "Cu popularitatea sa globală, cererea de descărcare a videoclipurilor de pe această platformă a crescut semnificativ. <br><br>Este posibil ca unele persoane să nu dorească ca sigla și ID-ul utilizatorului de încărcare să fie incluse în videoclipul descărcat. <br><br>În zilele noastre, există mai multe instrumente gratuite pentru a descărca videoclipuri atât pentru dispozitivele iOS și Android, cât și pentru computere. ",
+      "introducing": {
+        "title": "Vă prezentăm J2download",
+        "description": "<strong>J2download este un popular program de descărcare video online care vă permite să descărcați videoclipuri fără logo-uri sau filigrane.<br><br>Nu trebuie să descărcați niciun software pe computer sau pe telefon. "
+      },
+      "feature": {
+        "title": "Principalele caracteristici ale J2download:",
+        "description": "<p>Iată motivele pentru care ar trebui să experimentați J2download pentru a descărca videoclipuri:</p><ul><li>Descărcați videoclipuri de înaltă calitate fără logo.</li><li>Asistență pentru descărcare <a href=\"/\" title=\"Tải Video\">Video</a> pe mai multe dispozitive: telefoane mobile, computere personale și tablete.</li><li>Complet gratuit și nelimitat: J2download se angajează să nu perceapă nicio taxă de la utilizatori.</li><li>Acceptă descărcarea videoclipurilor în formatele .mp3 și .mp4 pentru toate dispozitivele (PC, Mac, Android, iOS).</li><li>Accesibil prin browser web sau aplicație Android.</li> </ul>"
+      },
+      "tutorial": {
+        "computer": {
+          "title": "Cum să descărcați videoclipuri folosind J2download pe computer/PC:",
+          "description": "<p><strong>Pasul 1:</strong> Copiați linkul videoclipului pe care doriți să îl descărcați. <img src=\"/static/png/copy-link-video.png\" alt=\"Sao chép link video web\"></p><p><strong>Pasul 2:</strong> Acces <strong>J2 descărcare</strong> în <a href=\"/\">https://J2download.com</a>.</p><p><strong>Pasul 3:</strong> Lipiți linkul în bara de instrumente J2download și faceți clic pe „Descărcați” <img src=\"/static/png/download-video.png\" alt=\"Tải xuống video PC\"></p><br>"
+        }
+      },
+      "notice": "<strong>În scurt:</strong> Ghidul de mai sus explică cum să descărcați videoclipuri pe toate cele trei platforme populare: Android (Samsung, Oppo etc.), iOS (iPhone, iPad etc.) și computer (PC, MacOS, Windows). "
+    }
+  },
+  "notfound404": {
+    "message": "SCUZE, PAGINA CĂUTAȚI NU EXISTA!",
+    "return": "Reveniți la pagina de start"
+  }
+}
