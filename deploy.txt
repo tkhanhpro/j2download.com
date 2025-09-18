@@ -1,4 +1,4 @@
 scp -rp -P 22 ./dist/ root@45.77.33.182:/var/www/html/dist
 oS3}kr[6cB3!wbyR
 
-scp -rp -P 22 ./dist/ root@47.250.144.76:/var/www/j2download.com/dist
+scp -rp -P 22 ./dist/ root@47.250.144.76:/var/www/tk-down.vercel.app/dist
